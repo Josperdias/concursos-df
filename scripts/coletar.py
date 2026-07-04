@@ -10,11 +10,14 @@ import json, re, html, datetime, os
 
 # Consultas: cada uma vira uma busca no Google Notícias. Ajuste como quiser.
 QUERIES = [
-    "concurso Distrito Federal edital",
-    "concurso DF inscrições abertas",
-    'concurso (PCDF OR PMDF OR CBMDF OR "Sefaz DF" OR TCDF OR CLDF) edital',
-    'concurso (INSS OR "Banco do Brasil" OR Caixa OR IBGE) edital',
-    'concurso (CGU OR TCU OR STF OR tribunais) Brasília edital',
+    "concursos abertos Distrito Federal",
+    "concurso DF inscrições abertas edital",
+    "concurso Distrito Federal edital 2026",
+    'concurso (PCDF OR PMDF OR CBMDF OR "Sefaz DF" OR TCDF OR CLDF OR "Detran DF" OR "Sedes DF" OR SEEDF) edital',
+    'concurso (INSS OR "Banco do Brasil" OR Caixa OR IBGE OR BRB) edital',
+    'concurso (CGU OR TCU OR STF OR STJ OR TST OR TSE OR TJDFT OR "Câmara dos Deputados") Brasília edital',
+    "concurso federal Brasília nível médio edital",
+    "concurso federal Brasília nível superior edital",
 ]
 RSS = "https://news.google.com/rss/search?q={q}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
 DIAS = 3650          # janela: ignora notícias mais antigas que isso
