@@ -17,8 +17,8 @@ QUERIES = [
     'concurso (CGU OR TCU OR STF OR tribunais) Brasília edital',
 ]
 RSS = "https://news.google.com/rss/search?q={q}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
-DIAS = 75          # janela: ignora notícias mais antigas que isso
-MAX_ITENS = 45     # máximo de itens guardados
+DIAS = 3650          # janela: ignora notícias mais antigas que isso
+MAX_ITENS = 10000     # máximo de itens guardados
 
 ORGAOS = ["PCDF", "PMDF", "CBMDF", "Sefaz-DF", "Sefaz DF", "TCDF", "CLDF", "Detran-DF",
           "Sedes-DF", "SEEDF", "SEDF", "INSS", "Banco do Brasil", "Caixa", "IBGE", "CGU",
