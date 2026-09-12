@@ -1,12 +1,28 @@
 {
-  "gerado_em": "2026-09-11",
+  "gerado_em": "2026-09-12",
   "fonte": "Google Notícias (RSS)",
   "itens": [
     {
-      "titulo": "Concursos DF: validade congelada e nova regra para ano eleitoral",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjZZY0U0RzBLZGNHaENobHI5bGpubGt2QWJ0a3pRUFRHd1lYRVNBcldZWnExOWJMQUk4YmdpVXZhUjByTlYxa3pYMGE5YkY2T3hlcUFNR1hfRndFRERmaDhWSm1ZRk01UlBNRWtpcE5sZ3I3bktodmlPS0I4elNYbi1hUkNUbHRKZVdHWkJDUVNYQURWTHRwVWo0eU9CTXpYNjktSE5wQ2FsNlRX0gGyAUFVX3lxTE9UYmhacnVkLXlTR283T0JGYXdTOWpzcWhoVFNtekZYOHRMdm1uTmhoaTVRZVF6Qkh3QVQ1Qy1la29jb3U2ZHFYVmdIQmFZdFFPM3NEVC1uSjRjQ05ZckhEYWJ1dk5oYTZCVl9jaVlXUFJlbVVGUHZPMXl2OHcxUVE5OUNnTU5ubDdOalNFZ29SNk9qeFRoUVlJRGUtbFlTUV9aNDBjMDl4dURVcHB2akxFaUE?oc=5",
+      "titulo": "Concurso SEDF 2026: secretário prevê edital até novembro",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQldnd0lCQXV5T1gweTB4Y0VFVW9maV9BZFRsQTFjc055T0FXcllMZWJGU1M1clRkTDQwY0FQUjVtQ0lYT3pnTG5NQms3QUJpbzFDLU9iYlVqZTJEWDdQUS16aU55ek5iY2E1TGZUMHJfTko3Y3BhTGZsWm1waVRMNmxtS01fNHMxY0Nv0gGQAUFVX3lxTE9HR2ZpTWtGWW5DU1VLdGNhcEEzZ19vLXJUSUpuLW81T2xUNmVhWXYtTEdiRG9QUUxtS1VfMGVOTTZyS0kzOHNCNGVFakdUdk1vaEVsTUotRzVBcmFhZHdscW9fMTZDZFRqWUtJSVFrbkFPQm1RcUR2SGVmVEVLLWNaRDNOU3NRWDlxLVFUajVoUA?oc=5",
       "fonte": "Estratégia Concursos",
-      "data": "2026-09-11",
+      "data": "2026-09-12",
+      "orgao": "SEDF",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso PMDF Oficial: encerrado o prazo para envio da FIC!",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42YzhJUzhCVlh2OWo5aDljYW5URU9ldVVzeGRLajhmRlpudmlWZHl6X0pGX1JiWmRCcGcyRGVCR3p0Ynp0eUpQSFZodTdkOWhYbG5WbHAyWkVXZEZzWTk3bQ?oc=5",
+      "fonte": "Magistrar",
+      "data": "2026-09-12",
+      "orgao": "PMDF",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concursos 2026: mais de 160 mil vagas; salários de até R$ 30 mil!",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iLUJTOXJENkVDSTBLc2tSZnZRY3FFd1JOVlYxcUpISkF2eFlmOEZiUDMxZ3lmaUVlUndvb0swSmUtUTZSREk5akVwWHV2NEZ0WDNlc0YtbXZrbnA2SkhVYUE1UUZJcmZXZk1j0gFwQVVfeXFMTS0tZkFJRWxPWXFoYXlyNFBOZ2JwLWpXRkRzalhVX0FVc0hydWFpOFRKNnJPdFRvN0tVZmJ5ekEtSUh3V0ZBV1ZlU0pVZVZMcWJBaEtzZENuNUNocFF2WTlSbjJBSXdlaGRmS25uTWpibA?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-09-12",
       "orgao": "",
       "status": "Novidade"
     },
@@ -19,6 +35,14 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concursos DF: validade congelada e nova regra para ano eleitoral",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjZZY0U0RzBLZGNHaENobHI5bGpubGt2QWJ0a3pRUFRHd1lYRVNBcldZWnExOWJMQUk4YmdpVXZhUjByTlYxa3pYMGE5YkY2T3hlcUFNR1hfRndFRERmaDhWSm1ZRk01UlBNRWtpcE5sZ3I3bktodmlPS0I4elNYbi1hUkNUbHRKZVdHWkJDUVNYQURWTHRwVWo0eU9CTXpYNjktSE5wQ2FsNlRX0gGyAUFVX3lxTE9UYmhacnVkLXlTR283T0JGYXdTOWpzcWhoVFNtekZYOHRMdm1uTmhoaTVRZVF6Qkh3QVQ1Qy1la29jb3U2ZHFYVmdIQmFZdFFPM3NEVC1uSjRjQ05ZckhEYWJ1dk5oYTZCVl9jaVlXUFJlbVVGUHZPMXl2OHcxUVE5OUNnTU5ubDdOalNFZ29SNk9qeFRoUVlJRGUtbFlTUV9aNDBjMDl4dURVcHB2akxFaUE?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-09-11",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Sefaz DF: governadora anuncia prioridade para edital com 265 vagas e cadastros",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlRfUVJZZVVyQTVQU29xSmJJdXRTRG05ZEtKYm1xZjk0djNxb1ZIRmo2b21rUS1ibUJ0aEpibFRjX1l5VW9mQkFSbVJBVEtWQTdHTVFkblk5Nm1oV25SY0lYRVdOUVJIYVZ1RlRuZl9CZVF2QVdlck1fVFREZG9SRElKQldORmRHZ0tGZjdTSXc3UTJuRnNBYXRpay1BWXhtRHJtWWxlTTZwWVVJRGhXUVFhMThzX3JnWXZMVnZoaDVjMmlwVkROY1BBNGhPZEpWZ3pTYdIB2gFBVV95cUxQQ0hjaTRVamhseVVKMG1aVmpqTmFtNE9ONzBQUFpaYXFjREJNSGZzWjZPQ0NtNHhkSW5FSVMzV1RjNmMzVnd6MlBMQTRVblJJVFduRGVBTEgzLXVHcVFXX202WDI2dXRQckxPQjd2aUt6MXdpbUdWV0ZXRGRDX0xVWTN3dmRlOEN1MXg2eWVmTWtlSkRfRklZNmdESkRvUFZHejUxdG90QjJuLXhFRWZwZFBNSlktSkU4SlY2d2NmcUtHbDRVM1g3ZzBjNi1RM28zS3gxc2M5bHpOdw?oc=5",
       "fonte": "JC Concursos",
@@ -27,12 +51,28 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Psicologia: vagas abertas e editais previstos!",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jNEZIQmRQX1otLUlrQzJXNjNKcGtseHhWR0tick5BUjB2RFFSNmV1YmVIcGg5d0xSTVJ4S29SMnhDeHZxYWdaMkhQc2NGQWQyOHNIeXU5eHF2ZlF3V2p1WFRLWHhXbFVWdkl4TTh3N0dCUdIBd0FVX3lxTE14VThRNVBBZkxFX2VwbnZWV0xtRTlHRTVHMXV4bUF2akxwaGx5aVVfOWk4VGxaYlhON2Ewd3RZbVdVbGh1SzF2Ukt4Ul9BU19lcDRQeUs2QkhhTEpjQzJMa253N0NCZmxpWnhfdFRSTDQ4WTVOMFlN?oc=5",
+      "titulo": "Concurso SEDES DF: está aberto o prazo para interpor recurso",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QNm1rZW8teFE1UXpaNE9sNjFvUUprZDR0b2gzTFktVHl6RDdFUGxTQ1UtMUt6VHFTQ2lZUnVzOXlwYTFuMG1JLUxCM2VEWGNZdEQ0QjdwUmtiLTJXVTFlSGlDcjdlYkgwVTVUN0psdThWTzZfUExZ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-11",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concursos Nível Médio 2026: vagas em diversas áreas!",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YZGpMeWJWeHVVQzR0M3FudWc2WmhhNVg3bGhaUDRLUnQtUjNaM1RldTJLWlJOVEFWVmdUM0RHN25Oc2ZoUUlVVi15QUowUW54VnpLUW9BT1FYZmoyeGJyLVpFSlBWa1NOaWJGajRxRW5YUm920gF6QVVfeXFMUFNzZ3dETmVhWWVVaEpNdFExWHFqalBWMVFhRVc3OXBTOThXOERjczhMZldWU0ZCcFlVUmhwN2w5YVprOHFnQjdCMGhwVnpuR3NaaEI3dTBXWFcwRk4yNWptakI3bFlsSzlQeEpwN3dzcjdrM1NLUlVmdkE?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-09-11",
       "orgao": "",
-      "status": "Previsto"
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso Sefaz DF: governadora reafirma compromisso com edital",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGRfczR0STNZeFh5M3BvdTBaNWhmWmtpX1BPc2xneGI2WTFGM0VaWXpGWEJLZTl1bU9tVHdSd3dOSFhHTUg3SGhxY0hsQmtnRkFONUVCUnJQdzFlSEdzNnNiVDZTX0JQcVctNHBoX0xHYlNYSkh4MlFGd0Ywci1iZFhLQVVyS2hsT2I1UXA0QVl5ckJSbmJZSG1MTDUwMHp0eU1Oaw?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-09-11",
+      "orgao": "Sefaz DF",
+      "status": "Novidade"
     },
     {
       "titulo": "Concurso Sefaz DF: Governadora promete novo edital",
@@ -43,27 +83,35 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso SEDF: banca em breve; 10.604 vagas!",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUFVVOGxBblFsalBBUVJFZ3pOSkdDSmxwMTdJT2paYkRnYzd5SEFKdjFaRE82REt4NDNaRWlzOTJhYkdrTHhUaGxFNzIxNTJCQmQwdDNIUlRLLWxwZHJCdEQxU1MwN2RyLUHSAW9BVV95cUxNby15UkEyUElEWGQzU19RbnBNbEZ6eUlLNmxQTkJEVEFXQWxXSTRtRGZwSVlhTENFV2NhQlVlQ09tTzNYT2JhVTF4WFFxeHlSSVBEZUZuaGpjUUhhQkdsb3pBNmtxUlNheXBrVzFzOVU?oc=5",
-      "fonte": "Estratégia Concursos",
+      "titulo": "Concurso SEDF 2026: veja a distribuição das 10.604 vagas!",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0M4QkI4WVY2cW1Bb21sVzlEV1FTRFpRLU5ZSWNSZnRMdU9FSGxkVTEwWk1tTmtxUGJvQm1WdDgzcGszV05RQVhjaTI0bUhjbVgwU1NlTl93eWRlZkdWZTZvaWlBWjFJMDNEelJNZU9RN3lDZGtCNjhPaWNEZnFRcVRFTXViV1Nv?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-11",
       "orgao": "SEDF",
-      "status": "Banca definida"
+      "status": "Novidade"
     },
     {
-      "titulo": "E-Books Estratégia: Materiais gratuitos para sua preparação!",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ITTZjQXFWbjRYRmt5SHFGTWVYZE9rQzVmUlUxc0toYTAtRlhMTlhINHkyNlEtazNQRll0Y2ZIbUMwTVdDV2dxR0tpZVl1WXBObVgzck1kdWpoeHVJM29LR2pUN3FGbk0zWnRJN2p1LU7SAXZBVV95cUxPMVRyeHhDWEp6czVRdjBOR19oNnRaMlZydjVsV2dUYTJCRG5BRjI0dmw3dGxJb2d3ZXU5M185UUxEbEQ0bFpaazNXSHRfS0R4QVRiNnlMNy04QWVaYVZUcHVmUDRVQXp4Sl9PMTcxdWZ2VVF5cXZ3?oc=5",
+      "titulo": "Concursos Fiscais 2026: salários acima dos R$ 30 mil!",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zbm9FOXg1ZFNRZkQ0ZUFxQUs4UWxIaFRkekpkanRZeEplWXpSZlZQV2VwQVZ5V2MzV2NMZ05VeGMyVmM0X2p3US0ySXpBRVNVbEpXU190Y2M5c0FLUG95Wm5VQ2o3Sm5NbVc5Q0tINNIBdEFVX3lxTFBTMVhIVGRBZzFHOW44cldkTEdqdGctUzM1a3JwaVotOGtCQTlpMldSODUyM2J0cllNemd6c3NwZTV6WHJLd0U3N25HdFFVRUxDdFFVRllwRWNfbWJ0RWpNMzNkTURQbWtsc01qOXQtbXRLQzFj?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-09-11",
       "orgao": "",
       "status": "Novidade"
     },
     {
-      "titulo": "Concursos 2026: mais de 160 mil vagas; salários de até R$ 30 mil!",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iLUJTOXJENkVDSTBLc2tSZnZRY3FFd1JOVlYxcUpISkF2eFlmOEZiUDMxZ3lmaUVlUndvb0swSmUtUTZSREk5akVwWHV2NEZ0WDNlc0YtbXZrbnA2SkhVYUE1UUZJcmZXZk1j0gFwQVVfeXFMTS0tZkFJRWxPWXFoYXlyNFBOZ2JwLWpXRkRzalhVX0FVc0hydWFpOFRKNnJPdFRvN0tVZmJ5ekEtSUh3V0ZBV1ZlU0pVZVZMcWJBaEtzZENuNUNocFF2WTlSbjJBSXdlaGRmS25uTWpibA?oc=5",
+      "titulo": "Concursos Legislativos 2026: confira os editais previstos",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zaGZ2T0lLRl9EeFBkbWF5ajY0QVNraTlQVHhDeGFaZTgzeHJRZWk4RHhJSEk3MGo0LTVpemlmNlptMGNHVG5NN042Z0lQUEZoV25BOUtiZlNVbGgxblRtZG9NZ3FzaGdSS2hBT3gwbHJsMDNJVi1OdmtQRdIBgAFBVV95cUxQSXNteTJKUnlkcXR0WGd4d1diZzM5ZFZkcE1yYm9WaDNNU2p4Z3M1MzdWMVotTnBjMEk1aXhxNDNQSWZfWHZXak9ONDhrNHdGanduNzd3YjlzTnJCNnp2RHBaWkQ4NHZOcWF6QWZOUkxiN0hUNHR0cjZlVXloQ0JZLQ?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-09-11",
       "orgao": "",
+      "status": "Previsto"
+    },
+    {
+      "titulo": "Concurso INSS: candidatos à Presidência são cobrados por novo edital",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3hxbVd6U2F4Q0x0WGMwY2pHOGhYcjF5Rmcyd0FaUXZjY0JVU0FyeXNpVnlNdHRNaVFrZ3U2YkE5SURNSTA2d0RPMWtWb09HLXdNX0d3aUgzQWRCTDZNeUo3Q25vZUIydXlEaUtKb1VUV3VSV2dYUlRnNW9xV2tYNkdQQk9NN0w4ZDh2Ymk2Z3d5WC1lbjFjQQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-11",
+      "orgao": "INSS",
       "status": "Novidade"
     },
     {
@@ -75,28 +123,44 @@
       "status": "Resultado"
     },
     {
-      "titulo": "Concurso Sefaz DF: governadora confirma autorização",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUZnRXA5YnpRSmtGNmxYLXNPUE1hb1hNaFJFZjVqbVRhOFVnTUlJcXc2czNLMklWc1ZpZ2FERXBOMFhaaC1TVUQtT1F2TGtQUFY0QTZxRlVoSUxGZTZsYm9kb2FqZG1USnNVV1lIZEwwcXJVaW1XLWFpRWNwdkpvYzBidkRtdFhFMTl6ODFR0gGUAUFVX3lxTE5HNlc0QnBIMW5McW5JaHJrS3hQa3NHMFZqRlFfcWIzRElxTkhuSzVyT244Vk1EZEtSSnhXY2w0TlFqMWlydGp6WE9yUnVRamRjWnBwR1Znamo2WWF0YlZvVmVad2ExYU5XMy1hMkRXOTFLTnNKNWNYOUJ3azFQbWJjNzk3b1JvYWRGMWpUcWhYS3FSY0Q?oc=5",
+      "titulo": "Concursos Ambientais: editais abertos e vagas previstas!",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzNE52OGZBWDR0ekJHd1RQWTdxTklvczlTbnlBZk1UUHp4T1JtaTlyUTktblV1UTQyTHJzTmxTU0ptNzZLTHVCbFBYTWVOZW5wUGkwQ3RVYkFhWFlVZWtzMkpUV2ZsY01yR3o4Uk1TRWkwcDDSAXhBVV95cUxQZ2NXMzhodlVaRmlQZzgwVWNnTC0tekFjOG5iOFkyVGQ2aXktenlpRWFWV3E2XzNzMXF2UzVqczFUUXpSbE9QWTlaamQxZTFpRGNBMlNrLVk1dTloRVZoOU9McVNaeVM1cWh3S1BIZ1h1TkNUTTlvc3A?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-09-10",
-      "orgao": "Sefaz DF",
-      "status": "Autorizado"
+      "orgao": "",
+      "status": "Previsto"
     },
     {
       "titulo": "Concursos Distrito Federal: CLDF aprova suspensão da validade",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEtZeG8tczlqZzAtSTRmNFpvbllyT1RtMWFPQmduTG1raDUxMmo5c1NVNzgzbjRmeGlaT0pBX0FuTWlpdFdtczF1SDBSTF9tb2p6X1h0WHlCMENBbUpkOEs1T1JjTk9laXJCWXRmLXZWWUZ2ZDd2enhlZ2VXazlITFMxYk5fYlNnbGltNWJaZFVJZw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-10",
       "orgao": "CLDF",
       "status": "Novidade"
     },
     {
+      "titulo": "Governadora sinaliza avanço no Concurso Sefaz DF",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRG01ZlNzOGxiNk5MZGVGUnR2N1hQX0ZwY1k2QnBneTREZ3dHM3NXdGxBcHJWSmp2d3FvWU9zYS10U3NrRUJYenQ3UW1EaHVSd21odTJ2RFJ3Z2ZkRXpEdjhTek9XeEhTWUJIM1JyUzZicGZjajVSb2FhLVBoRl9faWVUUHoyUEwzeDh0djlkc9IBlAFBVV95cUxORzZXNEJwSDFuTHFuSWhya0t4UGtzRzBWakZRX3FiM0RJcU5Ibks1ck9uOFZNRGRLUkp4V2NsNE5RajFpcnRqelhPclJ1UWpkY1pwcEdWZ2pqNllhdGJWb1ZlWndhMWFOVzMtYTJEVzkxS05zSjVjWDlCd2sxUG1iYzc5N29Sb2FkRjFqVHFoWEtxUmNE?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-09-10",
+      "orgao": "Sefaz DF",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso SEDES DF: gabaritos disponíveis. Saiba como consultar!",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3JxWmRkNW5ObWtreS1tbmItVDRxNEJzbW1kcXFkU2ZpZXV1aDkwRGx4VGJDczdJU1VVY19hVV84WlI2UURQdkFtOVdjdEVELWFJMXluQkNfaVJlajhqNm15R01sOXhIQ1lrTzFsUURfQWVhYndVREtjTGd4SnFUbWZ0U0lCNWM?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-10",
       "orgao": "",
       "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso Odontologia: vagas abertas e editais previstos!",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yU2V6UWpnUW1yS3RQc29ZX3FadzU5eUVDS2JkUXlOU3RHTzRuWkl5YlRJMkRIdm0zRjFfcGVkWVRKS2t0cVRLd0g1aFpBYWpwMFVvMWZaVzVvaEtiZDd3TnUwRzQtLUhaNFJia0tma2NkQlnSAXhBVV95cUxORDVMNHZmckFCbGJESXFqWm93WERxUUxvUWZ1eThmcnhLNDFHZ0RmQXdIQm5HcDFndVJ3TFhWOXhYWWZkMVhYNEpJM3dpMFZuZmQweElqY3RYR0pUZWp6elk4QzZ6LXpSczVuWWF1SDBIR09IakRIeWw?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-09-10",
+      "orgao": "",
+      "status": "Previsto"
     },
     {
       "titulo": "Concurso Fonoaudiologia: vagas abertas e editais previstos!",
@@ -109,7 +173,7 @@
     {
       "titulo": "Concurso Sefaz DF: governadora promete edital em 2026!",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWtpanpBMk40dTAtTzFCdDloMC1NOFktQm9FMjBya1c0dlg0dXlIdW1iTExjMnZyR0MyaDVfNVZuU1FZT2lKVk9oLTczQ01sMkU3cWp2ZE9jS1ZCVEJhTzJKTER4c2JfdGhxZC01UnZpUG5qc2FSSmQ4bUNBd0ZqemdiOHNKekZ2YzNGdXk2WkgyMWlM?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-10",
       "orgao": "Sefaz DF",
       "status": "Novidade"
@@ -131,9 +195,17 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso SEDF 2026: banca será escolhida em setembro!",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzdwNF9xOVJ0YzFvTExUZXp4R0dGUHRucmJFTnh1VnhxZVkxdGpqSDhYQUduaDNIM0NIN3ZGN2JqMkgwNlA1YjBWbTlGZXBMcnVXTGp2MGVFSmd6U2pTV0N5Wkt3UGp1cGpFV192cDAzcGpjSVVEZXNndFQ4VW9xSA?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-10",
+      "orgao": "SEDF",
+      "status": "Banca definida"
+    },
+    {
       "titulo": "Concurso Câmara dos Deputados 2026: novo edital em setembro!",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjUwVXFIaVlwQ3VGMlRQTWZod1RKcU1kU2dTWEV2SFhEZEtJclhXYzZnM3dzX3NGcnVhRWZVTXpWNXdxYlpoSjJDN2hjWWkzZ3E1RDhKdUtydVE5dzNZMTA5aVlFREhBWDVXSVlXcjJucTRCdjljaWc2dUVLVll4dDlsWmRQOHdpVVAtS0VvUQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-10",
       "orgao": "Câmara",
       "status": "Novidade"
@@ -147,12 +219,12 @@
       "status": "Banca definida"
     },
     {
-      "titulo": "Concurso SEDF 2026: banca será escolhida em setembro!",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzdwNF9xOVJ0YzFvTExUZXp4R0dGUHRucmJFTnh1VnhxZVkxdGpqSDhYQUduaDNIM0NIN3ZGN2JqMkgwNlA1YjBWbTlGZXBMcnVXTGp2MGVFSmd6U2pTV0N5Wkt3UGp1cGpFV192cDAzcGpjSVVEZXNndFQ4VW9xSA?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "titulo": "Concurso Câmara dos Deputados: cronograma já está em definição",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQekJrZGViN0I2UnhJYzJUbE55TUdSb25VMUlwS20xOHhBS19DMENNZkNYbF9qbXZTTGYzWmlYMnNNLUJaVlBycHFORVQ3MzdINUJHbmZzTFJCVDhicHN2VjF5bW55TkdkWEtfa29fNTdPbnhYRjRRSW1XdjVETndfMjRYLXRWcnFvclJZZUxWeEZNOHc?oc=5",
+      "fonte": "Qconcursos Folha Dirigida",
       "data": "2026-09-10",
-      "orgao": "SEDF",
-      "status": "Banca definida"
+      "orgao": "Câmara",
+      "status": "Novidade"
     },
     {
       "titulo": "Concursos Polícia Civil para setembro de 2026: veja editais previstos e com inscrições abertas!",
@@ -165,15 +237,39 @@
     {
       "titulo": "Concurso Sefaz DF: 265 vagas, edital em fase de instrução!",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zOEZNbmJ0cHRXWnE2SndYYlJTcHVyZTA4M2R3SDJfeFNjMVk5OC12TUJLUVF5OFMzZ0cyeHI2amc5MGdhS2QxbzMzYXR0ZHE3QW42dS1LVjA5LVdqbHB3UEstQVhIUQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-10",
       "orgao": "Sefaz DF",
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso SEDF: banca em breve; 10.604 vagas!",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUFVVOGxBblFsalBBUVJFZ3pOSkdDSmxwMTdJT2paYkRnYzd5SEFKdjFaRE82REt4NDNaRWlzOTJhYkdrTHhUaGxFNzIxNTJCQmQwdDNIUlRLLWxwZHJCdEQxU1MwN2RyLUHSAW9BVV95cUxNby15UkEyUElEWGQzU19RbnBNbEZ6eUlLNmxQTkJEVEFXQWxXSTRtRGZwSVlhTENFV2NhQlVlQ09tTzNYT2JhVTF4WFFxeHlSSVBEZUZuaGpjUUhhQkdsb3pBNmtxUlNheXBrVzFzOVU?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-09-10",
+      "orgao": "SEDF",
+      "status": "Banca definida"
+    },
+    {
+      "titulo": "E-Books Estratégia: Materiais gratuitos para sua preparação!",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ITTZjQXFWbjRYRmt5SHFGTWVYZE9rQzVmUlUxc0toYTAtRlhMTlhINHkyNlEtazNQRll0Y2ZIbUMwTVdDV2dxR0tpZVl1WXBObVgzck1kdWpoeHVJM29LR2pUN3FGbk0zWnRJN2p1LU7SAXZBVV95cUxPMVRyeHhDWEp6czVRdjBOR19oNnRaMlZydjVsV2dUYTJCRG5BRjI0dmw3dGxJb2d3ZXU5M185UUxEbEQ0bFpaazNXSHRfS0R4QVRiNnlMNy04QWVaYVZUcHVmUDRVQXp4Sl9PMTcxdWZ2VVF5cXZ3?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-09-10",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso Banco do Brasil 2026: Prepare-se com Cursos do Qconcursos",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBS0ZqNGhacFc0S216Z2pfUW1qblNHY1FHbW9TXzJGcVRaY0kyYmZyR3Z3TF9VZDNCZDF0dk54UXpSakRUbGFpWHkyM2N0cW9yOHctSTQ2RGtwaGZBWWYwMzZ3?oc=5",
+      "fonte": "Qconcursos",
+      "data": "2026-09-10",
+      "orgao": "Banco do Brasil",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Banco do Brasil: empregados paralisam por novo edital",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aamctNUFyZlJKYXZKd0RTbzJEYVl4dm85bDR4YkZJMHBkbFBKOEdFcDVfRF9ualFRdVJNT2hLbFJkTnhKWjl1eWVYUE4tR0NsQjFSTW1hUXNlMWphZVJWbEVnam54amdBX3c1WGZlZUNQUHdNTlE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-10",
       "orgao": "Banco do Brasil",
       "status": "Novidade"
@@ -187,6 +283,14 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Como será a prova para o novo concurso IBGE Recenseador?",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenZ4S1d5NEFMZnV2Z0wwcFo5enpTS0wzUndobXhnb2RwYVdSc1ZpMUFqWGlYWFFvTERRZzNKR1A1WHh6U21RRHFnMnlRLXNvR1BZTjgybEd1b1BGdjdXOVQ3aTIyUENpOUpRT0QyTzB5cXBiQW9JaFVlcG1tU2IzbUZZXzc4aGxCSGhuNkZfelFNcVU?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-10",
+      "orgao": "IBGE",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Câmara dos Deputados: 150 vagas, edital em setembro",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON19fV1NIMEhLbldCUk02YmNSOU1wRFlkRVRaWW1QSERON05JNjVUZFR1OHpNd3p3bGJWSTBSZkxkSDMzMmU1ZGpuN2hlU3dKdlJpLTNQODFIOGZnM2pRUEpsY0MxazA2V2Z0WmZDZGs0T3JMdDlHMlRTV2hyNVgwMW5MaFQyVVNpUFVmemIxeG5vSzFSMW1NWmZTS2I5a1U?oc=5",
       "fonte": "Nova Concursos",
@@ -195,20 +299,20 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Como será a prova para o novo concurso IBGE Recenseador?",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenZ4S1d5NEFMZnV2Z0wwcFo5enpTS0wzUndobXhnb2RwYVdSc1ZpMUFqWGlYWFFvTERRZzNKR1A1WHh6U21RRHFnMnlRLXNvR1BZTjgybEd1b1BGdjdXOVQ3aTIyUENpOUpRT0QyTzB5cXBiQW9JaFVlcG1tU2IzbUZZXzc4aGxCSGhuNkZfelFNcVU?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-09-10",
-      "orgao": "IBGE",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso do Cofen prevê 16 vagas e salário inicial de R$ 18,9 mil",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlRCYVdEcWtxQVpIZ1RSdFJ2NXUwa1JvV094UWY3S1NnakhoLUY4dDl3dFJhMWNwd3lhcWtqbXd2clNoOGZEdGdVYnlxUy1GZVpuVkFwc1lzczRjaVUtWXJhNWhMZF9LVGI4WEZ4S2d0cUV1eXNCRkxJOE8zYldxNDlaMXF5dWlkSzNnbFRUa0Q2OFZDbTlfcERFcmFZMUEzRFJEc2VRZlNKZWJNUE9kSWdB?oc=5",
-      "fonte": "Francês News",
+      "titulo": "Concurso GCM Guarulhos: saiu o edital com 200 vagas",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM29kalRaZ2otSVNSMnNQR2tVRG5QSmxJcVBIeWVUNGl4T2ctMi1Ha1J1UFhrT2lCMEJXRlVza3lXZU9ITVFSUzU5ZlFrbUtHeE1vNFNjYXRwcFRDQkxWX1VCbW5fdVFKZVF2NTg0d2dMakFlZ2dZT3lEd3BnM0l5am03RVVidVY4Tmd3QkpaR2ZtUG8?oc=5",
+      "fonte": "Nova Concursos",
       "data": "2026-09-10",
       "orgao": "",
-      "status": "Novidade"
+      "status": "Edital publicado"
+    },
+    {
+      "titulo": "Concursos Bancos 2026/2027: veja editais previstos para sair em breve",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1lFWHBBRy1iSy1ZTU9wODBhcEI1aldzdzZzSTZmcGFyamRONXVoLWE5UDlhTjFIT2VtdWtDR291NzNPRFB0N2ZrLWQ2QllNekk1czEwQjh4SHdRUGhUNlQ4VTBhY0FWUXJ2Z0o3S1lmYUJ2V0Q1SUJ0OWRWRUdqU3JjR0E2M3lPQkYwZTN6R3BRcVdJQl9pMk5TSGZnaS13czkzbkpCRDVjejNTM1ZFLTVDS1RXYTTSAbwBQVVfeXFMUGg1YWdHM1U0THZFUlNYc3IzdlpJR295YVFUYWc1aE4wV0VxVU5DNFpnQmVjMTZqT3J3WjZLcUpGeXd5bjI5SDFZbmM0ZE53bERVZ0FrTzNEMUcyUVhYalNuS25zTkdHczFiYUFIRHlhV3pmZFg3TlpLb0dQZnQ3eG5wSkFXNXc4ZTNMaGdvLWZmMHhkSjlCSVN1ZDdfYUtEVW04MUVKZzBMNkw3RGRnRmpvSkplb2RoZGFnSm4?oc=5",
+      "fonte": "acheconcursos.com.br",
+      "data": "2026-09-10",
+      "orgao": "",
+      "status": "Previsto"
     },
     {
       "titulo": "Concursos DF: CLDF aprova suspensão do prazo de validade em período eleitoral",
@@ -219,25 +323,9 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concursos Ambientais: editais abertos e vagas previstas!",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzNE52OGZBWDR0ekJHd1RQWTdxTklvczlTbnlBZk1UUHp4T1JtaTlyUTktblV1UTQyTHJzTmxTU0ptNzZLTHVCbFBYTWVOZW5wUGkwQ3RVYkFhWFlVZWtzMkpUV2ZsY01yR3o4Uk1TRWkwcDDSAXhBVV95cUxQZ2NXMzhodlVaRmlQZzgwVWNnTC0tekFjOG5iOFkyVGQ2aXktenlpRWFWV3E2XzNzMXF2UzVqczFUUXpSbE9QWTlaamQxZTFpRGNBMlNrLVk1dTloRVZoOU9McVNaeVM1cWh3S1BIZ1h1TkNUTTlvc3A?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-09-09",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
-      "titulo": "Concursos Conselhos: EDITAIS previstos (ATUALIZADO)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdzJzbUFXelR0bXNQTi04ZE5oaVZwTEZadlYwSjY1U3FtX2lfNkw3SzZVUE5LTmlrU1R4Y3Ayd3FOME5lbWhTS1NuX3NteWJDa2t1SHF4Mkt5LXNSSlkzam1ESlVtYU1wWXkwTjJ1VTdoUdIBd0FVX3lxTFBZYlY1dzN1U190b3hQOFZucUpsdUxQaGx2dDBZVkhBTVpQMEFDYXJYVnI3aU9BUzl3clhhOUNBb3dBRTFuX2poQ05meDhyQ00ybVFXUE1lWjdZaDRodEhKVDVwdnVpeHktNl9QTEtsX2IxbWJzYmVn?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-09-09",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
       "titulo": "Concurso Receita Federal: banca em outubro, edital em dezembro",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1NsSUJDN2dickFFX01xRURqWTRvMk9RZ1RZZEZBVUhsQXNPRTUwc0dUenN1bXlzWmlvWnc2YlhTdnJXY05lR08tWUpiYkVtbm1OenM4XzNVUnFpLXVKbUtkUDBlNHVjTFdzMzY2dVhMRWxqYzNQLVJlNW43VjgwVVNzTWdWU0UwVDVONVNqcUo0X3cxYjdkaUVOYURDTUJCbkE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-09",
       "orgao": "",
       "status": "Banca definida"
@@ -245,7 +333,7 @@
     {
       "titulo": "Concurso Receita Federal: Termo de Referência divulgado!",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWRmSWQ1ZjFIZ0hEZmRuVWdoMGgycDRiRTV3TEFmaTFHNUFFQnNmN3JPZllkWC1UenlFY1pHc0Q0SEYxWFBMVWFVVW40bFl2MjZPNDZVUmFZTXZuTzRDMWNENVZnbC1aczA5TzRWYWRNY0RpOVU2SFppZXJESVV5eDJPSW8zYms5U1RhbmZoejA?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-09",
       "orgao": "",
       "status": "Novidade"
@@ -283,9 +371,17 @@
       "status": "Banca definida"
     },
     {
+      "titulo": "Concurso IBGE Recenseador: Cesgranrio é definida!",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHdHbHc5X09aNU8yTVppTzVqNF9QMXdCbFctUWtSNWxmOGw4SkxLWmU2UTZSRFMxQm9hZDk4TmVYMUFIRjl3Rkd5XzRhb3JwZ3Nla2pLVmtQb21zU2VLT214NmlJdEZVYVRIM0dnaVBTcmxLLXk4TEdkSFEzRkJndEg2QzNQbk5jOXhn?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-09",
+      "orgao": "IBGE",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso IBGE Recenseador: edital até outubro com 27 mil vagas!",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTAyOWdqQUNUQWx6QUhHSEYwbFZNLVNlQ3M2UFpqdzNKbWNldGhuUXUyNl9RTFNOb2tYeHBrdlhILXNFT3NBYTcxcEdEaC1qdmg3Q2VIYWNnaWtyZ1phMkhWTHZXRXBIbmtqU2F1UjItdVUxNm1NOWwzQ0FneTl6VFlHajBnM2l3WXNfX2VUaTZLY3RSRlJZWFRR?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-09",
       "orgao": "IBGE",
       "status": "Novidade"
@@ -293,9 +389,17 @@
     {
       "titulo": "Concurso Câmara dos Deputados: edital ainda este mês para mais de 150 vagas",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUxLRXY5eW5lOXBOQ0h1WnhPbDM3bE5hZ3RkRmpLalVVdHZIdzg1bEo1dWo3VXRTdU1rNUNLVVRqeENBcUVNaTBBRlpLWVNaOUVDRDB6Mm5KRG1tRjdrMjlTYVFmWURFRFR0QjRma0xnVVpLbWV3dTJ4N2NVV3Z5dWU5bllnR3BFVUp4M3ZSSU9kdVNKSjVELWZaQndMeExVYk9PUmFyQlV0bHlNNzV4cUFB?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-09-09",
       "orgao": "Câmara",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso IBGE: Edital para Recenseador sairá pela Cesgranrio",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUF9PQjNfb256VVFqc3U3bEVUY2dkY1RCOVhCNUxWU3FkWHNIcFhweXRYLU5LbUNkeDVvQXNsd2xHaEJoNFBxc3BEWWZPY2xTMktQVGxZMmJwNmM1OFNKUzVIbEtDNjJKbHRTVGJnYWYwZWVUR0F2cktDb0RQSTJpREdKWFAtRHF2VVM4N3FQQ0pHQzhrTTBwamVXSWRIdjRVcWVMTTBSaWZ0eVXSAbABQVVfeXFMT0haanVGMUN2aVkxSjNPc21DVXh5ZzZOQjRGajRTVU9wb3Q1RnpRdzM4T0V5UlI2NVpCT3RWN0tmNDZLaTdzNEdnLWhJeWxTc2twdk5aMTRQaVlHR0Z1QTdZQnNyYjhIWEwxbHZsa0dyWU8yN1RNT2p3ZTEwZGQ2c0ltX0JzYWdBaVVxSWJ4b2ZmTVM1NkVjOXhPUWlkV2R6WHM1V0w2S3J4WDlIcU5fRTc?oc=5",
+      "fonte": "acheconcursos.com.br",
+      "data": "2026-09-09",
+      "orgao": "IBGE",
       "status": "Novidade"
     },
     {
@@ -355,19 +459,19 @@
       "status": "Nomeação"
     },
     {
+      "titulo": "Concursos Distrito Federal: PL sugere suspenção de validade",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX1BWVkdoVkFQMjJOQk1sZXh1OV92UWpqOXNGdHJrTmp4Y1VISjdDS19TZHhuUDlvYm5PcUttaUVhYkxma2NpUFU3NVd6Y2hkS05GR2Q3QWpGVXg2eUVkbWVkRjVOdFFwcUFpekM2SjBodlFHWkgwS29IWVNxMmdoUmZpbw?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-08",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Sedes-DF: prova fácil torna redação mais decisiva, diz especialista",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT0lTUXJOdzlycVllaTNhR29EMmZXNzdtcnBWcElwMFJ2T0VtR2JnaFU4U2ZsVGF6NDhqNU5Dc2F2cnluNE9GVGZZeEZpVHdrdEdnRk1leFhJZk8xNGREYjh5UE5zUVU0WXFEQ3JuLVRKUk52aFA4Q29RNmN2eWl0aEMxUUVwajJSWlNsWmJNRzZua3BHTnFBa0xPMzVMOFJhUzNLbng4Ry1DTDFuWXh2WXExNmtGcU5nV2hVSnVBZEJrSjJPczFmTVpvOUR3U0tkemxITFc1TQ?oc=5",
       "fonte": "Correio Braziliense",
       "data": "2026-09-08",
       "orgao": "Sedes-DF",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos Distrito Federal: PL sugere suspenção de validade",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX1BWVkdoVkFQMjJOQk1sZXh1OV92UWpqOXNGdHJrTmp4Y1VISjdDS19TZHhuUDlvYm5PcUttaUVhYkxma2NpUFU3NVd6Y2hkS05GR2Q3QWpGVXg2eUVkbWVkRjVOdFFwcUFpekM2SjBodlFHWkgwS29IWVNxMmdoUmZpbw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-09-08",
-      "orgao": "",
       "status": "Novidade"
     },
     {
@@ -377,14 +481,6 @@
       "data": "2026-09-08",
       "orgao": "",
       "status": "Previsto"
-    },
-    {
-      "titulo": "Gabarito SEDES DF extraoficial: confira AQUI!",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UVy1GUnczV2VZcnNpYnhWTG1ES2c4OVhpenZSVURiM3dmcHozMEtnQUNHbFljc1JZeVU3VWtMLVJHMmxpOExQNmZIOWFTOXpNN3dsc1EybnoxS0R1bklSWmNCeGxQeWN5YVdrMzhlNUZpZ3BCdGR5LS0zenFFQQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-09-08",
-      "orgao": "",
-      "status": "Novidade"
     },
     {
       "titulo": "Semana da Independência tem 13 mil vagas em concursos abertos",
@@ -413,22 +509,30 @@
     {
       "titulo": "Concurso Câmara dos Deputados terá Cebraspe e edital em setembro!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2pxN2VPYnJmVnQyWkZ4aXRFNE92TXlWVVVaSDRRaG5TbTZHTTRVQVptRG5QMEtQbFJaSU1iWlZWRnNCazhoeFFEUlNmZC0zeE1wUVVISTV6X2JIc3R5RnpfTEN0S3pEU1N6SkMwdDd2eTRWQmJuV0dxc0dwZ05DTEtLV3RfTGlWSjhueHhjekNuRVZ2ZGx2a2RIS2pndw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-08",
       "orgao": "Câmara",
       "status": "Novidade"
     },
     {
+      "titulo": "Gabarito SEDES DF extraoficial: confira AQUI!",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UVy1GUnczV2VZcnNpYnhWTG1ES2c4OVhpenZSVURiM3dmcHozMEtnQUNHbFljc1JZeVU3VWtMLVJHMmxpOExQNmZIOWFTOXpNN3dsc1EybnoxS0R1bklSWmNCeGxQeWN5YVdrMzhlNUZpZ3BCdGR5LS0zenFFQQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-08",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso SEDES DF: baixe gratuitamente a prova comentada!",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGMxVVZSVnVBQlRBRFpMQWZTTWstS1lURk1LR0RaQmNlbEs3b3h0TEJyMXNNTVhoQ3RQdVI0MFJhakVJV295MmppZHBZOTZsTFVzMU54NVRicHRwU2lPaVNQY1drWWUyYlNjeGotcXhIVG1hYzdNTnI0Q3pGSU5wWW5n?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-08",
       "orgao": "",
       "status": "Novidade"
     },
     {
       "titulo": "Em audiência pública, entidades sindicais reforçam pedido para novo concurso INSS",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUF96NV9qZEhoWWZ5cUxCYUUzS0pqaXl1aGQtb3VRY2s5QTltNWRETkxYbnotRm9UQjFVN1hkSXAweXZod2Ywel9XRW0zMDZ5TDAwTC1OYjBrd0pVU3VBZDJLR0tPbXAxbzB4eU9LNXN4THB3UzV5ZS11dXJqNUgtcS01elBMLUhwc0JlZ3ZZQTNVQ1VzeGQ2MzFNb2JqaEpTamhxdjF2QXRfNGxLZl9tYjRTVGRwd0o1T1VRTGxKYlhZakZEb1VtRmVR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTZzOGVKSFhINDRCM1FRamNzWHNvZTlZakw3WWY1V01oTjFVTy1wRU83UUktYkdFYzBPeW5waEFISmp6dGl1TWdGNDBlMnFaS0t3Ylc0Nnk1Sm40d0YxN3ZpU2JUYk1ZTG0zcHNaU2plTC1lZWRrLTdKTnItZTRkM3VjTHRtaVI0Y2NDS09XZl9lOW91RVY0RmRYVmQydnBxUTdHWTZTTlp2cGFfSFo0cg?oc=5",
       "fonte": "Ceisc",
       "data": "2026-09-08",
       "orgao": "INSS",
@@ -437,7 +541,7 @@
     {
       "titulo": "Concurso IBGE: banca para 27 mil vagas de recenseador é convocada",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclZDcFZzXzhSN1hzdVMzQjJla2NwTzBXWE43V1NENWFxc1lzS3dBQ05faFZhX21MdVlVUG5FZHBVVGIteHNWSHdwS0h6YzU4VUNLSVBBREFzdXFxdXhlTG9CaUhBLXp1NjFySENoNzZiSTdvazUxdC1hQUV2eTRrRUQ4ZGNpVmo2NlFSZmNxLVhvTXNsUVF1UFlPR3Z4dTJ5Qmh0TA?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-09-08",
       "orgao": "IBGE",
       "status": "Convocação"
@@ -459,7 +563,7 @@
       "status": "Banca definida"
     },
     {
-      "titulo": "Concurso TCU: resultado final homologado e novo edital com 100 vagas é anunciado",
+      "titulo": "Concurso TCU: resultado final é homologado; confira!",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xUURWZXEyWk5sX19jZ1ZVTExydDUwTkJ6NUluUGN1X1gtNXg4QjFkQkZlUTJfUV9rc0VMSUVyeXd5MGE3Zm9XeXdkcjVEWUxMMlpoOWNKWVBmU1hHNWc?oc=5",
       "fonte": "Magistrar",
       "data": "2026-09-08",
@@ -469,7 +573,7 @@
     {
       "titulo": "Fez a prova SEDES DF? Veja quais concursos DF estudar agora!",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlI1TDVHVlgweUJTdTcyaENURzlhQ0VQSUtCa2tCOEppQTh2MmZtMW83aVhNLWNsS2M5Tk1oRVNiLWR6bU16NVQ5VFU0RVRqY3ZwRDd1UWYxVWNXS1JfQVl1aGlMTkhVdUJycGZ1SEc2djJrcmFmWG02QWJ2LXFrdGV2R2k?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-07",
       "orgao": "",
       "status": "Novidade"
@@ -491,24 +595,8 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Gabarito Extraoficial Sedes DF – Agente Social; confira!",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWhUcldESUdvWmlDNTFZNzRZNGRBUHFtRTZ6SnRKcmtqM1RVcGhGeGVfbjIwQkpSQkFZOENxVVlTVTN2NXR1b3ItS2U5WFl6MUYzZ3FOaXJRbHctMnRvNmllYk56Y1ZsUW1aMUFiWExxQ2RrdkVyYWpwWTd0bEdueld3RlBlUmsyOGI0TTB5TUphdVnSAZgBQVVfeXFMUEEzX081YmQ2cjBHSXE3YzZVT0tGVnlBUUZ2Q3QzUWx6QWJaQXZwWHNxMmNmMzRwRGQ4eF8tNkF2MVJzRTBKUU45MEFvVEtOVFhtbHpCUGN5R2kzNTF0NERzcURBV085dGs3M0c4VHpBTVIwVkJjMFdab0lrakI5YW14dFJJTVRvVDVJdXVjT1psVUs2ZW5CTWs?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-09-06",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso Sedes DF – EDAS Direito: gabarito extraoficial!",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXAwTHo4djF1b3AyeWF3cXJNNWlXbWhRQzJ3Qy0xNWZvT0tCRmEwNXFWQlZKN3dZZmhqX2tPMUxHYlBjQnd1bXlqS01TM1pseFg3cDRraFlja1ZDUTJNaE5fTVRoTE1LS2E1UGdpM2w3ckdyTmRJY21UaDV2YWNxbDlTNEJ4cm1rdndVQ3FIR2U5U2VUTHQ4U2pDYkhFV2RYM1lCT1gxcVl3ODI20gGyAUFVX3lxTE95NXdBeVhZbVpCVGxKaHBhVFFEWFRRQUxZZWdUeVpBUXMtck5FeFFNa0JTRGtOQ1o3cVhyTnNOekstdXFtR2RTNFY0TXpnOHZ4X09FdW9ZZkVMM3k3dFJkNkRzcTR1QTN3S0w4Z1BJWWxKcmhJRkN1bndfZ2x4bHhIZ0cxU0ZKRjhmZGRDOTBXQXpySnp2eHQ3ajFiM1pXeHh3WGJ5SXRDV0p4REVLTHhEaGc?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-09-06",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Gabarito Extraoficial Sedes DF – Técnico Administrativo: veja!",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOel9aV1JZa3F0OVJ1bHphRUh0S1RVRmM4YmZUOFRCVjBONDFfM2VVNFp3ZFMyNGRBQ2l5QkN0WllONl9fTFJ1OHZBR1hzcmY3OXVDa1FmZGJyNENKR183d3N2cjQzamJYYW5CeHlEbkUxblZJRy11MExmbEpxbmpFNHFENlJUc2JuZGFn0gGQAUFVX3lxTFBDcnBVRmpvZ2QxRE5KYTU2bE5hZGhwWlhLdzFnaFZGak1WS2ZFYUctNHRrRUJKejFaNFhnd3JNakZQMmZ2TVhtZHMyc1l0cDBjbGtTVll1TEp0QnJVMlFhc2VkSkhVcHlBX1d2UWw0NGtLWjlkWl9qc0JwdFR2Wi1fbTdBLWo1UVl0VHVTamtzMw?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-09-06",
       "orgao": "",
@@ -555,11 +643,11 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Sedes DF: o que levar, horários e instruções da prova",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2F6bTZsd2g1N2g2WF9qM2xZSnBIbkJZajFOUjRKTTdLSkJBd2VCYUhmR1h6MEJ1b1NpT050S0d2YWlSRTFBX3hNZS1aR083SWdkeE1vMklURkFWVGxZOUt0SkVDT1ZCSlFLWmJ6Vm90S3E3Yjc0S1Q0R1BvcGRNekwyTmJkUFlja3BtYmV2alRrNjZFZ0VQTXRoS2p2b0g4M0HSAacBQVVfeXFMTkFBN2VkMkZiQUlHdVpjbmxxRUZ6RWFBSHg4bERKQ3VNYlVKSUxBVFFCdDRnUDV3aHNtTVlxZkdvcnpEYVF3UGhHT2FuWWhyV3A0ZHA2ZEM5TEpJTWtfdUNRN2IyN3pmbFV1S2N5dFlFQkxBa2t1ckl0ZmNLeTJsOUc4N2swdDBHYVBxRDktWTRXcTM4RWl0NWFMamVxeVA4TmZXUFBkd1U?oc=5",
-      "fonte": "Estratégia Concursos",
+      "titulo": "Concurso IBGE: Edital em 29 de março e provas em maio!",
+      "link": "https://news.google.com/rss/articles/CBMihAVBVV95cUxONHBsZ2Zoc0g0aWlVVUw2OHZOVnp6eklZYzBNQ2p4bUpZaFRFVlpXZTVTdFE3TUdZMVF1Z3dHUjMwN3dzMFhvYkFOXzdpSTJubXBvcEdaZzVfOVFHMlYwTE5kaDdmSW9GU0V0aWdQU2xGa2NYLUFvRG5yNWZwTWRKSTMwQmd1c1drUG11dHFwSDhndnZlaFI4ckNobWExSGhRTkUta2RMRlNIVGJ6ZTFCSXNYNmhXNDVNbERWNkNidVlIaU9hdG1EbWhRSXZ1TXRleGFNY0dPS0JTNFpRMnVqMkx3bGxzZzJrbFpFenNFbnZ4MU12dnVOdDd4Y3JUSVNjV3NlSXlBTl9uUXdWa2pia3k5d1pldHB1YmFPRGdCTWcyQ3B6RnQ5X3ZzUGxYdHRmb2dMT2hWNFkwdmdlRUJIMmxFYkdWdC1wckFSNjdRR0hPbUdTeWRnMmh6NzlXVGFqVEhLYUt0UXBIaXpzOXdVTlBoTE1hMFdhaEdfRGhlbExJaGU0c1IzVHVUbUJhOC1ZaTlMTlpaeENmbXdlSGM1TXNPc1IzUTc3OGdseW5EYW5ybGdaQ09RckF0dmRIbENuYkJuWC0xM0xzOTU1T0FHZWR2aWEyeEo3aDdlOHRrWEU0bnhrLTM3cmx2QTFaeV9BTGhsNG1KMGRsdkF5UGN2Q2VKYy1ub1lnX29LdU91M0VramNnTkxHZjNYWGx4cFdSTWs1VTVnM3lNNFljcEQ3bUY2SkpZVVBueE9VM0MtR2c0SUp2OXp6bmloM1dvUHFodWJmZmdDNy0xNWNvNkk1bVJHOFNhZUVuZXcxSEl2N3dwVEFNbGFXc24tTExNRDd5T3BfbA?oc=5",
+      "fonte": "Nova Concursos",
       "data": "2026-09-04",
-      "orgao": "",
+      "orgao": "IBGE",
       "status": "Novidade"
     },
     {
@@ -579,17 +667,9 @@
       "status": "Inscrições abertas"
     },
     {
-      "titulo": "Concurso Sedes DF: veja orientações para as provas de domingo, 6",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxMG9KQUNRN25wMWJjMmNJREx1cXU4cF92dHE2WTBTUTNweUFESkpFRkFTZUlnOWJKMDdHY2hkMWlESm1JRm00TzZKSGdzNUh6TjZ2ZzFtM2ZhZWVCUXFsa1gxRlEwLVVwdklBQmxjTHNraDNpQnYwY1VvNXk?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-09-03",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Prova SEDES DF: corrija a sua prova e veja a sua possível colocação",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hN0VocDRFNW15ZzF4bDJjOG1mdHNEOW5xczQ1T3hRc2NzTWRzWW9OVkhoSFAyQUk2b1NUTENqREl5TVo3cmN3RGpTWHNUR2xxY2x3cDNBSFlOb3I5bjVmbUtsYUtiY0oz?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-09-03",
       "orgao": "",
       "status": "Novidade"
@@ -611,12 +691,12 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso IBGE: 27 mil vagas e edital previsto para outubro",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXpBSklURzI0Q0VJUE9TeFJDMmhNMDg2SXNGdW1seHc2NzZYdHVaNXZuWjAtanRaSGdkTU16djJzUmJWb2lTTGRsQzFqNXFKNEhRdTI3eVV0Rk9kdnlXR0FPcXRKSUVXUjRoSVlMQl84OFFLOFg1T0hLVnRjWDFWMFZuZW0tSU5BTmRNNF9TbjdTNWFkVkJYYXZZRHViWVd4TlEyazh30gGuAUFVX3lxTE80QV9mR2U0UTZFczdwWnNCazFWM0Q1dzhFOUwtZXN1MXVXajFwQlAzQWF6T08wNlQ2WXFZUDZiZkY0XzJnd3R3MkUwaDgzclAxa2pZejFUcGZiWDZkclpoZkx5Z0hZWWk1Ry1oUFRSQkJwc0xiaXZuUE5FT2kxYnJCNnJKX1hhNjR5QnJEWW5PX21Zd2U5VHhJaUZkb2MyQkk3dVlRemROWVFfMHpMZw?oc=5",
-      "fonte": "DOL",
+      "titulo": "IBGE: Edital do concurso para 27 mil Recenseadores terá banca agora em setembro",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHFFRjFXRHc4TEZqZ3Y1bHBlVG1rT1pYMF80QUVVckRYTUJMWnF1ZkF1b09NTjhfLTdDTS1wckFBdXdkU3VCeDk0VDRBX0doZjAzcm5LWkdmX0dweXM4bFlzT0dRNDdROU9RN1dxaG4xUGs1ZUJ5Y21yWHhMUlNjbjRUcmE5Q2Y4OVM0TkROUmU3VVE5RUNYNy01WHNBM2NRd1p3RUh5SFlEQ3NpcXd6c0pFYXpKRkpwWVZfeVJubFhBVDJt0gHKAUFVX3lxTE8zOThQaFRidVZyOFc1WU1IRTVCdFZ6TmxKRmZ3bWk2ajNwZTlBUy0xeTBmSFV6RWs0Z0ptWEtYcnYzTktLcGh6M1NvRk1xYkt1VXp5OXVfMzJ6d2dtRnpPUGgwak5weGhVQmFocFNHU0I1ZFd2WHJYWUJEcVB2aTBUSHYyT0Z2enBvNW41dVU5X01yNUU5bkNIaDMzT040cVROa1pBdjBic0pvS3Itb1Fnekl1SVpxWU1IZXlBRnhXT0xRQS1DclA5UlE?oc=5",
+      "fonte": "acheconcursos.com.br",
       "data": "2026-09-03",
       "orgao": "IBGE",
-      "status": "Previsto"
+      "status": "Banca definida"
     },
     {
       "titulo": "Concurso TCU: PLOA 2027 prevê vagas e favorece nomeações",
@@ -635,6 +715,14 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concursos Federais 2026: editais abertos e previstos. Veja o panorama!",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGaC1xaWNNY096XzhVbE9ESXZUMW1jdWdKQUFCLW5RRUl0d0R4dngzN3lzbnIxVklqak5ZQmprb04ycEo4MENSN0tOVVBjNnZuNVpKMjhKcWhuWk12T0FFeEhyTkprY2s?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-03",
+      "orgao": "",
+      "status": "Previsto"
+    },
+    {
       "titulo": "Concursos Legislativos 2026: veja os editais abertos e previstos",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aNWhENWJhdW5aNDFEUGM3NEtfMDhrNlo1TGFmbXZtMWE5MWxqeDBSVjBDMm9YcmtWTzZFOUVUZ1M4UEFjRWZSQnJ2U2hOY2g3ejl4SDI1YjVsdjBfRGMyUGRB?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
@@ -651,28 +739,12 @@
       "status": "Resultado"
     },
     {
-      "titulo": "Concursos Nível Médio 2026: vagas em diversas áreas!",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YZGpMeWJWeHVVQzR0M3FudWc2WmhhNVg3bGhaUDRLUnQtUjNaM1RldTJLWlJOVEFWVmdUM0RHN25Oc2ZoUUlVVi15QUowUW54VnpLUW9BT1FYZmoyeGJyLVpFSlBWa1NOaWJGajRxRW5YUm920gF6QVVfeXFMUFNzZ3dETmVhWWVVaEpNdFExWHFqalBWMVFhRVc3OXBTOThXOERjczhMZldWU0ZCcFlVUmhwN2w5YVprOHFnQjdCMGhwVnpuR3NaaEI3dTBXWFcwRk4yNWptakI3bFlsSzlQeEpwN3dzcjdrM1NLUlVmdkE?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-09-02",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso PCDF Delegado divulga resultados das provas!",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTI5TDhydVhSTVpGY0QtZDJoOXozNy1Ud0Z0M0l4MThjWEVDMFliOFBVVGs3bk1HNmtibVlRWGczZVRTcU9BQ1ZQamtQNEYtZTAtdE8tOFFnX1RhT3JOaU10LWtVcVp2eEVSVHlfUVR3ZUs1Tjg3eDNRSkNRNy1RX3ZWSWN0Zw?oc=5",
       "fonte": "Estratégia Carreira Jurídica",
       "data": "2026-09-02",
       "orgao": "PCDF",
       "status": "Resultado"
-    },
-    {
-      "titulo": "Concurso SEDF: 2.681 professores são nomeados!",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yWVpvYWlhXzQ5QlN0VjBYaFZkSzc1ZURjUm83WnRHOFpOcDJmeUthblJpT1VzLWZCcURDWVdoNWNQR2NueURKZ2pHRnpYdENheHpZY2kzZ3UwM3l3VmtxS0QzSF8zVzlvN3R6ay1sUVFfT2tpaU1tTkN4TnQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-09-02",
-      "orgao": "SEDF",
-      "status": "Nomeação"
     },
     {
       "titulo": "Concurso Delegado PCDF: divulgado resultado preliminar da discursiva!",
@@ -697,14 +769,6 @@
       "data": "2026-09-01",
       "orgao": "",
       "status": "Previsto"
-    },
-    {
-      "titulo": "Concurso público: melhores oportunidades para Analista em setembro de 2026!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVZzLVQ1MlBVUUJVd2lUaExBSFFENXpRR0VmVzVXNVVZaFZfd1dDNUkxaEpDTTJWSWp5clRWX21KQzZHSFV3OGpXVXpIMkx2SGlFSVY4aWE3QURZekdDbWxTNkh6V2NCeFByNHFtcG5rcEZTNmFPTGFvSkNOOWM4VEhUY0RLREtXRllnd0dMNVlON083QXpSSTJRM2JnMTlMX3AtdDUzY0xvZlNtR2hZ?oc=5",
-      "fonte": "Magistrar",
-      "data": "2026-09-01",
-      "orgao": "",
-      "status": "Novidade"
     },
     {
       "titulo": "Concursos policiais previstos para setembro de 2026: veja editais confirmados e seleções em preparação",
@@ -739,20 +803,12 @@
       "status": "Novidade"
     },
     {
-      "titulo": "PMDF: concurso para oficiais de saúde é prorrogado por dois anos",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3VsalN1MXJHYVhLQmMtUENHYXNfLVNSTlhVY29wVGxMVENjRlhyb1dvVE5XTlpEREV6SW1GTjRpcmNoZFhKR1VzOHMwckFHOTQwSFhfdkhuS0hfUmZWWXhNOTZ4aVZFMFZLc01HMG1jOHFRc3BydnV6VDRicnRfUi16Y29YbHJvSW1mU284ZzhuOTI5T1ZGcGFRczRMQUJXSUtMLXRISUdqcUo2LWZDNGlxZ2gzSE52R09nRnpEbmg4dmRoZDctekZMODVWV2toOXUwT1IzUHY4VkhL?oc=5",
-      "fonte": "Correio Braziliense",
-      "data": "2026-08-31",
-      "orgao": "PMDF",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso Banco do Brasil: BB admite falta de pessoal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQm5LOE55WmEtNGdKWTM4RnNUeElwLUtmTG5CUUZnWWY2dlBMRUZsRmtteUlDMV9GcTlpcE9HSDk0UUFJV053MFNqWHpoMXJ4SGlybGdTNEhXM2t4aGQwS3lFR0Z3dDRzNzR6XzBnVUZoTmp5Nk9rbU03RmlCSk8wS3FDMGJXZk03NS1mUktrODJwVDN0eS1QNg?oc=5",
-      "fonte": "Central de Concursos",
-      "data": "2026-08-31",
-      "orgao": "Banco do Brasil",
-      "status": "Novidade"
+      "titulo": "Concurso PF: resultado final é homologado! Confira",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zdm56cW5zRG8xaEw1NTlHU0NJalFVY2N4UHV6VE1iaGkydWZIcm03YXNzcHhtcEI0Z0xPLTZmMkpSdWFQb3dWaFBOdXNiMlg2cWtqRE5jNXNOTzYwN3hXeDh2NVJhWktVOHdBeTBrTQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-09-01",
+      "orgao": "",
+      "status": "Resultado"
     },
     {
       "titulo": "Concurso Receita Federal 2026: acompanhe as últimas atualizações",
@@ -787,22 +843,6 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso SEDF: iniciados preparativos para a escolha da banca para 10.604 vagas",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlRRLUYxS3NMTEpuNjFjY181dlE1c0lxZXlfNm1PUWM5eTZUWUFlbVNwMFJmQV9XYW9KYk5XbDhJNXFRT1FDZUxtdkNFdE5fbVF0S1RQdUR2ZGNKajQ4dTJVVTE2TTZiZm12VzVkN2RjdUdadWJmdDl6b1FtUkxiM1Y3T2V0TlpfbE5yWmE0T2tOUmVSZlpDczVVOW9sYTI4LVFDcWRVUjhsY2l3cV9SSS1UNHoyaml4WDJaUGNvNVpOQnRSUTY3aNIBzgFBVV95cUxOXzRFRXdYUTE2ZVlZSFUzeHZQSmRHT2lBd0xNdzdFMk9iSnVOTTZ4aFNKdXotcVBhRHRzY2FyTUIxNnh3NExHY05HYWl6cmwxM1JuQ3VQUmdIWXA1OGVjVExac1lhbTI4WlRrQXQ2MTd4dktGeVZTckN2bVR2NWsxMHFuVG9yTDQ0b1pqSUdBanZEcUFZakl6OWZYdm13UFNQUVRXTFFleGlaQzB4eFpteHJKbnBiazRWNkJyZktWRUZtM1JXQ2VUMlgzdmdqUQ?oc=5",
-      "fonte": "JC Concursos",
-      "data": "2026-08-28",
-      "orgao": "SEDF",
-      "status": "Banca definida"
-    },
-    {
-      "titulo": "Concurso PMDF Oficial: prorrogado o prazo para envio da FIC!",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42YzhJUzhCVlh2OWo5aDljYW5URU9ldVVzeGRLajhmRlpudmlWZHl6X0pGX1JiWmRCcGcyRGVCR3p0Ynp0eUpQSFZodTdkOWhYbG5WbHAyWkVXZEZzWTk3bQ?oc=5",
-      "fonte": "Magistrar",
-      "data": "2026-08-28",
-      "orgao": "PMDF",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso Banco do Brasil: BB reconhece necessidade de novo edital",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbzdBOVpUcWc4TW9UUG1nRk5aeXFXSUNMcjJ3aE9mb0lEaDRzU2ljeU1fTmpVS21qWnEyTzZDZzh1LU5KZnZhYk1wc0t3eUhKSVpsa2VrSlFDeHRRY3A2OEI0dW12eFRoaWlCelNrdjFEeUY1NGVSQ0d3ek9xVVpKOFc3RWxuTzdwNWp2YklBZGozd0F3dVVaWHViNA?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
@@ -819,25 +859,17 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concursos DF 2026: confira os editais abertos e previstos",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoekIwS05kcUFXSzYzQkN0RVA3a0VLdFk5Yy1ZZUtOWjVOTVFkQzRGekZjMmp1eThOU2JSSnlZX0t0M19YWUk3UVhIWG1GNnRvMVlXZFByRlUyRVQ1WHBkMGxzZGNab3RHZVFRVEpfdUVDUVVoZHc?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-08-27",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
-      "titulo": "Concurso TCDF: inscrições abertas; iniciais de R$14,9 mil!",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DakgzZnQ1UmNOWXRGUmdWYmhPXzRwQkUtQnJKTE4xZ2lLSFk1UTlmMWRraDRDQzNfOENVcEkzSTdBWFgtRjJjZEMzQUQ1b1lRMEVTaUxvRVo1anMzNjR4dQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-08-27",
-      "orgao": "TCDF",
-      "status": "Inscrições abertas"
+      "titulo": "Concurso IBGE recenseador: banca será escolhida em setembro",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVBIU3BMd0NIOF9zYlBCYWJtM2ZfMnR3clNrRUJEVnF0aVBOOW93QWhvV2VheUV2TEc3eGtYdkotUzZUelV4WU1TeVNjeVpoODZQcE5XV0lWdVU5dU9JQzJhLVdET08tSDVUT1dHd1dSRlJCbnZxcGVrUE8tWEtlbmZDZnhDd1BCNHZiWDhseWtFZUJVWjZHVHBrR1luRkVoRFE?oc=5",
+      "fonte": "Central de Concursos",
+      "data": "2026-08-28",
+      "orgao": "IBGE",
+      "status": "Banca definida"
     },
     {
       "titulo": "Concurso TCDF 2026: inscrições abertas e prazos!",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3FCbVprdFpCcjJCU1VpZHVIdy1tcGo2NS00akNmVURUQ25md3puQmxKNnU2WUtySE9KbEpXMGxOS0EzTDNRS0xtR1ZiUHpHalpFdTE2YmJrYzVKQ0ZuLURzRndxcVBySC1FMHlqTW16c1gwNnRPdVJCbmFuUVdCNHR3?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-27",
       "orgao": "TCDF",
       "status": "Inscrições abertas"
@@ -845,7 +877,7 @@
     {
       "titulo": "Concurso: prova física para oficiais da PMDF não tem adaptação para PCDs",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1RKZnZtOWV3M1hRNWtmYTVmMVlpYXIzd0VhYUQzcENzajlrblVrZWJKMzF0cGt3ZGxrS3YwbGMyQl9EQnNldFRGcHFySnhoVVh3OGI4dmVHNFdXSXpvR2M5c2RKbHFVZXJWWnZjTHFlTWRwaV9CUTN1aVIxbVZKV2ZfUnM0cV91VUJuenFEUEpCNGFqN09Lc2V0LXJ2MTAzREVOQ0J6RmxJZ24wcElJWXQzajVyZw?oc=5",
-      "fonte": "Metrópoles",
+      "fonte": "metropoles.com",
       "data": "2026-08-27",
       "orgao": "PMDF",
       "status": "Novidade"
@@ -861,7 +893,15 @@
     {
       "titulo": "Concurso Ebserh: HU Brasil inicia preparativos para novo edital nacional",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcncyeTljZzU4bmI1eEJpS2gzZnpqd0VjcUMxVjJrbUpfdm55YzlBc1c3cFpDVXJ6MS1xWXU2QkxUcTVNWjlfdGFPUVVsdmNKOWN1azJ2Y0djeWVjc2V6RkFEZjUzamM4LW95LVQzcm1DMFl0OGFzdkdobEJmalVyek5PdHZ4U1M0S3BBbDRQc1oyR3JTUm1RNG9RLWRqMkVmcUxJM3E4NXdHRmFGVlE?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
+      "data": "2026-08-27",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso EBSERH: edital em 2027, comissão formada!",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GeWZOeDJmQ0t3SjJ6RFQ3T1VtdGdLRWFzamFJdWszUUV2WXd2UmV1ZFNpbWt2bnVsVXhrbFFGVlM0MGdVSzRFOW5xWGhVWkkwVVVrbWNGUkNWNzEyYy1tZFhqUQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-27",
       "orgao": "",
       "status": "Novidade"
@@ -899,6 +939,14 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso Banco do Brasil: sindicato pede novo edital para 2027!",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1lRenNJYkZGVEtWM3ZVTzE5c2VBREpIeWxjSEt6SGxKbDhhRGZ6VFlLWlBGN3Ywd2hNd1k3VW5qQ0tnTGctZjQzNG0ybVI2VWd4X3dSZi1yeHJXdDdKdUJXNkpTSXBSYjBwYTJLNWthNkdVMElFRUFJeWlBWk5iaXhuVUdiZHFpZTNtaTkwaDZfWEU3UG5iMnhn?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-08-26",
+      "orgao": "Banco do Brasil",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Banco do Brasil: categoria pressiona por edital em 2027",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXNrQUJ4REV1Yk9QbmNNSF8tZGZKRHVOdU1BUUJrbmlCNS1aY0NDd0NrRk1laEVQcXdveVFVS1I3SkpjVzc3cFJBOExyVko1SXVGTTdkczd2SWxfUFdFNnFUTTIwalhwM1ZaV2hFZGFkUGJFdWdsRnAyNThsVjFxTUV3SWhYWlkzeTFJczQzeHYyYlJiWlRCTVVR?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
@@ -933,7 +981,7 @@
     {
       "titulo": "Concursos Policiais 2026: confira editais para a carreira policial!",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yY3hZS2M3cndId0NrSkZ0bGh4bFJTMEZBbXh5U1BnVFJXbVZvbm1TdnJ0ekxMOFA3TzNxc3o0dXVnempKU3BNUTBwV2VreUk3VE1ELWJzcFJ4RFRWMDlfR0E2b3pVTkJH?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-25",
       "orgao": "",
       "status": "Novidade"
@@ -957,7 +1005,7 @@
     {
       "titulo": "Concurso INSS: Fenasps reforça pressão por novo edital",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1icmN0ZGtqcF9MMXpQdnJhMnJrcTNDdU1hMzNOdS1Rc0lTNWNndG1LTHloQXpfeldLdEZDd1N2NDBCSFNUTGpZX0dGbVMyd3hERFEwM1dTNDVtcGRPT2RRTFRqeGpsYWZiZ1JtNi1UbC1oMDlJTFVEelJRUzU?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-25",
       "orgao": "INSS",
       "status": "Novidade"
@@ -971,9 +1019,17 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso público: 13 editais ainda podem sair em agosto; até R$ 32,7 mil!",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0N2Qy1JZXBtM1dpSVMxbTlJUjRwY2xzXzZvOHZvcDVmWTdoQ1RkQmZpbER6YjlyRnRBMmE3a0lnZ3ZCOFkwVWRQeXhZX0VMZ0pXQl9aLUt4dUFqSXBfOVl4TWFMeWh6b3JlekNIeHZUeGUzVDBNOFRCVGNDbFc2MEJYSU9FYkNaYUxmemRuVm0zR0U?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-08-24",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concursos Controle 2026: previsão atualizada, editais, vagas",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fMVRRa0lWVkRaR01hOGd0U3psdmliVlBOM1hsNm93ZGNNWWcxcnduT2ZPV0hSTlBhSWdkaWdLa1hoVkJKempOM3BsdlVwZWNyMndsWXlwSXAtUmZnWEk4Q1pyaXpHVVk?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-24",
       "orgao": "",
       "status": "Novidade"
@@ -997,7 +1053,7 @@
     {
       "titulo": "Concursos Psicologia 2026: confira os editais abertos e previstos!",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QYnNvOE8xbVc2WW8za3otUjB5cmVUWEladHdiZ2tULVBQSU1wS291eHhEQXdmeTZibWlJV2ZSamMtUE4xdUpKeHVUZXp5bTJiazNhLWlJNXphbE9JWmlueml4T0tWbnB0VWc?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-21",
       "orgao": "",
       "status": "Previsto"
@@ -1005,7 +1061,7 @@
     {
       "titulo": "Concursos Farmácia 2026: editais previstos e oportunidades na área!",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FUzNoUFJXbmFTYWpwZnJYbVFaREdLQlF4RHg2ajN5bzhCY01TalJicXFoaElkNnFFeHJKNGRWOHJfVklIdktBMUZqSXJzdEwzWDZ1Z1MyZ0RsSlFoMVJVbksxQk1CWTQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-21",
       "orgao": "",
       "status": "Previsto"
@@ -1013,7 +1069,7 @@
     {
       "titulo": "Concurso Sefaz DF 2026: edital segue em instrução interna",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbl9oSXY0cVEyYXF3OURpWVdxcjRZVDhSdGV1YUFPY1ZIOFdyQWl1eVRGNmR0OUxiYjFvZ2VXUVAzMjBjSDBVTXZiU0RpbDdPSDdpMWpIZ3Y4eFpOZGdibFhlV1JDS0FDWXNwVGRKRDZHTTFoRkZqNjFxX0N4M3ZUY2NKa2trdVE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-21",
       "orgao": "Sefaz DF",
       "status": "Novidade"
@@ -1025,22 +1081,6 @@
       "data": "2026-08-21",
       "orgao": "PMDF",
       "status": "Edital publicado"
-    },
-    {
-      "titulo": "PMDF divulga resultado de concurso para oficial e convoca para o TAF",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGttajJuMDQwOHo3VWZOdG1vQ21JRTFBcXkyVXdHdHRHQjRHVFZMcWU0cmVQOGZfZlhQMkZmOVZ1QkgxZTVub1lxTWRxNXZteTk2b09rRlNvTzUyWkkwM3BjbXJlUmZkbkROV1loejlUcWRxZXpxU3Z4ZTNrSGJ5OTdTQ05aZXY4WUh1QWJYZUNSUEprN0R6czNRQzM4TENGR1FLUUV2OGItMHcwY2N1S3Fn?oc=5",
-      "fonte": "Metrópoles",
-      "data": "2026-08-21",
-      "orgao": "PMDF",
-      "status": "Convocação"
-    },
-    {
-      "titulo": "Concursos Caixa e INSS se destacam nesta sexta, 21",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fd1VGYVB4bUl6ck9sajRGOGV1S1ZlQmNXdGMtbDVmZDVTeHI2RWlDMEw4UTN1RjRXSW40UEhBNnN0UW1NTGg2dUJVNDBzdS1TMXVxUmNNdmlfeUF0c3IxSXFfbXhUMGQxcUZaUTB1ZjhqR0w0R0hHek9ObW9tUQ?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-08-21",
-      "orgao": "INSS",
-      "status": "Novidade"
     },
     {
       "titulo": "Concurso INSS: federação critica terceirização e cobra edital",
@@ -1061,18 +1101,10 @@
     {
       "titulo": "Concursos Bahia 2026: editais abertos e previstos no estado BA!",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJY1dCN0FXbE1IYktXMVhlWjVzeFh5N1l5aVdPOWhrQWNod3J6ckRjNzlxanFXbjRlZ1hZdnZNVUF1MHdNdXBnWWhUNm9pS1RWOGJOV3dqQnRBSGsxVm56QXdNZWdfNkE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-20",
       "orgao": "",
       "status": "Previsto"
-    },
-    {
-      "titulo": "Concurso Caixa: salário até R$ 16,4 mil; homologado!",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMy1PeXpQclF4cGdCeGZCbUE4NWgwSzB6RmlsbzZWVFFKR2lkY2xxd0R1NkRUNmM2R0tMUTBYdmRUbERHWXpwWnduWnk1eDhVQ2ZPN3lGdUJxWlRnTXFsWVNB?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-08-20",
-      "orgao": "Caixa",
-      "status": "Novidade"
     },
     {
       "titulo": "Concurso Caixa Econômica: edital previsto para 2027",
@@ -1091,17 +1123,17 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso INSS 2026: novo edital é aguardado com até 10 mil vagas no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQjNYeENhX1ZZNXhDYVFfdTZiQTh2UDZwZjZJZ0U5QnR0WGhPa3pYZ0t4NEhJUWVORXVWaXNSb2hzUFEyelU5MjFCRkJsYWIxNl9lZ2U0Q2U2RUItejNHeENEaDVFWlZSaVUwaldhTDhhZmZNdVNPQndtaXpJWVU3NkNELTI5bmxjeW5vZVhFbm1hWk5jbUtLWkpXaWxfaElBcHlCMHVpX3lTcmVyZnBnMWpHMWhsZ1JWenfSAcIBQVVfeXFMTmpsRzVERHkzeWMzclNSdWl0Sm42UDMxb3RzZWJNZ1RIU3AteHVMSVlkbTZvZGxiTFRKTGJ4M0pRbllYeFlWUFZ3eW5uaFJ5NENJRU5mWFBYUzhKTXRxcGdBMzYxS29FcFVBZURWZE5HZ1o2MndaWVhkajQydDMtNFNXQ0tPMVF3MFNoZXE5SWRON3FhSExwQkRUaGYzNVFVVmxMZFpLVWFpd2R3eWp5VWF2NUhEUF9mRzNESlpYRnY2bFE?oc=5",
-      "fonte": "DOL",
+      "titulo": "Concurso Caixa: salário até R$ 16,4 mil; homologado!",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMy1PeXpQclF4cGdCeGZCbUE4NWgwSzB6RmlsbzZWVFFKR2lkY2xxd0R1NkRUNmM2R0tMUTBYdmRUbERHWXpwWnduWnk1eDhVQ2ZPN3lGdUJxWlRnTXFsWVNB?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-20",
-      "orgao": "INSS",
+      "orgao": "Caixa",
       "status": "Novidade"
     },
     {
       "titulo": "Concursos Nível Médio 2026: editais previstos e oportunidades!",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WVzlKN1dzaS1TYVN1TE5JcnQ3RTFLWEJsRlpxcUxacUZpRndRcDB5QWtFUEV3MU05cldxY3Z4WE9JVnlHQWhZaGJnelZUb2hCQW5tNUlBRmg1NlBBdEpNLVpmMkVUVEVKTTNn?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-19",
       "orgao": "",
       "status": "Previsto"
@@ -1109,18 +1141,10 @@
     {
       "titulo": "Concursos Saúde 2026: vagas previstas e remunerações atrativas!",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01Q0JJZ2d1Wkl6NlNvNUVHbEdhZFNFWkhSWFJfNlhDdFBUUjhQcWRiS1lZaE1HRW1hTVdXRWdMWUVkWEhHTzVYUU51S3NHWUJVcTFicWVldVZMMUZfWjJNcmVXdw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-19",
       "orgao": "",
       "status": "Previsto"
-    },
-    {
-      "titulo": "Concursos Enfermagem: fique por dentro das vagas para 2026!",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qNUZGcF9yUEI0aFBjS1hKdWJOSWw5UnVzVFlac3ZlOW14bWk2QVdzeTBnY0I4NEtlX2tvQ19qVDNZSVpKeHNmOWdNZnhEamtJWkFzWmktTDU4aWM2YnJtVHU2QmFGU0lneXc?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-08-19",
-      "orgao": "",
-      "status": "Novidade"
     },
     {
       "titulo": "Concurso Banco do Brasil 2026: últimas notícias e situação hoje",
@@ -1131,9 +1155,17 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concursos Enfermagem: fique por dentro das vagas para 2026!",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qNUZGcF9yUEI0aFBjS1hKdWJOSWw5UnVzVFlac3ZlOW14bWk2QVdzeTBnY0I4NEtlX2tvQ19qVDNZSVpKeHNmOWdNZnhEamtJWkFzWmktTDU4aWM2YnJtVHU2QmFGU0lneXc?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-08-19",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concursos Contabilidade 2026: editais previstos e oportunidades!",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zQzZyYm9WbkJBNV9RZ2d0djBrZGQzMVJUQVRCTl9KemJFdEFYcjc5emtocnVxa2FTYUNaU0xuaWRxVXpmbWhNV3JwNkxBWDg1ME4wV2F4Nmc5cGgyclpjeFRSMHFZcF9Sc2tlaEhB?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-19",
       "orgao": "",
       "status": "Previsto"
@@ -1173,7 +1205,7 @@
     {
       "titulo": "Concurso IFB 2026: banca em definição e edital próximo!",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EMW9Kcnp0SjhSMnhmVEtzX3lIYTVYb3Ezc3JHc2U2Tk1yR0IxMmZXWGp4bkdEZkxsZEZBVkRCdldTZm8yN0dSeU1xak42SkZieThkOUpnWWdPMU44ellj?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-19",
       "orgao": "",
       "status": "Banca definida"
@@ -1181,7 +1213,7 @@
     {
       "titulo": "Concursos bancários em 2026: confira as oportunidades da área!",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOSmJHTm9PX0lFZURVTzV5Tjl3M3dqOGRjVG55LWYzM0hRWmxJakhmMEVnclgwZXNEYndmOG5zTlpZT2xMTnFhVEFJWnpSbTdPNzlQeXp3MGhfQXE4NGtCV3drMXo5MzdN?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-19",
       "orgao": "",
       "status": "Novidade"
@@ -1205,18 +1237,10 @@
     {
       "titulo": "Concursos Juiz 2026: veja editais previstos! Até R$ 37 mil",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aWk1WNks2SEp6V3hETUpPQkstdU44Nl96VDMyZTd6VHN2MU1pMndNU1hqaTV3c012cVp4OHh5R1lHSHpkVktVdnJJTzFtYnAtZENPSTFhbzdWTmkyaW0yZzN3?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-18",
       "orgao": "",
       "status": "Previsto"
-    },
-    {
-      "titulo": "Concursos Defensorias Públicas 2026: confira os certames!",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2UlM1T2M4WlBMZUlQa0txVE9GTEdmS09YN2Ywa01QRW9jN0VLa0lFeWtoaUp5b1pmc0VqOC0yeURTcGVBNkkycjgwNHp3d1VraG9xVUM3WGJmeGZrbXY5dmhVNW1OX0NFUkVKaUY4WHl2VlNjN1Rv?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-08-17",
-      "orgao": "",
-      "status": "Novidade"
     },
     {
       "titulo": "SESC - DF abre processo seletivo com vagas para cargos de nível superior",
@@ -1229,7 +1253,7 @@
     {
       "titulo": "PMDF Soldado: Cebraspe é banca do novo concurso",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0p3SVg1UnRmT0VsenJHSkRHM1Vyd3JSTjFzcW9zemJ5UFFFNHRTanZxSXRQOEF0OGJMU2xXWkhLa1AyUGg2aWc1enNtV29idGNtSnJoT3VzVGZ6c045cGlyeVllb01UNHhsYjZCcHoxM1FaNEtoQXRDZHFHSUlQcVFQT3Fmdw?oc=5",
-      "fonte": "rbtv.com.br",
+      "fonte": "REDE BRASIL DE TELEVISÃO",
       "data": "2026-08-17",
       "orgao": "PMDF",
       "status": "Banca definida"
@@ -1238,14 +1262,6 @@
       "titulo": "Concurso Banco do Brasil: novo edital descartado para 2026",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWh3MlV1YV9wZmlpbXZlSjJ4RnFEN19oSWtKLURZMWpWTU9iZTVUUXk2TktzQlduUTc2M0lHZmlXQUlJcy1jYllXT21LQVhXaG9GaktIZzB2NENhVV8zV1FSQ2NwY2lKWUNGcVpPOFVpWVlyQk5DWVI5STR4OU5TbVlEZEdSTlR3NnE2ZzZ6X2stSGZaZ2hZ0gGcAUFVX3lxTFBRZmFmMVA1SmZEVlphUWI2bGJneGV1U1MyUmpjeHVtRzQ3RFlmX1ZvdlZNc1VZcjRqSTVVdEhESkRQWXM3VUJBTWg5cWNZa3ZZTW5DeGxuSmdjN281bjFCXzlyN3lNOGRJTTNndmJOY2dVWVozc2ZTZkVnXzhGc3lKNjJ1cjZ2N0FJWFRxR0FoTmVrYkFlUklka2dISg?oc=5",
       "fonte": "Estratégia Concursos",
-      "data": "2026-08-17",
-      "orgao": "Banco do Brasil",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso Banco do Brasil não deve sair em 2026; BB revela cenário",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlRKNkpVZGdGQVMxM3k2LTVIeGZMZGYyMWMxVmxMSkxONEFhNDBwN08zX3ZraGtIc0dPM1hnV29idjVRbHFTRkFkeU5VdnNQNnc5aWozLXF6M2RsSWxDV2Y3alpWQXZwd1lIZVZDZW96bDF0ejdoemh6T29ORGJ4RHp2Zw?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
       "data": "2026-08-17",
       "orgao": "Banco do Brasil",
       "status": "Novidade"
@@ -1277,7 +1293,7 @@
     {
       "titulo": "Concurso Conceição do Almeida BA: Inscrições abertas; 236 vagas. Veja!",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MT2NrQ3pIYnR6TU5LRkhyWVltOXZWNTVmelFXTC0zWmNkQldpanZpZElSWTUzVm00MFJPVzZHWUdIelltNkJ0TWVLZ0lGQlUtUHRCd0p0Rks1d1FkQzBkQVFZU2hmU3pmZTE5YTk0MlZRamJDZVp5VmJB?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-14",
       "orgao": "",
       "status": "Inscrições abertas"
@@ -1285,18 +1301,18 @@
     {
       "titulo": "Concurso PMDF: novo edital deve sair em 2027 e terá 2 mil vagas!",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1lwUEtBUnZkaEJPbnA5RU5yYm9sX1k0Y09PU3laUTA2WnBDTGIxbjJpTklFMHllUUtTZUoxUG9yZUhURS13QURCSERVU1J0X3BJXzFNYzRScGE2UDVuQjlBR1JrVktxMU9IalNUU1BMLTdNREdRZEEzZEUwVGw3aDdTajJXYlU?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-14",
       "orgao": "PMDF",
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso PC-DF: nova fase de recursos em edital para Delegado inicia nesta quinta (13)",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE1jR216V21MTXBRM2ZsOEN6S1N2bU00UWJITEJXdXF4TlA2dDJLN2tvdS1KV0JTYlczQ29wM0tHaXpmbGkzX1h3V2dnWVdZajBvVWt3eXVMamlqMEZpQkdTVGE0aDRHdkZaU3R1SlNRcVpGcEFJUmVBWHhXc3lnMUpleWh3TXJXbXVWZG5zODcyR0Vfb3RmSUhxbHVRUl9RM2x2dlNWMVp6T3VpT3ZVR3d1VWo?oc=5",
-      "fonte": "Ceisc",
+      "titulo": "Concurso Medicina Veterinária: vagas abertas e editais previstos!",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZ1U3M043Y094MXU2ZU9iT25MUU5YMDdub2VHYUF6N1M0Nzhhd044NGphcG5BNDREcUpzTXVHbGZoS1pfWnVpUXJJdlQ2THhPWFpGMS1SVDdvbEZoMGhvNlh4SUJsZ05KMUx1VGMyZ0pRaEh0Q2NuT2FZdk1iYWfSAYQBQVVfeXFMTlY5SG1ZUFRfRWtmSUNOa1ZOR2FvS3dLbUNOY2oyUXRMcVlqanNxOUlHcGt2OVRQQTROTHpra2w0cElhV016X2dENTBpSXBtZDV4RUtYYW5PeXNULVlYMDR6TXpodlhtdzFsXzNUQUdvR3paSl9fNTV4d1lXWjBUZXNPdm1t?oc=5",
+      "fonte": "Estratégia Concursos",
       "data": "2026-08-13",
       "orgao": "",
-      "status": "Novidade"
+      "status": "Previsto"
     },
     {
       "titulo": "Concurso Caixa: benefícios e rotina da carreira de técnico bancário",
@@ -1315,17 +1331,17 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso INSS: resolva questões gratuitas para técnico",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMWDZRZUp6bndMdUkxYnBYZzlDRFYtWl9iZWRXQnotWXp1OF9sbzFQQ2ZQS001cjhKbDNDdlQ3X1RQWWpKQ1VMSFl2elAtRU8zR3M3SzlFdlJ3d3M1aUFZVU1CUlVDbDAwTjRndzlwQk8yb1UtSVdPSnFjUQ?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-08-12",
-      "orgao": "INSS",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso SES DF: sindicato cobra transparência e novo edital",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNmhUYW11RjI2RFEtbzVXUnBYMlg1ZTUweUN0NFZiVVFxaURsTVBJQkVweEJWek5reUo5Wm5vSlRMWnVQTFdCaDhvLWxQMGNmY3JaWndaUk5Sd1piQVk5cFl3QWVSdzBnNlMyM1phNTJCbDRDcWFj?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
+      "data": "2026-08-11",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concursos Administrativos: quase 800 vagas abertas hoje. Até R$19 mil!",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83SlQ4dVFjN3BGOUNHb0dEUkt6YUNhQnZDTWdRdTBpN1ZVd094M1BzeTNXdC1QZUNrT2ZqSkVwXzRDa0JOM2tyT0lobEVlelZoX1dmT3RqamY1MVpUSmRKTUVlT2ZaMlVZdFFrZ2dwa0g?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-11",
       "orgao": "",
       "status": "Novidade"
@@ -1379,25 +1395,25 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Banco do Brasil: sindicato reforça pedido de novo edital em negociação",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUR4emo0cDg2WThQeEJrWjdNMkd1X2hkTXhUQzdZbGY2bFd4TGQyR1ZraGV1QUItOG5EMm5adzdEVUwxLS1iUjRfNDNncEFSZDNSRUMtZUdXbVRzMnFCZWZDTHhYQWNkMElRbUJNSGF4MS12ZWlrd0lZODZKZENhR3d3T1p5cEFVblNFb0RwRlVxNVptZ0pDZjNIek9kajEwRnhCOU9B?oc=5",
-      "fonte": "Direção Concursos",
+      "titulo": "Concurso Banco do Brasil: sindicato cobra edital por falta de pessoal!",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUm1fQ182Um5adVNFRWtTUHpGR2pac0sxVkE2THRZSkI0ZVdLRUM2OW1SazU5NVE5aXdscWpGeEJER3ZTWmpoT0ctX1FKMWh4d3N1T082Ml81S3V6dmpGMm9EbU80RF9qZGNYbXAtZGxod213cDhYR1JSRk9zcGFYamlTWW9RWTdicm5ZRldGZE9QTVcw?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-10",
       "orgao": "Banco do Brasil",
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Banco do Brasil 2026: edital pode sair em breve com salário de R$ 4,2 mil",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlNKeC1rTU1mUzdTWjV1TVc4bTZ0WlZYU0d5Y1pmbTBMalgzMDc2NHBKR3BRUU95WFJYUW5kQjBJM3lPVlhEY0tTcFBIMzNSNDlYZlpSdmluT0h0ZGhZN2wySVhlZlJtNUs4M3ZtZkpTSXgtTTRNRlBhdm5QV1QyWENKZzVELTRDMnVKQ0R0RFZoUS1OQTF3NkxDcDZ3SnFSd0RNT256czFROFZKX0VqOVBmVm80NURaVmdZY3pJX2JoQdIBygFBVV95cUxOVFRNOE5TNEhRWlhSY2I4dVB5RElUeWh3VlU2ZG9rYkwzeEZreF9RZXRRcTBuNGR4eVAtQXQxaElwSnVlS191Wk4tQkNzeGFJLUZzRUNIdW5Va1hjaU0yaTR3NnAxZ1R1ZFJfQ1JWby0tYUVITFNwRUhZbXcwZ1FENk14UnBtUkJUZFNOcVZ2b09zREZ0dTVsQlZZaGUyS2V5SEdfX0N3QlMwMEZUd2w2X0pBTU5laHdzcDBrUHdlZnltV2tmcm14bElR?oc=5",
-      "fonte": "DOL",
-      "data": "2026-08-10",
-      "orgao": "Banco do Brasil",
+      "titulo": "Confira lista com 55 concursos abertos e 9.858 vagas em todo o país",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3lVUmtCR2QyUUNPTlNSTjhPNEJLOGFPNnczS2t3QVZPbS1wQTVvNHB5ejhuWEx2UzFVSFQxSEg3WTN1aW1JQ2h3c01YT05xRkh6alJNNV9CU3FzUXhENjRTTnJteXN5QVd1Rk1lZ2dQdG1yVHVuSGZrOWVrNWlsdkxtRXdLYkVvSlJnMzQtMTVYenRZOEpieWVXWk1nMkQxaUt5OUk0d2tzNG9oMU5RSE9nUkQ0ZXpzRl9xdTNWNl9LdG4xVl9SNG9Vak96ckMxbEotZDZ4X0x1czFMdU02YWRR?oc=5",
+      "fonte": "Correio Braziliense",
+      "data": "2026-08-09",
+      "orgao": "",
       "status": "Novidade"
     },
     {
       "titulo": "Concursos GO 2026: vagas abertas e previstas em Goiás",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qN1g4Q2lqblllRUFxX1dVaHBUSFI2SmNQRzdIeGp1R0MtZkpZanFHbU1QTk5vOWVObERuazBTWDAzOU5YMjhySE1BeklPcDdjYVNtVC1sOFdKSy1NZWhVeW8tSmNBaUE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-09",
       "orgao": "",
       "status": "Previsto"
@@ -1405,23 +1421,23 @@
     {
       "titulo": "Concursos Educação 2026 têm 24 mil novos cargos autorizados!",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11MXJPMkhJWGVLUDFuLUM2WUNmU0hfSGtJQWhQTFFPNzFScUxyeDR5YW1Udk1TSjRkbUE2bmZnT2tXbXl2dWhrMHBVQnBJYWZ3SnJZRWlNWnB2ZEhQYWx0VE5xMElOMHc?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-08",
       "orgao": "",
       "status": "Autorizado"
     },
     {
-      "titulo": "Concurso do INSS: Governo adia decisão para homologar novo edital; entenda",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm5xRER3UW1Ld216ZFJKOGktYXkxcFg5SGFHS0R1OVZLYmJBUFpEcElkTmRqczBxMXd3RnZFY1FTbkFzZmdNZGstZ2tUYkptVnphSHMxdFZUUHFnNzNsM2c5b2RVOEl2SnItdkNuSDBxQWpVdFNadWVrdmhCVklNTl9vNHN3MmNoNDFFekZMbmozSUJ0R3c5M1h5b1VZQllVLXRsdFktZzdyT3BZNVk5azUyWExCX3VzXzd6SmpB?oc=5",
-      "fonte": "Rádio Itatiaia",
-      "data": "2026-08-08",
-      "orgao": "INSS",
-      "status": "Novidade"
+      "titulo": "Concurso IBGE: banca para 27 mil vagas deve ser escolhida em agosto",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkJ1ckRzVWNaU085RzBCWEV2bnlkQV9fNzg2TzhTT1FXQnJBcWZmM0ZvMENhdW1JWTJ0a21tNE9XQWtBbGw0S3ZyWmJfT2NrQWhlbDJ3cXV2SDNUVHpTNG1hOHExeFZCNDVCU3Y5Mnh3U0NkQVd4NVE5V0dvZ1RNR2dnR2hXX3g4Q2lPcVZ6bzlNQXhRQnRSc3FVYVY5VEFnXzZlc3dydw?oc=5",
+      "fonte": "degraucultural.com.br",
+      "data": "2026-08-07",
+      "orgao": "IBGE",
+      "status": "Banca definida"
     },
     {
       "titulo": "Concurso Cofen: edital em breve; quase R$ 19 mil. Veja!",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lbEFFcWlIbG0zN2R1dklsVC1ENXhfaHRacDBOdE11YjhDRll0UUVDRzJDWk8zUE1uY1NOLUNxc04td0dsYjBaOW5CUzFTNENseVBXX2h4SEYtTmdnemlJTzJB?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-08-07",
       "orgao": "",
       "status": "Novidade"
@@ -1451,28 +1467,20 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso CONTER: 310 vagas abertas até dia 22/06!",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VGdUX0N2WTlOalhWdTdELVBGSi1YZWYwVkE0d2Z0djV4UGdfbGI1TGpxWVJSUWZTQWxMZU1PWGgzeWdyLU56Z3dBQ2NTeU9CZHAxVFRmdTdkUTY5M0hoNzhkWQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-08-05",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso TCDF: Edital teve a 1ª retificação!",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OV3B1eG50ZEVMaFMtMUF0bzFfSUwxbnVGRlBueXBjM1VCMGRGVjZNdGJfbXZfck9TY1BHQTBMMDZpclFXYzhSOWNScXhTUDhHT3MzdWZ6SnZfdnhRRGNCZHBrdm5vWWhDd3locnZiVFU5YjRlaDQtYTVvQmVrMDg?oc=5",
-      "fonte": "Nova Concursos",
-      "data": "2026-08-04",
-      "orgao": "TCDF",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso Banco do Brasil deve ter edital publicado em 2027!",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMS13bmhjOUdUOFJUS1BzQi1pcjNjNVBVVXlQamlsN0dKWWFlTVJZSUlPa1RrRGJRMWRPVVFVaWdFMGxWcC0xMkdCZHF6bjhqNmhmd2R4c2FzeEZFbG5sVkF0YVlEVnRJclJrR1RJWWJQQThpQ3Y3THY0UmtkbHB3b25JTEFnRVpWVWxEZW9EWlZMaG5sV0s2UjhGS3dITS1hQjlZ?oc=5",
       "fonte": "Nova Concursos",
       "data": "2026-08-04",
       "orgao": "Banco do Brasil",
       "status": "Edital publicado"
+    },
+    {
+      "titulo": "Concursos legislativos 2026: Editais previstos e publicados",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SYVpFSVd3cnRLcTZGTEtYcGFjeVI3YV94UHY2TGR3SFpUSlJWWlQzak05UnA1aHM3RThXSjlPQ2YyU2pwbDRaQUNLMkVlcVdqcjZLMUpiRWpfRmFsREtuU0x1TUVFYnFiYThLaQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-08-03",
+      "orgao": "",
+      "status": "Previsto"
     },
     {
       "titulo": "Concursos 2026: 23 editais previstos para agosto",
@@ -1517,7 +1525,7 @@
     {
       "titulo": "Concurso SEDES DF: cargo concorrido? Saiba como conquistar sua vaga!",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkVhZnJ1dkw0dkFqaFM3TW1uLU5QZ0ZRSlV2S2ViR29MWElQRFFIYkxHZk1zQ2Z2dmJWTmtTYzY2VnlnenREOHpsRFNOQk0xZ1ljTzE2VFVkeEt6cVFDYV9RLVhWZlZiTlVlNkZxRG9qMVBFT193cnBxR241dndpSTZrc0JQdw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-30",
       "orgao": "",
       "status": "Novidade"
@@ -1525,7 +1533,7 @@
     {
       "titulo": "Concurso TCDF 2026: retificação ajusta prova discursiva!",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Nb3hKaE9iNzdaSzEyMmdUY1hyYXRrRUplVW9JWkJCTlc2V20xOWM3NGZzUWM4aG1JM1ZFaGhsOHhwaDFEUVRRRXQtMkRlTUxzQks4NlNoSDduXzJpRUp1OTc0cmp0bi16ZHNTdmlNOUFRY2dXcmVoVkl6bFJuMHM?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-30",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -1533,7 +1541,7 @@
     {
       "titulo": "Edital do concurso do TCDF com salários de R$ 14,9 mil é retificado",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGhocm9wRmU2U1M5YUlSbVpfVTU5XzJlb0o1ZFpKZk9tMTFCc1R6REQ3eDBYNl9sdGVlVFRteE9OOHRUa3hKc1RPM0lCQV9KMmh2ZXBaQzd0YUUzRWtSU3kzdFZrN0hqY1hfMjhtRW1Bbjd0enpjNzZLdldfOGhIS2RPUGoxVmV3cVhkSFdVelRUVExYbktxQ184OXZKRGsxZlB5VEZTbmFOM3MzZEE?oc=5",
-      "fonte": "Metrópoles",
+      "fonte": "metropoles.com",
       "data": "2026-07-30",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -1561,14 +1569,6 @@
       "data": "2026-07-28",
       "orgao": "SEDF",
       "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso TCU: homologação do resultado abre prazo para convocações",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmdoOUVuallGb3ExSHA2RklPeUJYS0ZBRUhTSHZtRlFCclRhWFpsU3dLbURHalhpNjlUUndyRGlLQkpnOWl6QWpXWjJCcWxVTERqVHdLTmpHZTZ6SVFvc19uRXBlbW5PNjAxTzBFRmJEREJLZDEyLVFraWoxWDhIb2ltdUxHcDgwOC0xRXFRX3ZJQVpCdzRaX2xObXJ6NEd5MDZTN0pn?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2026-07-28",
-      "orgao": "TCU",
-      "status": "Convocação"
     },
     {
       "titulo": "Dataprev lança concurso para nível superior com 1,8 mil vagas",
@@ -1619,17 +1619,17 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso INSS: MGI faz contas e tenta viabilizar novo edital em 2026",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkFxU3FSTzA3V0RhN2NialpMU2lQYkFmR0RmYTQ4dGNUNXFpSE1rVmNXNVp5MlBlU0I3NjQ2MFgzXzZ6UTRTamVMbWpHRFRna083MHFVQmRTZnNiUklPb095NmNpUWRuYlJFYzFVX2hNT3ZQeS1Sd0VtUWw3N0tDSFZLRUN0TWVJSUR1bGFR?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "titulo": "Concurso SEDF: TRE não se posiciona sobre possível impedimento de edital com 10.604 vagas",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVlJFY3Y2b1lXRlJGdnlQOXFaSmZ6OS1zN29uVVFqVWxnUzg0ZDVMTFVfc3BJRklKOVBuM0F3cDhHSFJqelZIc0JKRGtPcjV6S203MG9FT3lnSzh0RE5iSHNaVzBZRFQzVHNmZkIwTUFQTElTdXhIZG1QYWZrckg1OWJnMDRjeDNYOWRMLWZLTVlXMk1LTW93ZlB6bU1zU1ZqWmVhOW9NMU5ZZUVWSXh1N2dIV0pSYXE1Y0VNN1AwZ2RvZWdYTHdyZFhjbXrSAdIBQVVfeXFMTlU3dzNFcFR2WHZwdkpDYnV1b1BsUVB2ZkxKZVNmZ1BmODZJMjRrUXNXU2NCV2o3WmlIMkJycHNIQjUtamlMZEpFeFRqdUhaYnJSTW1pNFdJQkxDVzNzQm5xYnNwVkZWdURNbml0bDdhbmt2Rmh6U0EzbFNZMEh2aHFUYnQxekJCMmJOdGVZdGl4Z2JFM095OUVnZUFoR3JQVjJXMGdFLWpsWHhwLXNDbml6RlNOenlxYzBkMUxRbVRUQkRic3ZQTHZYV1JneFRQcENB?oc=5",
+      "fonte": "JC Concursos",
       "data": "2026-07-23",
-      "orgao": "INSS",
+      "orgao": "SEDF",
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso do INSS: qual a previsão de um novo edital? Confira",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUhoSFBGOE5Qb2tfc0NENk56bFRfZUhlSE1BQ0R4LUE0ejM2aGVWbW95U0dUdWNBSS0wdEtwZUVKNWFmNkd0YzJQenJid3BmUGlnS1dQYzdxYng4SGcyNXdEbUpZbzIySHR5NDczZUo1czJPSWlqUnRRQVZPUkhycndNNkxfNkpWVENXVkdCYWwxcHVzQWhnNllYVzNkT1RscEZIVTgxWGE3X3RPRnBnQkctUQ?oc=5",
-      "fonte": "Correio Braziliense",
+      "titulo": "Concurso INSS: MGI faz contas e tenta viabilizar novo edital em 2026",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkFxU3FSTzA3V0RhN2NialpMU2lQYkFmR0RmYTQ4dGNUNXFpSE1rVmNXNVp5MlBlU0I3NjQ2MFgzXzZ6UTRTamVMbWpHRFRna083MHFVQmRTZnNiUklPb095NmNpUWRuYlJFYzFVX2hNT3ZQeS1Sd0VtUWw3N0tDSFZLRUN0TWVJSUR1bGFR?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-23",
       "orgao": "INSS",
       "status": "Novidade"
@@ -1648,6 +1648,14 @@
       "fonte": "Estratégia Concursos",
       "data": "2026-07-22",
       "orgao": "SEDF",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso público: 10 editais que ainda podem sair em julho para ganhar mais de R$ 10 mil",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1RBM25LbHNVUG9TWnhRbnpNSnFfM2Q4cnplNUFaaVYxVi1peUM2YTRmZV9iUlBIc3BnUm1Ldk9LV0lGdzVYRTdIMVZEb1I5dG5RdWRPOS12R0lJbVBlYVZ4YVlTRWJNdkVvSzRsRlhvRmJpUmtNeEdYUlBZU3hsN3hzZ3RmeXN6eDVUclhPT0pBNk5DN2NJUHhvSQ?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-07-22",
+      "orgao": "",
       "status": "Novidade"
     },
     {
@@ -1677,7 +1685,7 @@
     {
       "titulo": "Edital INSS: processo de autorização chega ao gabinete do ministro; tudo o que se sabe!",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzVrNjZ5X2tKLVlWV1dNcU0wVGdJQ2o3M05lQUVwdHhWNjkwVTluMzRXWi1nRGxTRWthTGV2X3BmUWdqbFpOaHJFbXlhandhSmdxd0Q2UEN4eWp2M1JRQWY5TmZDV3FReVQwYkNPVy1Gb0dEdjJXWm1OX3VqMVRGQVF2RUVnc0h5X0t0UXY1Y0J2ZDNBd3BUNzE4ZmQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-20",
       "orgao": "INSS",
       "status": "Autorizado"
@@ -1709,7 +1717,7 @@
     {
       "titulo": "Quais são as últimas notícias sobre o concurso do INSS 2026?",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1scmpUdTdsTlBCVExvSG5McXJmSHpIanBOOUxJT3hlRHh3VklfMkxFeFluNVFZTEdLdjRFM2VLTWozYl9qRHJIY294Y1NRd2lGazVMVFUzWDFReDA2c0NxLUNqTFUxTWlCMkI2MlluSXoyOHFtLUNxc3NnbTJJQQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-17",
       "orgao": "INSS",
       "status": "Novidade"
@@ -1717,7 +1725,7 @@
     {
       "titulo": "Concurso Metrô DF: relatório reforça necessidade de novo edital",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODdTaENoMlhhbXVzb2s0d0hXT2dPYmlWM0xOdkNKVWFfSmxzWXFXZXZCdUpSbGpSa19Xd3gyWkdaQVNpTzhHUjdBWkhOZ2pyUFZCR3A0b0RsVzB5SFBnR1RUc1lvUmFHSmlRNXhCWkZTYmMwaU1ka3FHQUFPbVdwd0dvT0cwZ0U?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-16",
       "orgao": "",
       "status": "Novidade"
@@ -1733,17 +1741,9 @@
     {
       "titulo": "Concurso TCDF 2026: principais datas do edital!",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIdkljZEtnZmtjbEYtMml0ZmpjYW9ic1VzY2VWeWhybmZVbGxETHlfTzdfQ0g3SlRUY0o4bFhIOUxpSTZKYmFscDNlR3VFXzhOQUtZNUtTMDRTY3FDZFFzeFVLOWVHMTA0NFh3aThZX3FKd3lRWFFoQlQ3c0FYdw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-16",
       "orgao": "TCDF",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso Banco do Brasil: BB indica perfil do empregado que busca",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFhXNS0wMEh2dlY4ODEyc0lRM3ZnSllickVsaTZXTHJUTkhwTkRRc3lucDFndXRiV1RHdDBfMVZHWkRuMnNUZjJ5QXVucy02OHRiU2t4eXNIQVcwNmxFQ1BUSk0ycG5wMHdXa3JidTh2UGdYYWJSVjU2a21ndzZqbg?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-07-16",
-      "orgao": "Banco do Brasil",
       "status": "Novidade"
     },
     {
@@ -1755,17 +1755,9 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Banco do Brasil: tudo o que você precisa saber do edital que pode abrir mais de 7 mil vagas",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjUyOWZIbjRoQS1wVkh6aXJ6Y2F2Y2g3QnNyNkFfNzhUc0tiNUFFejcyNkZFdGJiSk8zVnZyRDFlcGZHMkZCWko2ZzhPTEJBSS0xRXdNQ3Q5Umd0bC1Za3hPWUdtY3E5ZUJYYWo1dXp3d29odkdmMS1kMmZOOERfcnc2UW9DdElCZHBndjBXNFF1dkJ4YUFSNWNSeEsyQXExSUE?oc=5",
-      "fonte": "Diário de Goiás",
-      "data": "2026-07-16",
-      "orgao": "Banco do Brasil",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso SES DF Especialista: MPDFT recomenda 4.166 vagas!",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0V2ejBjelBNbGxONGtvbjIxRVREa0p0QjVqTDBMbDFHQ2xVMVhFaFFPcWVPMUdZOWl1c3h2SEtmcWF4eG9OM0pSRjlGcjA0QllKbWgwN3FmNEF4NFFFQ3JCYjA5SXE1QlVqQ1d5OFlxeU5qVmc0TkRuUTN5a0k1c1lxM0xVTmtleXpIaFVwbkl1UEtqSTh2MEJB?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-15",
       "orgao": "",
       "status": "Novidade"
@@ -1797,7 +1789,7 @@
     {
       "titulo": "Concurso INSS: déficit de 40% demanda novo edital urgente!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazNBM2lNeVFUQWRoSE5LY0x3bnh4RnFjYVduZkt6NXJsY3JXbUFxcTdVSjc4N3pZaE1jSXVmdmExUnlGSGhaTVJTTUJiRlVOV0NhU3dBU1Y1V2RGX0M3a041ZnY3RTFCUWx6SEc1UnFjZGJWbHc2ckpwbkF6TGtmRzdlQXZncnFFazJQcTRXYUVOT0lwY2t5Tg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-15",
       "orgao": "INSS",
       "status": "Novidade"
@@ -1805,10 +1797,34 @@
     {
       "titulo": "Concurso TSE Unificado: autorização e provimento de cargos!",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOEZvd0YyWVQxU1F1NUN5NktPZnFCOVUwdnZ4MlFzTE9WZEFUazNRcTBsU3RNUXZ3SDF3N2xudFdEaVA5S2U1NDZmendDaS15d1RVVmZFekZqMVBBeTZCUXcwZ0FsSVZVdEJ5Mg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-15",
       "orgao": "TSE",
       "status": "Autorizado"
+    },
+    {
+      "titulo": "Concurso SES DF terá 90 dias para definir a banca; veja!",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZ2RtOXI3cXFOUERfRlRObUdhcnlWUjR4d1RqdWNQcEUzQzYwQ0Y2bEg4dHBwV25faVVhc256eFZZR1E5alBnSnhua1FrVEZ5ME5ndW5lRWNRTjVTWENZZWljX3lXX2ZEa3lyWdIBckFVX3lxTE5wQ3lOb1RJWVhVbjVDUTFuTTMzakFkS3pHbmlUYVNadjRrVTNfRXV4d2hSbTdQR3BlOS1rMWVrU0pkN1RIZXpULTBqV0pmUDRyRmNuMEd0QnhPd19COHk1dnJSang3QTRJenczSU9TNEpQQQ?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2026-07-15",
+      "orgao": "",
+      "status": "Banca definida"
+    },
+    {
+      "titulo": "MPDFT recomenda realização de concurso público na área da Saúde",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVJOQkZQdTA1Z1owVlo0VVF0czR1LWU4a2JVeUI4X1YxZmpDUDRhQnEtMm4tX2REYVdvWkpGak5ZbGVwTGxEVk83WktfQ0VYT2tFVmUwYWUxOXFjUWZIZ3VHZDdBOE9qenNwaktPRUlPNjRyWUlUX25LTHpEQWgtRUpYdEdxOUNVS1N6NkRrVGlQallOTkhmanRJSnRUTTNuR2U4WS12ZGdwTzA1WnRHY241YjAwZUpXTDFFVlI0cGJwLXNLMHkwNnNrMzlaZ9IB0wFBVV95cUxOZ25rRHJGWnVfMmZ1UkE2U2psdkkzRThJNGYtZHItNTJ6MURwU243eC1hclFsZU1fdHpPWHFXd0NyUV84Ukp6SzI3ZEJMS0toZGZvUXJhemt4TVA4QWxySXBhTWlyQXhfZzFWR0hBQ2tvZEFRM3RGb1dhQ0JKdmowMDVQbVRQLTJna2k1WHo3dXN2RHVhRGtjR3pCSWFReUJBMEE1V3IySEdLYnphbmZxQl9Ma2NHNTZ2TjRoai1wSkFXUUczZ0ZqWDlKcFRoUUh2S2xr?oc=5",
+      "fonte": "Correio Braziliense",
+      "data": "2026-07-14",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "MPDFT cobra concurso para preencher déficit na Saúde do DF",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmZKM1p2ek1FVU9seGIwcE9rSVIxTEx2SVV5ZWEtTFJhcWVXX05fano0ZGIyUW4zTmpHQmc2SU9LQnJiSHpiRnFWNHVVODNHNVlGUDItdi1fNVhEWE5TUm5vaV84ejJGN1phZG1fSHZJaEdCdUVnLTZqazVQWHdialNOOGJpSENkeXpiQ0RTZTE0QXVuVHFzSWhlNFEzSUVXRVE?oc=5",
+      "fonte": "jornaldebrasilia.com.br",
+      "data": "2026-07-14",
+      "orgao": "",
+      "status": "Novidade"
     },
     {
       "titulo": "Concurso SEDF: edital com 10.604 vagas aguarda parecer do TRE",
@@ -1829,7 +1845,7 @@
     {
       "titulo": "Inscrições para concurso do GDF terminam nesta segunda-feira (13); veja cargos e salários",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzZqMUtPTmRXbEU0NGhVUDZXOE9qQ2Y2QWQ0U3BPcTVEd2hNUW9FbmJidUZDOFhXa1dTSXdJNVBpOVBjVXpMTlExNEJMU2NtNzFzMEY5STFfbE5sYVBKa09jeGtWVk5kUE1YRnZZTFhwN3l1ZkNfNEhuN0pSZ2VocEpmc2hrQVNVcnN0c05qSzFzVU9kcGpvRk4tR2dodE9IY2IyVlJFNWdNN0dyQTZuYWFWUUFuVDhjNkI0WVdUbmgyWkxnZU9GUUhBajJfMVhDZU94c3VWRTVZZF9iNHhPMVhiVjJ0VlHSAfYBQVVfeXFMTXNHWUF1ZHN1ZVNFdnRFOWtnSXh2QlIxWE5XVTN4bWwzLW84UzhPRHF5VGo2WmVLOV9odUkxLVNwdEpKVEQ3TlF0OXNteTZhaUFEOGhBQl9rSFRmeWxBcjY1TlpUbEZSZXFHT2t0MUtLZHcySmFqbGRfdFlLVzNWWFJtUGVqZFlFMEIyaTJHWktXZ0tyS0tDN0Z3dGxNUEVQU3hSQjZYakx1WEJQOW90NVVlXzgweUdFY0pMTTF1cEU4YXpBdFpvWkdOWk5TUzJLWHI5bkVjbGExOV9ndUNBV3hYQWpuX2FzUnJpOVJSWHV6S1pBSFBB?oc=5",
-      "fonte": "G1",
+      "fonte": "g1.globo.com",
       "data": "2026-07-13",
       "orgao": "",
       "status": "Inscrições abertas"
@@ -1841,6 +1857,14 @@
       "data": "2026-07-13",
       "orgao": "SEDF",
       "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso PC DF: ao menos dez bancas na disputa para carreira de agente de custódia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFBsYkFobEpCeDFGWFNVQlh1VFRkTS1lUDJYSnpab1QtRnRoZlB5VG5TYkRxRDJfU01IVWN4M3p3NXJHdmZndEVhcUttRzNlSkRMTVpuUUNvTWxxOThoSjFLMTB5LWdZRVAya1FRXzAzdUEwVV9DVWdqZ1dWSm1DU3hYNi1KQ0psN09pMXJhbHU0dmQ1UnhWN1FzRmVRQ2czenAyeldzN3RjczNCUnB5cGlVNDJoXzcwdkZSaDJEem83a2NJSzlockZPbXpxd9IB0wFBVV95cUxOc3FHOTJleDZ1UTFwSVZsS1FvS2lKdXhOMHRqQ0ZXVGJQdm85cll0NnVxMjVWT1F5WnVYNFFhczlyUHA1V0tPX3c2WXUyaHdQXzBlQTg0WGxtUUhPa216VC1VeFdnR1hFYVVxdjF0ZTM2cDk4RTlyVmc4X2JEbGVMMjl3aE5ZTEdKM0d4WHY5MkdCNWxSdVRwY1BfWVVvTElnQUVnUDhITkxfUmlieWl5T1U5d096bGZkaUVTU05uWDIwY0gyRDllUThFUE5ZRXA3R19J?oc=5",
+      "fonte": "JC Concursos",
+      "data": "2026-07-13",
+      "orgao": "",
+      "status": "Banca definida"
     },
     {
       "titulo": "Inscrições para concurso da Sedes-DF encerram hoje (13/7)",
@@ -1885,7 +1909,7 @@
     {
       "titulo": "Concurso SEDES DF: últimos dias para se inscrever!",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFVPSXNybUtnMGN3RDMyQlVkelg3enM2NEhWQmNLNlNuU1JBVjhxQU43OG53dWVnQWZKMWxPMHJfNjdIZUwwTmVFUGVlb1hybDN1bnVBLW5zNmd3Rm5pQ1A5MmE3NEZIbEowTFEzTEt6X21ETEVLUFdYb0ZNWmFHVGRKdkpraVFqVzNldw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-10",
       "orgao": "",
       "status": "Novidade"
@@ -1893,7 +1917,7 @@
     {
       "titulo": "Concurso PCDF Perito Criminal deve atrair 30 mil inscritos!",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0xHN2pKRmVXZWV3YlBjY043TE03WHZMQjd4RVZlaVB6SVNEVjJqWFg4MjBMeFVkclRtQUxVRzVlU0p1NldMUmQydE9JdUJkNnBUUkNGUzdOeEF4dUtiTXEzZHFPeW5xdGM4OFZydmh3Y0NxXzI0U0dST18xamhrazBtMWoyUHZJQ2ZtR21FU05EQQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-10",
       "orgao": "PCDF",
       "status": "Inscrições abertas"
@@ -1915,14 +1939,6 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso INSS: vagas abertas e o que esperar do edital",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0g5YXN1V09xWnRyVk5OMHZabmlyaUNUOHl0ZXlFaTJwVVJuemVFZ21pVHBxQWxucnQ5OEVYcVZJb3U1Mi1vc3lPMmFIVEsxTWNGcjdpRGdpU1M3TU55LUR3U0NXVHlPcWJuMTFVQ1VxRnJPUVFsN3QzNzgxRFJtYW14R3p2YVpwbFZ4czFVUlUyM0R1d1VkUExTbGxPTmREV0JnSlY3anRfQUtx?oc=5",
-      "fonte": "Correio Braziliense",
-      "data": "2026-07-10",
-      "orgao": "INSS",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso TC DF 2026: sai edital para analista administrativo",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVRaeEE5QlozanNscjJOWno3djIyTmVDQ3VhNm5wY253TGNOeWxyNmlNQnlaT2lxUkxUeE9SRVAzQmhPQWtpdTduaWpPMUdHR1hZb3pDODJDNXhDMjM5UzBabVFmYlhs?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
@@ -1933,7 +1949,7 @@
     {
       "titulo": "Tribunal de Contas do DF divulga edital de concurso para analista administrativo; veja salário e vagas",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWER0ZjVpUnFFRVkxVkJBbFd6Y0JwMFBDUEpjWHZzYmw2S0ZBRXpZQVQwOUFWNFllX2toTFdNRUZ6UmxsWHk5elA1UWlnaXltNEp0NkdqZ2NEWXpMalJ4X0VWQkMtMlcwYzM3YjBmeTlMRDQza1QzMjEzVWQwd1pzOWh0QVp3dmtoV3ZrS29FSXpvNWNyYmRMLXB0WWs1NFBNX2x6X1NXSVN2bHQyenVpSGliTEllVDNIU2dmV1Nma3kyY1QwbHBERVpHRjR1bUN2YlRqQ1JuRWEwNTdmSHBPX3J0VFZ2QkxueHRLUkRXYzgxZ25FVlROOUxQWdIBigJBVV95cUxOWHVxbk5SVjNFTnNaQ0MwSXllQzl0U3ZxamRRV1Zwb3lXQkdiMldLYXpaeDdWOW9LRDdBRUdWM2ZjZG5LZUZWX24wSFd0VjhDUWZCMnBjWmxuSi1HM2VyQlkzT0hXWWtHMk5XMVoyZUhSUWpLWW9HNWZhdU1TMUVXdUgxQ1Yyb0J6Qy12MlAyZS0tWXRqQWlrck1nWjhYNnlHM2Q2dmxFRFRSOFNrQldveVpSR2pySy1PVFNMc3JWd3VGUDBZQmgtNmhBc2JTSDFwNmNsOUdBaWJPVFYxUHpaeXFpb2hqR2NIdUhnMjNZLWJTMVRfUVc4ZGx5WURyOTVmVEtHdVJFUDR6QQ?oc=5",
-      "fonte": "G1",
+      "fonte": "g1.globo.com",
       "data": "2026-07-09",
       "orgao": "",
       "status": "Novidade"
@@ -1949,7 +1965,7 @@
     {
       "titulo": "Edital TCDF publicado! 10 vagas com iniciais de R$ 14 mil!",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lQ2EzVDF0VHN4WU1FRnk4Q2lWalFheHJKTHNILUVyWllRVFYwcHlTcFVnNzJTSWFsenM4UlFrZEwyM01Venh5RGpVUEFxZ0xldkpJcWxfWnE4VkNaaVk4THVyVVBwdTVMdWhxTlVyRnNkVmtBaEpUMV9JNUtjZw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-09",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -2013,7 +2029,7 @@
     {
       "titulo": "Concursos DF: LDO 2027 prevê nomeações e indica editais!",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BWHlGcmF2VzlUd2RzUU9HMEltb3pFTHd4dzZXclBlODBpcF82dk5SUTUyN201d0lKYWtDUTgyekFEZUdRNE05YlV5ZjdnbGNKbUxyUHFBYktpMWMxX0pLT2tNRkpOOUw5eDJN?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-08",
       "orgao": "",
       "status": "Nomeação"
@@ -2053,7 +2069,7 @@
     {
       "titulo": "Concurso INSS 2026 nível médio: vale a pena começar a estudar agora?",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OS1RJb3J6M1hiNDJpWkpEeng5b29kWGxGV3NLTW9GaGs1SEUyMmI5T0liSzRjVE5lMTRTWVVld2VCMUpnOHAyVC15SFR5OVUzWlNYMEI2TlB1bVlQbGV4ZzVPRWpaSEItcGpBM3BwUi1LZU1rSDlj?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-07",
       "orgao": "INSS",
       "status": "Novidade"
@@ -2069,7 +2085,7 @@
     {
       "titulo": "Governo autoriza concursos na Receita Federal e BC com 316 vagas",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFBXbEk0TlJiT3doWjJDMVZXQW1NRFRmX2taOGRBOUVMbGJCTU5rUFBUM0o3NnVVcXZhaXhCUWdNVXZ2SklVNDRVQ3gyTGMwUi1EOXpoNXRhVnVoN25tRVVLTVZfS0dOTVV0VHFHOXRxa0gyeExSSjE2LTJQZDZWUk5IMTNWaXpBdW9PRkllQVR4akFvMUtyOUJFRFh5S3RBeXNPeXRn?oc=5",
-      "fonte": "CNN Brasil",
+      "fonte": "cnnbrasil.com.br",
       "data": "2026-07-06",
       "orgao": "",
       "status": "Autorizado"
@@ -2079,6 +2095,14 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1JVWElRZmd0NkY3RThjRGFyMmQ2UjZHMUVfUHN5ZUNuSThMM3p3WjVOYWpNOGpmWk9BeTRyeFp3S2JyeDFCSEo2ZVBVNFc3SFI5SENCeHl2OUszbjB1dEVZd2dtM2dVdGxXbHFfTm55X0J3bmc0c2RFS1ZCVVFkblpuUHloUDF1dm55bnZaeXdtdHJWMzdZ?oc=5",
       "fonte": "Exame",
       "data": "2026-07-06",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "LDO 2027 prevê provimento de 6.545 cargos em concursos DF!",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaS1YNHJrNnBZVGZwWGh2ajRpYnZ3aU9GWDhLOUhnNVVNZ19BdURJSzJOOXFfeGFCbkdHVkRlUElNWGRJbEhIc0FMdk5ISm1aLWNBS2x2bDNQeHJ5OW5KUS0wVjlQVy1pd1h6cnlyS2stQk9uLUk1VHpTemR6YjlfWmxNNHRKUQ?oc=5",
+      "fonte": "Nova Concursos",
+      "data": "2026-07-03",
       "orgao": "",
       "status": "Novidade"
     },
@@ -2101,7 +2125,7 @@
     {
       "titulo": "Concurso SEDES DF: saiba para qual cargo se inscrever em 2026!",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMGhsV1FjaEtJdVpERVBkcGNnOVRiRGZHVDRtVEdZbThmZEc0azlibHd5RE1FekFsbnRnX1VnU2U0NFprWDRsRmZvVTZGclpweVhlVzJ1dTNEaTVtNHNqZXBjRndfV3B1VEp0SzBSaHh0SndrdzNN?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-03",
       "orgao": "",
       "status": "Novidade"
@@ -2109,7 +2133,7 @@
     {
       "titulo": "Concurso SEFAZ DF 2026: quando sai o novo edital?",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVURxU1RDOXlZLWxpUl9Qa0Q5WWFsOEdWWnYtV2UzajJHU0JJMVVhcUtSQm9uU2FFRUdfUHo3XzNJWGFaR0RYZF8yVjFtTEFDQk85aGxjb1ZKUzEwemxveEtZYnVhTnJOMDBJbEpLVkdWZzdlbU9JbzR3TGtMSTVTNklhRG5Eczg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-03",
       "orgao": "Sefaz DF",
       "status": "Novidade"
@@ -2128,6 +2152,14 @@
       "fonte": "Correio Braziliense",
       "data": "2026-07-03",
       "orgao": "TCDF",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso IBGE: retificação aumenta 20 vagas no edital!",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aNDhiU2RsbkNSUDF3ZnNXNVRxVlY1V3dUZlZ6NEpWRnZnT2hxWnk2SDMwN0g1TXJTYXEwdEpkYTRTSmNUbl92TjBGdURsbjY4TjNybjBvSGJqNzFIcXNEWnB0T2hYS05RcDE1czlPNW9QVE1KWS1McTJQYXNoR0U?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-07-03",
+      "orgao": "IBGE",
       "status": "Novidade"
     },
     {
@@ -2205,7 +2237,7 @@
     {
       "titulo": "Concurso TCDF: contrato assinado com banca; edital iminente!",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ajRmMGpHZENjNm1oMmNRSWpzb3NlNmpUemc1eHJoMVZhaDhwNjJ3Q2F1Zm5xcW9VaVBRRHZ5YXhIN0Rka0FnTDl5c3NFMzZhRUdOUXZMX3htZGNqeXVpa1p5WlozRmp0dTJLSWw2NHFFUDlVNU44anI5d0VhS2s?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-07-01",
       "orgao": "TCDF",
       "status": "Banca definida"
@@ -2219,22 +2251,6 @@
       "status": "Previsto"
     },
     {
-      "titulo": "Concurso INSS: presidente e ministro reforçam necessidade de novo edital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHJPRFZSUkxRdUZjbUZqY2lrcUN4ZEhvNUFrOG1neXVaVnVmTkJZMFZNQ0VRaEUyaGZ3TzBWVVdETzRweGNIWlFlcG1LWU9fZ1FPZ3Uyc1c1WUNtSVNFYmtJY1VkZ0MtREtvdG5pelhMSlZNZ0tVUFkxLWNNOHZIbnA4enc3WlZ2UzJOOW9pOWhTQmRaaFhBUjhXd3NUMV8wRXc0b2h3cnJYTmM4cHg5eGVvV1R5NTFKalQ0?oc=5",
-      "fonte": "Focus Concursos",
-      "data": "2026-06-30",
-      "orgao": "INSS",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso INSS 2027: 2 mil vagas solicitadas; autorização em breve",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkE5R09tN2hvSVY1NWE5NWZ3aFNpcVI5MmFERHZNdV84VmdHTVBnd3BMOXROZXRSdTZjZVhwaHJ2dUdEbE9CRlBhNW8yOUFzbFhoOFhsN0ozLW9hT0t0SmRrOFExa1FxZVhtc3NpdmVJZkxzeEp0cEVwdEJKOEtGRjVhSEUxQW1lTEE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-06-30",
-      "orgao": "INSS",
-      "status": "Autorizado"
-    },
-    {
       "titulo": "Concurso INSS: pedido emergencial de 2 mil vagas é confirmado!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHVSUkRrOVV5SDB6TXRCakFVQmFrcVFqenQwanQ5bGJTVmhxcHQzck9fZVFfRjRtZHJDeTR2a3d0UUR2TGtzamVia0VsRjhXckVaYUg5dWRtWDJMbjllTTRJallEVmhmbDQ5NWEwVjM4emUxMmtxUEtYVWVMR2lTY0NCeTh3Q2hmekdCOUdGVi03YlZVdWJZOA?oc=5",
       "fonte": "Nova Concursos",
@@ -2243,8 +2259,24 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso INSS 2027: 2 mil vagas solicitadas; autorização em breve",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkE5R09tN2hvSVY1NWE5NWZ3aFNpcVI5MmFERHZNdV84VmdHTVBnd3BMOXROZXRSdTZjZVhwaHJ2dUdEbE9CRlBhNW8yOUFzbFhoOFhsN0ozLW9hT0t0SmRrOFExa1FxZVhtc3NpdmVJZkxzeEp0cEVwdEJKOEtGRjVhSEUxQW1lTEE?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-06-30",
+      "orgao": "INSS",
+      "status": "Autorizado"
+    },
+    {
+      "titulo": "Concurso INSS: presidente e ministro reforçam necessidade de novo edital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHJPRFZSUkxRdUZjbUZqY2lrcUN4ZEhvNUFrOG1neXVaVnVmTkJZMFZNQ0VRaEUyaGZ3TzBWVVdETzRweGNIWlFlcG1LWU9fZ1FPZ3Uyc1c1WUNtSVNFYmtJY1VkZ0MtREtvdG5pelhMSlZNZ0tVUFkxLWNNOHZIbnA4enc3WlZ2UzJOOW9pOWhTQmRaaFhBUjhXd3NUMV8wRXc0b2h3cnJYTmM4cHg5eGVvV1R5NTFKalQ0?oc=5",
+      "fonte": "Focus Concursos",
+      "data": "2026-06-30",
+      "orgao": "INSS",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Cofen: edital iminente; quase R$ 19 mil!",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MS3dkaWUtQzlJZlpLUTlMSzk5MEFaWDF0Y3JmVHhuNW1EdVExY3ZlUGFPSnpENnRvQklPU1FHbUxwMHFremxFM29oQjJ0T2x4MmF3M0VEUXlfLTJnSnUwbEdqNV9ZQkJVT1Rn0gFwQVVfeXFMT1ZuVlFJMTZEMTBmZlBEMUZUTERGUTl6NnRESUVJaGJXRXFYYmk0cGhMekpUa3dJQ0FrYXBMaEt6SDBDODZXWF9YMWJnZ1RiX1VvU2liTnJXd1lFc2RKeWI1a2F6eXFRSDQ3SFRrVHlJVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MS3dkaWUtQzlJZlpLUTlMSzk5MEFaWDF0Y3JmVHhuNW1EdVExY3ZlUGFPSnpENnRvQklPU1FHbUxwMHFremxFM29oQjJ0T2x4MmF3M0VEUXlfLTJnSnUwbEdqNV9ZQkJVT1Rn?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-06-30",
       "orgao": "",
@@ -2269,15 +2301,23 @@
     {
       "titulo": "Concurso INSS: Ministro revela planos para novo edital de 10 mil vagas",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMk5MU3lIb2NJX1V4WEZmbHdiZnpkR2MwRnEyUjhONmRmZWU1cV8wdzBjM1dFd05lTmhTWGE5SnJlZi1PNGlBdkwyaERhNGVxWDQ4TnUtb2x3bi1VVzNJVkw5OWpMTVc5NTRZaVIyMkN2MGVEbzBlRXFPYy1VYXdnTWl5Q1VHZw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-26",
       "orgao": "INSS",
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso do Conter prorroga inscrições para mais de 300 vagas em Brasília",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWxkOHdUdGl3Q0RGMUdDX2d5OXZzNHZMSGFGVi10RGEwLWJ5dVpvTk5mQkR3SGNHZlN3ZUEzUGxYSG43SHhnb0VCZDNoNnV4dUxfbFlLVi1PSXg1bDVDOGllel9sOHdVbURJN1UtcDNRcmJlSHhRczRsNHdrOXRDbExwRktSbEpOQVlGZTZHUEtBc2VwR09pMlh1cWlMN0R2Qm82V05Yd2RNQ1dsQ3ZQMmkwT2lMbnBod1l5UzVzb9IBxAFBVV95cUxNRFdaNnB3bWdmdHdxQVZtdVdwZGdHV1hwWF9VOUNyYUxlQkpkenhiZGpZTWJMd1JxSDN2X3BSNU1HVFBOcGVTTXp4YjllX0hxLWkzSFZyY0lIRk93U0FLV1d6eEdrVUxJMmEyYV9XUUZhdGVKU1FNZlJqaE1wbDFDMlVONHY3SmJlbU5XYTA3TG95Q2JvdXRDRXo3aHBHRm01YlV0ZFdlNU9KLWM0YWpfbDBNQ1BvRnA5UGZ6SXJjU2ljdVNR?oc=5",
+      "fonte": "JC Concursos",
+      "data": "2026-06-25",
+      "orgao": "",
+      "status": "Inscrições abertas"
+    },
+    {
       "titulo": "Concurso SEDES DF: live de hoje explica o que mudou no edital",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnBJODRJdm5qNENQTmZ6R01wXzBvV2hnWWVFWDhPd2gxaVFGdU5BVko4YkUtcnF2Z2E2Xzh2LTdJZC1vbGNzRUdfaE8wc1YtdXZMQ3E3VVFJLXNaTEFIS0hVRlRYTnNMRlJuVmRYRXR4YzZCN2czTW5ERzRiNXVaYU1kd0VNUzQxcUE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-25",
       "orgao": "",
       "status": "Novidade"
@@ -2285,15 +2325,23 @@
     {
       "titulo": "Concursos DF: GDF pode retomar nomeações em agosto. Veja!",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3FLdHAwbEdqYjRaUE1JMG5RSEV6N0lpR2xZb1h4V0xiRFRZb29LaURGeDBtcWs1bk9BOGxvSEdKYW5nTEM0T21YNVVhT1dlVWd4RDA5M2Nxck0taklJcUVMeElTeEo3U1JEeUlLT2pZT3JOdjROTjRkOU15MGd0bXNtcFc?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-24",
       "orgao": "",
       "status": "Nomeação"
     },
     {
+      "titulo": "Concurso SEDES DF: as regras das discursivas mudaram. Veja!",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVG9KOVVOYmZFM3M0Rk9OTXRfMVVqcS1manNoR3RRcHFsQlkyLXBOTUlwVG5hclRLeG4wNUQ2bUxQdGtYVF9FT3lDakY0V3lSamtSUWk1akZRZUJiU1ZPVUZrZ2dDaU4wSWs0T3NVSWtJaWdfUHBzZE92LUJ0ajJFQmJUNE1PNzVSSllaSQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-06-24",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso PCDF Agente de Custódia segue confirmado no PACC 2026!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZS1INGN5NHhQdUs4cGkxSjZqcDZQakc3LThWNVVBMWI5WGFaQnk4eG8xU09UNElUcXNsVC1IbnZ5eFZsS2VTUDJVVnBGMFNlcUw2QlBpaHBhSlg3VnozMXE4SzhLUnJGLXRyRHdiNnJDN3B5T2gwY1kzUDZnbm5QMDROOE1QM0U5TFZqZVZ3bl8tSFhGMU5Fa2RpdXFXQQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-24",
       "orgao": "PCDF",
       "status": "Novidade"
@@ -2301,7 +2349,7 @@
     {
       "titulo": "Concurso da Sedes-DF: edital amplia número de redações corrigidas",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1dDR01MMXVlN1ljaTdBbjdtWmtSX0FxX0JET3Z5eFRDaUJRYjFmdHJlZHp2b2tDQjdkUi1xOWxtQVlaemU2dmJyWTlxOFp5S0s2RXpZa2Y3emc1QUJqWVRPTmtxWnl2dzQyQm1OYzBsYUo2NFhlTHh2N2RqZ3lRVkFKRHBiLVJ0Nkl6N25OSjRrdXh5RkJ6TnFHMElSQUtPYVUzUlN3aG5MaEVqVnFtVlVMYw?oc=5",
-      "fonte": "Metrópoles",
+      "fonte": "metropoles.com",
       "data": "2026-06-24",
       "orgao": "Sedes-DF",
       "status": "Novidade"
@@ -2317,7 +2365,7 @@
     {
       "titulo": "Edital GCM Porto Velho RO: até R$ 6,3 mil; inscrições abertas!",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUVnUEd0SDlLemY3WVVJWUxsMDJSRjEyTnFuUkVLc1BvckdOdHEwSHFGU0h0TnFCdUxhai1fUmZFS3NKN3ZrSFo4cFZ0VkpGN3U2QnFiMzBDUFpiQmxXWTJPWk9kN3hoVmp3T1ZuNTZvSVZncWRJV0gxMWp4bVNodlRfeEUwUHF2X2R6bnVPU2c?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-23",
       "orgao": "",
       "status": "Inscrições abertas"
@@ -2349,7 +2397,7 @@
     {
       "titulo": "Concurso TCDF: edital nos últimos ajustes antes de publicação!",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93VFZlUVBiWEFpYkFVemw5SEowS2ZRMXBhMk51aDYzWF93MzdBUE1ZaHVoOEs1SXh1Z1pGLXV3RHBSejNWS3VnSEl1eWtfV0QyRFVIZ1ZPY1NGTWhiYlY2a25NQ0VkWTJ1N0E2NDBVT1dxM1huak8tYWFlRQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-22",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -2381,15 +2429,23 @@
     {
       "titulo": "Concurso DER DF: comissão formada; edital em breve!",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NOXd0aVlmU1R1SU5Sa19NTzA2UTJHWUFJOF9MaDBDY04tMy1FTkFHX0otMFY5aUJtSHhPSFNheVFCWHBuSjNhdEt1OEpYZVNkVXlvUU1hY0FSSjJRZW43RGVobw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-18",
       "orgao": "",
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso INSS 2026 pode ser autorizado até julho!",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWm9SNWVRRmEtRUJ4QnVyR3FNbGxYWUZmV05vb1pBNS1ISXgtRVdOU2pqTEE1cGhMTTJQREpPQ3N3WVVDbFFNV0dod3ZvQUc1RXUxX0pra09TaXdMV0pkYW5Ea1lqYlJlNzJ3cnA0Y0pFQi1fNnRVVmh0YnlwNjNjQV9zcUh4Q1k?oc=5",
+      "fonte": "Nova Concursos",
+      "data": "2026-06-18",
+      "orgao": "INSS",
+      "status": "Autorizado"
+    },
+    {
       "titulo": "Concursos Serviço Social 2026: editais previstos e oportunidades!",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80cVhpWGY2SERYZVVUa1l2eFAtT09EeElKZUctVWxHWTVadWFicm50ODBVUHc3RDRRbXBlSnJiczRQNG83ZnVjd3pYbUNrSkctQWVFWndqcUx6MGZVTmNtSlJFdWZyMm1wNjR2NUswWQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-17",
       "orgao": "",
       "status": "Previsto"
@@ -2421,15 +2477,23 @@
     {
       "titulo": "Concursos Nutrição 2026: editais previstos e com inscrições abertas",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wUEdGR0Rscmt5eU9ZOG40UnQ3UkR5VUhzUE8tQ3JKWU9qcVdmMFN4bm1tQi11ZXN1d2JQZlN1Rlk4NXZJb0tnUkQwU3N2U1dfYkZkZ3VtdkN6bHY5empTYnBWWVV1RXc?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-16",
       "orgao": "",
       "status": "Inscrições abertas"
     },
     {
+      "titulo": "Concursos DF serão congelados por 15 anos? Entenda o caso!",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jNG0xcHRRang3MHVNWjJPQThoY3NrLW96MWVwOWFFR2xLTWFaLVlJaEdRbUQ2SkZES2hPM1hUSkFFYi1NQmltSDd3THZOeGFFLUhiRE44TDZnZGdjUUtDUkxVNV9WRl9DejhtZ3M5Vmg0clg4T2o2NWNtWWVmUnM?oc=5",
+      "fonte": "Qconcursos Folha Dirigida",
+      "data": "2026-06-15",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso INSS 2026: vale começar a estudar agora?",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVk9OR09sNWtZMEs5cV9MQU5UMll4UW1NbDlOWTdiejFUWHU0eFVSamtOMjl4aUNWSFJrQnlVci1KMVJ1RjNsdWw2eVZ6dHd6UzM4akgzRVVHZE5mWUhBUGdtYnVsWFhrb1Vsa2xwOEpfMzllSWxTMVNtOWUwZEUtUlYwdmdVUG5oWGg3eWR3?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-15",
       "orgao": "INSS",
       "status": "Novidade"
@@ -2475,6 +2539,14 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso IBGE: saiu edital com 8 mil vagas para nível médio",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDc0TkxuRDJYX296NzFkTEIzZ2toUTBpaVV3UlVGV29lMERtZmQ4SHp1YVQtSnF1LThkZWczc2QxTjdMNEF0dDZxRG8xNkJ1SG56Z3ItQVNzVHZnTW1wTVJmTXFzR2RkRXB4MXFXN0NyX21SWG5ZbGVXRUZVaTlXbkRDTlBSMjlGQUY3eVZfenRPZC1scXBISlB5Q2I?oc=5",
+      "fonte": "degraucultural.com.br",
+      "data": "2026-06-12",
+      "orgao": "IBGE",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso IBGE: edital publicado com 8 mil vagas para nível médio",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnMwLS1sbzdtR2JVOUpFejBxVjJydENORXVBbDk0ZlRCbVBTell5NkE3QVItMmk1MDNBUkZVRXRvZ2FYT21JZ0R4cVY4d1hRdEpNNXBrbkJ6UTh2ZS1JUk9qTjV2eWZlQmU3R0syVFhrOC1HN0p3YkxndC1ZWDdvZ3BIY0hCcmFRVVctN2JPNVR3RVBUWnBOTUdPRWNyNUlvRU9odXRsWGs?oc=5",
       "fonte": "Central de Concursos",
@@ -2483,33 +2555,9 @@
       "status": "Edital publicado"
     },
     {
-      "titulo": "Concurso IBGE: saiu edital com 8 mil vagas para nível médio",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDc0TkxuRDJYX296NzFkTEIzZ2toUTBpaVV3UlVGV29lMERtZmQ4SHp1YVQtSnF1LThkZWczc2QxTjdMNEF0dDZxRG8xNkJ1SG56Z3ItQVNzVHZnTW1wTVJmTXFzR2RkRXB4MXFXN0NyX21SWG5ZbGVXRUZVaTlXbkRDTlBSMjlGQUY3eVZfenRPZC1scXBISlB5Q2I?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2026-06-12",
-      "orgao": "IBGE",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso IBGE terá mais um edital com 1.414 vagas na segunda, 15",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnaGxxRHB0ME10aE40NkVPNmxCT0gxakYxLUNac0VPZnk3UkJVSERaay1sekJzZnl6S3VzUEJkRVZlYm1jaTJkSXhtZnVCTHc3dUh1SVZpVV95Y19IVDBZejNxbzl4OUdPRGdtZXE1V2V3VWdaWnhYdXdNcw?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-06-12",
-      "orgao": "IBGE",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso IBGE 2026: sai edital com 8 mil vagas de nível médio",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSVGhDbDluNlF1MVp0UXFpZ3VCcHltWFUtaHlIY1hILS1yX3BEaEhkUW0tQmpZR2pGQ0FSRVNxbGFDczdZc2x1Qmt0cmRacmF4Tmtad0pNSUNDbDJkWWJ6Q0ZzZ1VyRmhESHZFUnE4Vk04UQ?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-06-12",
-      "orgao": "IBGE",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concursos TI: editais publicados e previstos em 2026! VEJA AQUI",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTklHdDRLcnpXOWVqZEoyU2tzLXpIVkMxT1JsVkFhck93UXV4R3JFSlMydWQtN01CUlBGV0xJQl9nckJ0WTRyX29NMXdvQ0FSZXFIcnNHX3JLTGVVTHZF?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-12",
       "orgao": "",
       "status": "Previsto"
@@ -2517,7 +2565,7 @@
     {
       "titulo": "Concurso Sefaz DF: Termo Aditivo traz novas disciplinas!",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSTN2OUlFQ1pqSy1XUzhRcER6QlBINlcyeWU2UkpvNmFBVzdTb21sYnEtZTRPTEhjRW1fMzMzUGdFVnRWUWVfWlJyUm9NLU9LSW9ObUp4LWZpaFpDX3BVOEFIRC12RUNGTlJJU0RQSldKVzczYjVmeTVnbHdQZjg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-11",
       "orgao": "Sefaz DF",
       "status": "Novidade"
@@ -2541,7 +2589,7 @@
     {
       "titulo": "Concurso SEDES DF: inscrições abertas! Taxa, prazos e mais!",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkhHRW42eHhtWTVpWUJsdjBTUE9pOUxQaFJrTzltWlJTQ3pOYXpxM0t2QjNGd3ozZ1lVZFBTd2doUk4ybGZMaTh3dEx3ZjExay1WZnVjV2RZTUxpekJmQ09LRGZLSGdrQVVzZXB6Q1VQUWNDUXIxQnZhSFVJY2hlTVM1NGZtckh3MkN0bnpB?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-10",
       "orgao": "",
       "status": "Inscrições abertas"
@@ -2549,7 +2597,7 @@
     {
       "titulo": "Concurso SEDES DF: confira o passo a passo para se inscrever!",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFrc1RpM01CTGd6MEVFMFR5ajYtY3B0dWZwdVR4dkZQYVA3YTFFNEdIQmxQSVMzSjg5NkN0cmJQX094RXBPUXFHWFJhR0FraFZiZTNLZ1k1QWdvODBlaHJtZXFzRjh1UDNlTV91TkZ4U05IYnAtYnVEWHBFUXV3c2hQbVdtZw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-10",
       "orgao": "",
       "status": "Novidade"
@@ -2557,7 +2605,7 @@
     {
       "titulo": "Concurso TCDF: provas ocorrerão 90 dias após o edital!",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjJ1M09ocy1haVRNOUUzZmNqZS1aRkdvR0FhangzcDR2SHozMXlUMWljOEVLM3NtRS1JTHJiZTI0eVF4TVNfSDk1c0xFX0YwSnhnRTl3QzRpNjRCYXA4UzRVR3RtNVVjZEZLeUFFUXFUVUttZ2dhZUNKUF9yYTlQZkZ1LVhvZkRKeUlz?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-10",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -2581,7 +2629,7 @@
     {
       "titulo": "Concurso TCU: Cebraspe divulga resultado final para Auditor",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBpT2ZqX2NGYzFKWHpzR3Q0aWxmYWY4c2hNQTg5TnZib1hpQmViQjlwZUZtWHF3b29PQUxYQVpnZkJjVm5QSWhfaUhSOXgzQ2lWTHFCVHJwbVhKQ1oyajN0RzdjWENQbEVIQktzamtuUGxKejVmR1M2TENKUXJlaWpPNEozamY2aEhrTEpaSEs1UQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-10",
       "orgao": "TCU",
       "status": "Resultado"
@@ -2603,14 +2651,6 @@
       "status": "Inscrições abertas"
     },
     {
-      "titulo": "Concurso Sedes DF abre mais de 4 mil vagas; veja passo a passo!",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2plQkppbjlrYnlOMEJMMHNjYU9PSHJaYU0ybFFkNVNHRmx5X3BxMUZTUnR4ekxSTFNiSGZMQ0gtSUx3dmRGYzZMejBhYklSbXdmMW9FVFQzQzV1azMzcnhkR24yVVE3cjBzX0Rqc291QWtPektxWHV1YVNRV2VlNHVLQQ?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-06-09",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Edital Sedes DF publicado com 4,7 mil vagas! Até R$ 6 mil",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmpGMVNUcnRYOG5HX1F4NE5kRzVVMHRsSkJGSmFCQkxvZU9OMXhhVFE0OTZmM1dTQThDUDZEWG9EeFpObUVWQ3k0N1gwUFVzaWJadXU0YjB0WC1TaWp0TWFkQU1DR0oxYi1INklidm9ETlZqRzd5ZVh1WklPTzFmVTRMTUVwWHcycG5wYdIBkgFBVV95cUxOeUthS2RvTzFJSXZZSDJQSjlmN1NVd21wNktPV1ZXbDVNLXpQWEJsaEhxU3J3RG9rNnk4RGdhSng2ZENqUHh6TTVmaV9RMDcxcF9MRVJwQjROUHVQSEJ5cTZvanAtLVBzbHBZaGtNckk2elFHc3R5UzIxNVJ0cy1TdzZmNy00WEhPWWxfS2pRd3hFQQ?oc=5",
       "fonte": "Estratégia Concursos",
@@ -2619,9 +2659,17 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso Sedes DF abre mais de 4 mil vagas; veja passo a passo!",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2plQkppbjlrYnlOMEJMMHNjYU9PSHJaYU0ybFFkNVNHRmx5X3BxMUZTUnR4ekxSTFNiSGZMQ0gtSUx3dmRGYzZMejBhYklSbXdmMW9FVFQzQzV1azMzcnhkR24yVVE3cjBzX0Rqc291QWtPektxWHV1YVNRV2VlNHVLQQ?oc=5",
+      "fonte": "Qconcursos Folha Dirigida",
+      "data": "2026-06-09",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso PMDF Oficial registra mais de 11 mil inscritos! Confira",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02ZWs3LXpUX1Rpck4zbG80RnB4eE5BUGpibGNWQUxVZHduNm5ZbWlfdld2RjJ6b1VnV21aSlVROEUzYTVTWDhRbFVSdWs1MGZqMDhJXzhDNllrRGlJN21pQjBrWWt0aEJOYjk1X1dwT2laT2VuOEF4YUFjQWdUelU?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-09",
       "orgao": "PMDF",
       "status": "Inscrições abertas"
@@ -2629,34 +2677,18 @@
     {
       "titulo": "Concurso INSS: STF e fila menor reforçam expectativa de edital!",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjBCalpKZmhreGhUZjJMTVlBMjhnRjluRktqSGQ0UG1HSE5lQWVRWHFEVWR3OUE1WEpTYzFfWF9hVG16Z1FwcG1BNmpwUENlMXhlYjktU1hBVy1fRVBHLXllSkNjdFk4dk9YYmxjWGhNeS1kbzEyd2cwMWp2RHFpWGstVjg0MXRPQWduMi1tbHJqSEpIVzZPaGp4QktrV1p0?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-08",
       "orgao": "INSS",
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Caixa: saiba quanto recebe um técnico bancário!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3ZJdUpJSGxZbmMyNVR5VnNvMXBTVF9pY3k3bGdaaWJHWlM1TXpzVWtLZDBWUVpycXctd1BZT0t1LXFoQ0luVk5uZUlvSk0xSzl6eEVlS3RUNm9FMDFXQUZBdG02b19IRUlvcFNKR0JfZlprWHR4ZkJ6dVB0Tk93Tm5fWU1RdDM4WnowYi1ib2c4cnNiQ0hV?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2026-06-08",
-      "orgao": "Caixa",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso INSS: quando o edital será publicado?",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEJlZDFJbzZqMEVYWEtXS0E5UktKTFpPa0U2N3dLNlNwWktfQmZhVmZtOGpsNGFTdDlNY2pqZ29oMTBEdGxmbEpUcTF0TjUzRUlMcHgzaDRieEM3VDRqU0drLVBjTUcya0p0eTM3dUFWMHMxUHkwYURXZ0Y1UVFzclcwczJrVTByZUE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-06-03",
-      "orgao": "INSS",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso PF Administrativo: 341 nomeações solicitadas; confira!",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxckh2NHpfcEMxd01FMlBZOUZlT3FlSkxLNS1KaWtXQWpTT3AybmR6bVNmRkt4azRlVVBZcGZfOWowSlFLenJMWjVZTV9RekpHSTN2UUZpbHRKSVFheEdVVlpFNm9OTkU0MGc5T3JaMk1JUQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-06-03",
+      "titulo": "Confira lista com 71 concursos abertos e 10.185 vagas em todo o país",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY0lYeGkxaXptbUd4U3o2a3VNc1VsM1p1OXNuU1pnRHF0NTZ0aUJUc09FWkpFb0xobEx0Vm9CckNaSXNtY21MWnFackp5R0xLb2hKWEFLMmJDR1IxclBhYTd6VXhGLUV1b1Rqb2dPM1JLNkc5NzFRcWpQdktGcjl5akMtek5yMXlOeDAzTE4yQU5EQ3pWYkxDcGdjQUpIVmp1eFBpdjhZQkJfQVNZenpzeU1nQzBtZUx3bmxITnRBVUp6bDhvdW5fRHhEV09hS3Q0RGI5MTNtRGh5ek1NZE1xM19rR0IwYTI5Rno5R2QybVg?oc=5",
+      "fonte": "Correio Braziliense",
+      "data": "2026-06-07",
       "orgao": "",
-      "status": "Nomeação"
+      "status": "Novidade"
     },
     {
       "titulo": "Concurso da Sedes DF: retificação eleva salários para quase 5 mil vagas",
@@ -2665,6 +2697,22 @@
       "data": "2026-06-03",
       "orgao": "",
       "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso INSS: quando o edital será publicado?",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEJlZDFJbzZqMEVYWEtXS0E5UktKTFpPa0U2N3dLNlNwWktfQmZhVmZtOGpsNGFTdDlNY2pqZ29oMTBEdGxmbEpUcTF0TjUzRUlMcHgzaDRieEM3VDRqU0drLVBjTUcya0p0eTM3dUFWMHMxUHkwYURXZ0Y1UVFzclcwczJrVTByZUE?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-06-03",
+      "orgao": "INSS",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso PF Administrativo: 341 nomeações solicitadas; confira!",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxckh2NHpfcEMxd01FMlBZOUZlT3FlSkxLNS1KaWtXQWpTT3AybmR6bVNmRkt4azRlVVBZcGZfOWowSlFLenJMWjVZTV9RekpHSTN2UUZpbHRKSVFheEdVVlpFNm9OTkU0MGc5T3JaMk1JUQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-06-03",
+      "orgao": "",
+      "status": "Nomeação"
     },
     {
       "titulo": "Concursos Banco do Brasil e Caixa: vagas de nível médio e salários de até R$ 8 mil",
@@ -2709,7 +2757,7 @@
     {
       "titulo": "Concurso TCDF: edital iminente! Extrato com Cebraspe divulgado",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVZkeDVRSnR3MS1qYXQ4cnRJVlQ5dE1HaXlwYmdKT3JQTWJNb1pFanUyVjVYYXpicnZaUUJoNlA5WWpSak1TcGplZkJpTGdKREdmRWNuZFZpQlFteklQampYcFl6VWtNaXhqb3M5U3ptOU1iQ1NYUnU1eU8tdlhZU09pUTJaY25lNFE?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-06-01",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -2731,22 +2779,6 @@
       "status": "Previsto"
     },
     {
-      "titulo": "Concursos DF: restrições fiscais não travam novos editais!",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lYy1pV2tUMDRrVEd3NEx2Y3FmMWJwX010ZGlXVmtGck9fdEZsN1hHQ1VqbXc1ZUI4ZnZkT1B1S210d2IwUDZSNU15V2pVbW5zR1VfSlhoRmNzUm80bnBXeWhhZUwzT0hHUTBxU1lDeW0zM1ZvYnVZLVEzZGhIRDQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-05-29",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos 2026: confira os editais esperados para junho!",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuU3BMdG9uLXJvX1g4aEJxa3R3ZWVPd0ZfT0FTZmJhR3hiMWVRMG1Fa0ViTGZxODlCdTQ4THVTTzBZT2U4Sm5QUzY5WDJjRXA5Q2RpNlRLWFQ5XzU3NzhaZUZiWXBpOTJOX1E?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-05-29",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concursos segundo semestre 2026: acompanhe as vagas previstas",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oRmpuMExLRkVIVHNYYzVhRHlzdnQ1WXVna1dzYmVwaXljczU4dHg4MGxIdC04b0k5VDk0Z1VSX1gzWjB3TGh4VmZXNjVBSm5CeEJXcGU5U0lzZ3Q3ck5ydjlSbXNUTHhoV3Rkdlh2WUp1TFVIcWkxYzduRmw?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
@@ -2755,9 +2787,25 @@
       "status": "Previsto"
     },
     {
+      "titulo": "Concursos DF: restrições fiscais não travam novos editais!",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lYy1pV2tUMDRrVEd3NEx2Y3FmMWJwX010ZGlXVmtGck9fdEZsN1hHQ1VqbXc1ZUI4ZnZkT1B1S210d2IwUDZSNU15V2pVbW5zR1VfSlhoRmNzUm80bnBXeWhhZUwzT0hHUTBxU1lDeW0zM1ZvYnVZLVEzZGhIRDQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-05-29",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concursos 2026: confira os editais esperados para junho!",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuU3BMdG9uLXJvX1g4aEJxa3R3ZWVPd0ZfT0FTZmJhR3hiMWVRMG1Fa0ViTGZxODlCdTQ4THVTTzBZT2U4Sm5QUzY5WDJjRXA5Q2RpNlRLWFQ5XzU3NzhaZUZiWXBpOTJOX1E?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-05-29",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso TCDF: comissão formada para edital de Analista! VEJA",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LODdDVnNvR2h1cmF5QnpDXzA5S2ZuM0NwVlNlOE13QVdhY0NPc2VUMDEwRXgzLUgyTEhYTk56T25qRDJQdjNxR2R4WHVwTHM5dTROMW1tMjJoejl6ZXA2RTgtRTA3MnZEYk00NDc3Y2xXX1pUZ1c5d2hKQ0c5QQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-29",
       "orgao": "TCDF",
       "status": "Novidade"
@@ -2765,7 +2813,7 @@
     {
       "titulo": "Novo concurso Caixa para técnico bancário terá Cesgranrio com banca",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUR6TkRhcmJFRmNFYkVmZHdSbDRVNHh6Qldta2FZYlpubHF4am1lbnY5OWRhRGdyejAyMWdORnJ6Tng1YWprWE1vQkRzSGFtNmNUQl9MOGY1cEJPc3h3VG9tc1FhWUxKTjAxcVBRM0dUY1RsNXBoMTJGRTFwWkZzNHpfdG80ZFhxMEpqZS01TzQ5dmFRQ2dzTUFxRWNPUjFwcC00MjIzMzg?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-05-29",
       "orgao": "Caixa",
       "status": "Banca definida"
@@ -2773,7 +2821,7 @@
     {
       "titulo": "Novo concurso CGU é autorizado com 60 vagas para auditor",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFAwSHZ6eTg4eTRBM3ZUSjZBTDhPc1oxU0lZSlp1ZEhxd25qcTd0ZmRPY3NoVnRwTEVTMVdPNXZBSklkSy1pWmJRWlRwTFBHb0FGMEVWRnh2aDYzQ1o1MVF4U0ZvM0kwMl94TlFJUG9VOFdVVGhmYVhOV3loUTVVdGlmNUIxLUFfTTEzOV9Zb0hYQ0NOR3NHeUZn?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-05-29",
       "orgao": "CGU",
       "status": "Autorizado"
@@ -2789,23 +2837,39 @@
     {
       "titulo": "Concurso Sefaz DF: Cebraspe revela detalhes do próximo edital",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV3MwUF9CMGlzM0NPcjZTR251RWxPWTJ4dTBXWHhlSHhjR2IxVzNLblgxcnNWa0NNMEd2TTVlSG9VNVpEN0Jmbzc0ZjBBS0thZmF0S3FMSTZjWVBjY2ZFZUNxNmVXRmNTeEcwcGRFMW5mQWZKT05ra0wwWWhRaDNqdlFOQmVSSUVyaEVGZg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-28",
       "orgao": "Sefaz DF",
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso Sefaz DF: banca contratada; edital iminente!",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlVMcVlkVmpCTmowQS1VWmdBQXp6c2Z4N0dqeS11dEh5QThGQ1FQNGJtR0poUG5hUnRINUxJanNCanlhaWJuUlZuMDlPLVBNNFU2YkpNSjc5SkZMUVR6Y0EwbFdVYjF3UEpxUkhLM3hSeEVJSmwtNEE1TTBjZ0ZPSlN1UkFhRVl6TWlYVg?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-05-28",
+      "orgao": "Sefaz DF",
+      "status": "Banca definida"
+    },
+    {
       "titulo": "Concurso Caixa: novo edital para Técnico Bancário em análise!",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04c1ZaYU1XdGhYYkRTbmhvdjBpVTJmR0I3NlJTLVFuQXhRU2dfM1NiRl90MDAteURXZDNPYzlCRGR6dmlUYl9rRFY5SENaRlhsSjN0VmdIcU1uc1Z5cXNFODZ2cEVoN2RQYkZIVEE1bUtKMFpYbmRJOHMtVks?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-28",
       "orgao": "Caixa",
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso INSS: o novo edital depende de quê?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTBrWW80Qi1CS241S3BOSzJXbDlrRjBfVEVhZkI3eDdGX2tKOXVKVTZqbjFQQlF4ckdKWlRzUzNrX2xZYW83ZEpUakVia0ZQeXhkb0FodF9OTF9rWkR3Z2duM3NtQjNqb3ZJSXdpUmRfMGlKZ1R1YU5zR0FUQWs0QVQ1a2p1Tk0?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-05-28",
+      "orgao": "INSS",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso Caixa: banco confirma estudos para novo edital de técnico bancário",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJNSkZCOVFaRzZ0dHdCRURLZ3RKNF9Nb0lGZXNVY0pkY3VUM2FxWE5YV19OUzR4N3J4eVd2Uzhwa3B1eThuaVp4MzVOamkxOEhwLXZJVTZsMHR5Q1R6a1E5cGU3dzlLTkIxT2JIbll3d2dUdGRqeFc2UVFlVmp0d1dOZHZVanNHV2xNcTFaeHU4V183MzJfb21wUGx0eDNHdXpXU3BNR1FfVEhQWW1zNFln?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-05-28",
       "orgao": "Caixa",
       "status": "Novidade"
@@ -2819,27 +2883,19 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso INSS: o novo edital depende de quê?",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTBrWW80Qi1CS241S3BOSzJXbDlrRjBfVEVhZkI3eDdGX2tKOXVKVTZqbjFQQlF4ckdKWlRzUzNrX2xZYW83ZEpUakVia0ZQeXhkb0FodF9OTF9rWkR3Z2duM3NtQjNqb3ZJSXdpUmRfMGlKZ1R1YU5zR0FUQWs0QVQ1a2p1Tk0?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-05-28",
-      "orgao": "INSS",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso CGU é autorizado com 60 vagas para auditor federal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkZyQWYycHA0Z0hvN3dhclM3eGlQQTZPODJmR2xILU9GWjR4UlJKYmpVdUFselJOejVQSEloQ1JuakQ0Q1RGc01EMW1xVWlQZmR6QjU4QWJhbG84OG5ONGVQdG5WekR4SkNPSkR3bTE5VnhTRXM2M3Iya0VYNVdYbW9MSFVvSGJOUVpwenZMeUJNSUtK?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-05-28",
-      "orgao": "CGU",
-      "status": "Autorizado"
-    },
-    {
       "titulo": "Concurso Marinha 2026: são 132 vagas. Veja os detalhes!",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxUzM5MjYxajNGYmZhWGR4dkFLVzVaT1NpZ0dnOWJUSk5abzNlMmtraUZ4MHdYdWsxNzliQkZMNThiY3Q5Z2V6Yi16QTI5M2FINDJyM2dOcUVMSi1RWjcyTUJmOTl4c3JNUUY5WE1uRHpxV0x0MjdRRWhYSdIBgAFBVV95cUxQaGY1YnV0Z0tXWVpYY2NGUHlxQ1llSXEzd1RmUmROQjlrejhrTlZfYlpjZjMwdml5R2EtXzR0anRSYXp2RVdjOFR5Z1YwM1RrNmtnMG5XZGxwQkFGSUttVWlUdjFzdjN1MkZTLWd3UmJUX2gySEpvYXJSQ0VYUG9vSQ?oc=5",
       "fonte": "Estratégia Concursos",
       "data": "2026-05-28",
       "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso Sefaz DF: processo movimenta e edital fica mais próximo",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MeEdzekRVMm40YmZjbU1yUV9nYWVlWHY3cmZlX3Jrendvb1pPWERzbVpKcjFQVXBrWThVd3hpa0xRZlgtdkRuNmtqd2JUOGJ3UVp3ampnWG1CZ180N1Q4TTZMMVVpSENZa1c5QzJwbFZvYTh5Mi0tNEVGSmJrQQ?oc=5",
+      "fonte": "Qconcursos Folha Dirigida",
+      "data": "2026-05-27",
+      "orgao": "Sefaz DF",
       "status": "Novidade"
     },
     {
@@ -2849,14 +2905,6 @@
       "data": "2026-05-27",
       "orgao": "",
       "status": "Banca definida"
-    },
-    {
-      "titulo": "Concurso Sefaz DF: processo movimenta e edital fica mais próximo",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MeEdzekRVMm40YmZjbU1yUV9nYWVlWHY3cmZlX3Jrendvb1pPWERzbVpKcjFQVXBrWThVd3hpa0xRZlgtdkRuNmtqd2JUOGJ3UVp3ampnWG1CZ180N1Q4TTZMMVVpSENZa1c5QzJwbFZvYTh5Mi0tNEVGSmJrQQ?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-05-27",
-      "orgao": "Sefaz DF",
-      "status": "Novidade"
     },
     {
       "titulo": "Concurso TCDF: Cebraspe é definido como banca; edital previsto para 2026",
@@ -2875,12 +2923,28 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso público: 6 editais ainda podem sair em maio com salários acima de R$ 10 mil",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcV9GQTlKVGIxa3lvQ1U1bG0xTjdUZkdwQzBJeTFFWW5EMXRsMHFCTUF5WENXVmJ3VC1mdWZTWlJuMWpSajJISFRDdGFWM19DeW92ZUJkcFQ2bGNMejVtRnNyN0tIc0c3amxTaG9heUNfMkpVdGprbmxCUE9MbDllTUVmdjFmQUxyUUVmMG41NjgzXzVnc2FDcHZn?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-05-26",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "SEDES DF mantém inscrições abertas; veja cronograma",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTHdJWjd4X2VSWFdjSmJhQWxmUkU1RHZYREczS3lBSnhadFI3bl85TlNWbDdDMkNLeGNhMVItVVVpYTdHTHYwcWVfX1pYVTAwNGVsX0UzU1JKYkVfWHR2MVNkaVBXRWlPdVlReno1c3ZBa2xvSkZ5UThpQTZkQVYzSEwyS0ZidEgyN05Eb29PblBaZXZtQTEzMGN3ODJrYWVnaXQtbzJmSUhiNEkzQklZX1RwLTgySV9JOGR2elpRQ0dWbnc2VDBtLXluXzJoTWNNeUFVNTlYRmdMaWNtdlphOFNyVkdvd2tvOVE?oc=5",
       "fonte": "Focus Concursos",
       "data": "2026-05-26",
       "orgao": "",
       "status": "Inscrições abertas"
+    },
+    {
+      "titulo": "Concurso INSS: Ministro prevê 10 mil vagas em 2027!",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ESVpsVlZzdlEtMDhGbzU0bVEwVDBqN2FZOGcxNzN4a204TkJnVEtJODBFUVJxSjBoVVNZcUtxLW9ERC1yWGpaTTVHbXFnLW4wczl2MWYtOHJiUGJHMXhCUVZPT2w5R0VVSHVWRmJkYXpVZ19KcGdvVEFDaHo?oc=5",
+      "fonte": "Nova Concursos",
+      "data": "2026-05-25",
+      "orgao": "INSS",
+      "status": "Novidade"
     },
     {
       "titulo": "Concursos TRE 2026: PANORAMA dos editais abertos e previstos",
@@ -2909,7 +2973,7 @@
     {
       "titulo": "Edital SEDES DF: retificado! São 4.788 vagas de até R$ 6 mil",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDNQYjJ4Sm92YVRVMjJKWlZYSm1oWFpMVmNfc2QtTXVVWDc2dHF0TGYxOFpZcXhWMC1tSVZldWpYOEsxY3A4bWpRVFpQbGh0bHFPUzhLMHpGcDVnOXRRYlNDcFo2aXZoNEFtU2pZbG5LemY4QXNrbXVUOEpuZWVoamt2RQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-21",
       "orgao": "",
       "status": "Novidade"
@@ -2917,7 +2981,7 @@
     {
       "titulo": "Concurso SEDES DF 2026 tem edital retificado, confira!",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXhoZnpaM1BxSHR6aV93M1UtZnhpcjdHYjZTWVczSmlvZVhIMTVWdnJnWVI1UUVicElwTlhfV2lBb3k2aU5wNWdSZlNVckdmRWFSTzdDdzB1a3NzS2Q5NjFYQkRCQkdKaUYtbkFsODFIdDZFRUxydUtoaC1CQ0VmX2xpUUstZmVN?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-21",
       "orgao": "",
       "status": "Novidade"
@@ -2947,14 +3011,6 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso INSS: ministro projeta edital e fala sobre 10 mil vagas",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0Z0WG5aSm40UlJIWDZOZndfeTZKZzhLNkVwWW5zUk5PTzNSaUdxOXJIM2VJSUxFZi04cWFUT1UtS0RvTUVINUhhUFBQeXM0bG1ZdDdkWmlXZzRuTUZTMEo0YzFHbzczTjQ1bG1teHZ4VThpY1c0XzVUOVV3QVVQOXBnVUdCNEdD?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-05-21",
-      "orgao": "INSS",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso Banco do Brasil: veja dicas para orientar a sua preparação",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbm1xaGlxOFVfRjF2elo1c1VlSVIzWHpHTEg5SmdMcUtJOTlGaGZoT0JubXQ1alZ5bnJ2YzRMc3V1V2lWTXN5aF8xbXFiMnYzcnM4RjctWFIyS0p4MXdDSU9wS29LNWpISFdYdF8ybUFlQ3AtWlBpWWMtZGV5TEVJWmhOVHhQWlZqM0ZGYzJHd1VqS0E0YXZPSll0T1NiUmVaaVZrUGNpQ0hpVWdx?oc=5",
       "fonte": "Central de Concursos",
@@ -2973,7 +3029,7 @@
     {
       "titulo": "Concursos DF: PLDO 2027 prevê orçamento de R$ 75 bilhões!",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GcnpVb1dKeXRHeFEwSGpWOTdJOXlmMzlwN3BoeWU0MGNWc2pncF9BYThHWGNFTC1CWldGRFFpR09XMXVXLW9BX2t5UC1HdXkxOEYzNDVtZndfa19rblhfejdHbFltbm5jcUlTRGFMVmlVbDdubTBjclFpZ0UwcmM?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-19",
       "orgao": "",
       "status": "Novidade"
@@ -3027,9 +3083,9 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Governo do DF realiza concurso para técnicos e especialistas em assistência social",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa2hDNFRMX1B2cTMxNy1BU2dYT1VFTmNLcXNJc2d5anIxSUxLYzN6dXNsVHRBME1sSFN5VU5McXJkLTBkQkxvcDJSUW0xVXVMOTZaa1paNThlS1dGN254SG1QbUcyN0FGRUF4bklYcE9nd3kwUEphSHFUdm1EcU9KSDZseHVTeWt4M1ZjbXFVTklnYTBtTlpoQS1DQXJoTWV2MUdjSTNQS1c0Mi1YS1JwZnpRdzJIR2JDRW1pXzB4T0s0U3NoUmhFTVBBQ3F3MzhTSGROZjZqejVXd0liZlRFbk00ckNqQVdoaU5xRFFJX1FGZE9QbWFUakExcjM4Z1XSAY4CQVVfeXFMTVdwMy01QXN3LTlDX01NZkxGZ0JwX1BzdklSR3lVc1BhUWtFVll5eW90WVZZVjRDM2tObnQtTmJHMy1UX01pOF90Z3FoSEpRM1FuRmRSN0ZHU243ZjBBRjZ6ZHJVY285QktNdVEyTHZNSlFXQ1Q3bTBYSlhkeGpWbkF4OUNKc0t5V0w2S3RoOU1hQU9SNTV2WDJfS0Y5N1NpcnBXcHpzb0MzYkxXWjNKQTRlTEFTUlpGOUtpai1QQmhEeVRSdUcwaWRKLUs0LTAwbWZQSTRCemt0RmR2eEVUUmxkZ2xncVpqRTVVeHRZZ1BWeVAtWldxOWU0STRuNmUtWnV2MXRDTTAzQ29hWFNR?oc=5",
-      "fonte": "G1",
+      "titulo": "Concurso para assistência social no DF abre mais de 4 mil vagas",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa2hDNFRMX1B2cTMxNy1BU2dYT1VFTmNLcXNJc2d5anIxSUxLYzN6dXNsVHRBME1sSFN5VU5McXJkLTBkQkxvcDJSUW0xVXVMOTZaa1paNThlS1dGN254SG1QbUcyN0FGRUF4bklYcE9nd3kwUEphSHFUdm1EcU9KSDZseHVTeWt4M1ZjbXFVTklnYTBtTlpoQS1DQXJoTWV2MUdjSTNQS1c0Mi1YS1JwZnpRdzJIR2JDRW1pXzB4T0s0U3NoUmhFTVBBQ3F3MzhTSGROZjZqejVXd0liZlRFbk00ckNqQVdoaU5xRFFJX1FGZE9QbWFUakExcjM4Z1U?oc=5",
+      "fonte": "g1.globo.com",
       "data": "2026-05-14",
       "orgao": "",
       "status": "Novidade"
@@ -3043,9 +3099,17 @@
       "status": "Edital publicado"
     },
     {
+      "titulo": "Concurso da Sedes DF tem edital publicado para quase 5 mil vagas",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnc1WEVwc0pQQVRXM3hQZnNLd2hRTjQxdlhoQkc3Z0IyNXVRdGxQQThfb0JSYnlxNHZuanVjamFwak1rTkV4cU91Z1ExWWU1Si1rQlVEWWZyM0llSklFNjdPdGFBQXNRN01lZm1STGk4Z240WHExWjNHUUdCaklNaXp30gGHAUFVX3lxTE9WWjZjZDJXakxqMmRxOEFTV21RTGhRTF9vZTdvZWxsVWZMSTExb2toOGZPOUN0UkpNeEtjd0VHMXJJb1dxWWJKamVQODVINHJVWXJmTGRLWEhLN1ZXcWlLUXFSZTREbVF6Q20wamNRcjNMNklVb293NkVfRm5FZXVZNl9mUVBHbw?oc=5",
+      "fonte": "JC Concursos",
+      "data": "2026-05-14",
+      "orgao": "",
+      "status": "Edital publicado"
+    },
+    {
       "titulo": "Concurso da Sedes-DF: edital é publicado com 4,7 mil vagas e salários de até R$ 6 mil",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUx5SzhmWTRRWGNnTUJLQ2p1Q1pWb043QkEyZjhlSnNpVnNXN3lzaE5hdEVwd0VDVnphTndxbUo4RWl6aDNQV2NyYVpQUWVfajFYOTBHVmhWaERTNXZLOHRycmtfY19heXM4UVg5VFdHQUxBaUd5YnBYMW1EbU9uaDZmQzZNQnVUSXdyVGtCSmlfT29IRUZmcUVUYU1PNGZZaFE?oc=5",
-      "fonte": "Metrópoles",
+      "fonte": "metropoles.com",
       "data": "2026-05-14",
       "orgao": "Sedes-DF",
       "status": "Novidade"
@@ -3067,12 +3131,12 @@
       "status": "Edital publicado"
     },
     {
-      "titulo": "Concurso da Sedes DF tem edital publicado para quase 5 mil vagas",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnc1WEVwc0pQQVRXM3hQZnNLd2hRTjQxdlhoQkc3Z0IyNXVRdGxQQThfb0JSYnlxNHZuanVjamFwak1rTkV4cU91Z1ExWWU1Si1rQlVEWWZyM0llSklFNjdPdGFBQXNRN01lZm1STGk4Z240WHExWjNHUUdCaklNaXp30gGHAUFVX3lxTE9WWjZjZDJXakxqMmRxOEFTV21RTGhRTF9vZTdvZWxsVWZMSTExb2toOGZPOUN0UkpNeEtjd0VHMXJJb1dxWWJKamVQODVINHJVWXJmTGRLWEhLN1ZXcWlLUXFSZTREbVF6Q20wamNRcjNMNklVb293NkVfRm5FZXVZNl9mUVBHbw?oc=5",
-      "fonte": "JC Concursos",
+      "titulo": "O que cai na prova do concurso Sedes DF? Veja as disciplinas!",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVJDbWhBQ0swY1dfam9ZcGt1a0pFaWwtREJBbm1WYmFDMlhhc0tzbU81T3J4eko5VjdIX2J0bWttQm5LV0VZdUF0QWVVLTd5aUY1SENFMnkyNG1fYVJRT3A2T2FUV0tXWWhNeWpCT1FjcU00VmdublloY3d6MGJsNDl6SDZPOE5odG9lQlJR?oc=5",
+      "fonte": "Nova Concursos",
       "data": "2026-05-14",
       "orgao": "",
-      "status": "Edital publicado"
+      "status": "Novidade"
     },
     {
       "titulo": "Edital Sedes: concurso do DF abre mais de 4 mil vagas com salários de até R$ 6 mil",
@@ -3101,7 +3165,7 @@
     {
       "titulo": "Edital CONTER 2026: inscrições abertas até dia 22/06!",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeUw3M3Z6bmlkSW9oZmtuSTVhMFJvS0ZDTFBGR3d6amFreng5TTJ6Q3U5emxpa1ZiWHc0cm4tM1RObllsdlN0LVo4MWpRWjhHTFR2bzYxSWhtN3RlVlVpdUh3NzczMi1EMmhfU2lCTVZLNjFxbnpwZVB6MWdNSG5pMg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-05-12",
       "orgao": "",
       "status": "Inscrições abertas"
@@ -3195,6 +3259,14 @@
       "status": "Previsto"
     },
     {
+      "titulo": "Concurso público: 27 editais previstos para maio; até R$ 24,8 mil!",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREQtOHRfQ3V4UllpckNaM3hMRUotWmUxU0dTQzdSODMtT0tOd2FmTnpvaTJoeERGSHlZZXl6cFZWN1E3enI2cTlIWXBlU2xfRVBROWlTQnF0STBRZ056WjZFNHY0Q3JkQUJBQWd4V18tNmF4VnFISzFQNENLWG1XVmx5aDMwcE10?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-05-04",
+      "orgao": "",
+      "status": "Previsto"
+    },
+    {
       "titulo": "Concurso METRÔ-DF",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHY0SG5ZdXVtWXFMNkt2QWN3Si1lSkxDTzBiLTZVMDJ1elFxUWRxbUNFRl9ZZ2VWcTMtN0FBczlmNXp5dmdETkZNRkZDWHRFd0JIQWFkRUtpbEQxTUNpdXZvd2lEYndGVktFQllEZ3dkT0tfTG00Zld0QVpBUU14YjZKakpPbEZnNkh3?oc=5",
       "fonte": "Qconcursos",
@@ -3261,15 +3333,23 @@
     {
       "titulo": "Concurso Escola Naval: Marinha publica edital com 49 vagas para nível médio",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTdKWDJwWTFjY1ZzTjFHbEcwTWtocGZ2SWRWMC1taU5pUWhmTkplWXd4N1RTbXkwcWRIYXBGcWN1al9YaklzU2kwQnREN0hGbm9HMmRtSl9hR0JhWWRBWlZXOUNKSl9HWVNUTk1TSGlXc05nZmRqM053V0NMOG1PYm5rREJYci1mNEFPVjFwODNsUWlBMi1zRVRCMHVTWVFQbExUVHVLdXFrVU5ZOTExbXl3?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-04-29",
       "orgao": "",
       "status": "Novidade"
     },
     {
+      "titulo": "Lula veta autorização automática para concursos PC DF; entenda!",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkJrVEpKa1V6QXdFTmdwZlhieGJhZVFzTzdYMElYcUp2LVAzMzdLTmRDaW9NYjd0R1BaZ3VlRUNqSy1oX0NqemgyVWtLNHltc0dKQXlTZVh1MFZ4eTFVeV8xcHU0aDh0NWNwVVJUQWEzY29BZWxnM0NCR2YzTXBfV0Jza2pPUQ?oc=5",
+      "fonte": "Qconcursos Folha Dirigida",
+      "data": "2026-04-28",
+      "orgao": "",
+      "status": "Autorizado"
+    },
+    {
       "titulo": "Concursos DF: novo Decreto influencia certames? Entenda!",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WdkluNTk0VEI4a2lmNW5GLU1vR0UxMmwzVzlYSkx4X2FOLUFUQm1TcXg5amJFX1gtMUxHQ2tlRFJScFVJWkFUS0twTm5wSnBJT3R6QzJqYkM1eXJBalJ0SXgtUFVEdXpoUXFMMExtR0pUa0R1bXBiQmV3?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-04-27",
       "orgao": "",
       "status": "Novidade"
@@ -3349,7 +3429,7 @@
     {
       "titulo": "Concurso SES DF Temporários: 900 vagas; saiu edital!",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sZ3F4V1BEQUM3RFRkaXllLVBHQ3Z3dndtU3c0aTJYXzdDMmhOZnJSekp6MmpTbV9Ra2I2cXc2a3VwSndSaElVSHBhLThhOTVzUU5TM1Nuc015UTluRzUycWFVWW5zSUplOXJiYTh1VmZTRVk?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-04-22",
       "orgao": "",
       "status": "Novidade"
@@ -3381,7 +3461,7 @@
     {
       "titulo": "Concurso Câmara dos Deputados: preparativos para o terceiro edital estão avançando",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHZraDhRUjN2bXIxdVQ4NEFBc3g1NjEwX0ctOVdFOHN1Z2VXSXFONGR6bk9zOHdJak45OG1vVEQyeHEyZlhpNndfVElERzJPLXl4RFNteG02T21teVAwMENJQnJ4UTlhczlaM3M2cWpXa0VQcGVXZWFkUDhGWEd2MXRZbnUxVk5jWHQyU0x4TXBZX3gwakN1Y0p0TmNRR2RJb3NPTEpOanZZWGg4Q1l6R3RUZ0NTQmdfdGdJ?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-04-16",
       "orgao": "Câmara",
       "status": "Novidade"
@@ -3401,6 +3481,14 @@
       "data": "2026-04-14",
       "orgao": "",
       "status": "Banca definida"
+    },
+    {
+      "titulo": "Concurso INSS e Banco do Brasil: o que esperar para 2026?",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWTNlaC12bU9XR0NwRURnOFR2dUlkNjJSTmNRN0VVU0dPOVhtSGVJdlczQ3FkUkhhdjdkdzliYTFNMjhEcmV6RGZiMmVrWWpDYU5PMEJyMnlPQnk1dTlldWNOYkE0RGhPTUZwRW5ROEl1a3pvWmJHQnZjc2F5VHlWV2RnNA?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-04-14",
+      "orgao": "INSS",
+      "status": "Novidade"
     },
     {
       "titulo": "Concurso NAV Brasil pode ter edital já na próxima semana",
@@ -3461,7 +3549,7 @@
     {
       "titulo": "Concurso Câmara dos Deputados: veja resultado da objetiva",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUncwaF9hMFE4VXNjQ3pOWDFjaTR3aWRfOHBZWHlJOUdxdGNYQWY0Y3N1b1ppZHNHdlRnaDk4QmJpWmNYSkhXVGVadDJBV1NKcmhIUDdVQ2t0ZUtfNFRpNDZjeC1MazdIeU5WNHNPakJfbWdCckhRMDNxdjlKYmc4ckU4VDhJdGxhUWRYUS1aY1o3a0Y3RXhwNjF6bzYtX1JyQ0FiVFNR?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-04-08",
       "orgao": "Câmara",
       "status": "Resultado"
@@ -3517,7 +3605,7 @@
     {
       "titulo": "Concurso Funpresp-Jud: saiu edital. Até R$11.495!",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV19hQll2Mjl2bVotS0Y4cEl2dnJSd2I2Y2NpNlhjSHpidUV4QnkzZWExRUg5ekgwME9vZldCN1d3LURhcGJ6QzYxdkxJUEJWRk1EbzMzTTM1WnBtTUNBZkJrenNGeVpBNnFOUmM2dFJyaTlsVmpubDdKQm9KNlN0aFZHcDV3N1RhYkE?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-04-01",
       "orgao": "",
       "status": "Novidade"
@@ -3587,17 +3675,9 @@
       "status": "Previsto"
     },
     {
-      "titulo": "Concurso Sedes DF tem banca definida para edital com 1.197 vagas",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12WHA4VWM4U0lxaGNiWnhDc2hJQVJaZUVrZDhQcGNBbmpmTlRvaDRieFRLYk9KWm50eHNUcVc2WG9qVzd5SDNnellYUXNlVFN0OXNfQ0EwQUtleE4xZ1FHdXl3ejZ1eGJqRFVv?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-03-24",
-      "orgao": "",
-      "status": "Banca definida"
-    },
-    {
       "titulo": "Concurso Câmara dos Deputados 2026: próximas datas e etapas",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmFKbElnVEhIeTNORnU0TlU3M05WQTlLZUhfczZ1YWFFSDJTa3Jubks4RUhFemZkSXRIU2JUblVtNHJ0SUYxOHBCb2tjRzVBLU5RczhicGxfTFVZSHpweWs0aV94LUlrSUdaRzZwVGRVR0dtWDJVdENtYjJfalJTbndYMlBvYnYwRUUwc2pzXzU?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-03-24",
       "orgao": "Câmara",
       "status": "Novidade"
@@ -3627,14 +3707,6 @@
       "status": "Resultado"
     },
     {
-      "titulo": "Concurso CLDF: novo edital de TI previsto em Plano Diretor",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdklVMmQ2bzVjeGtScmdScXpiYTUwYVZIM2kyaWE0MFY1bUg0SDdlOHFXcWFjbTA3aVlkbjhEZ3RtM3JCYUx5S21aakNXU0lfY2xpejNyaGxmdkU5U1dwSVhTajNsS19uaWdzVko5TnNkTi1nNnN1OUJGRWhPWkI0bzBnOWdGODFkUWfSAY8BQVVfeXFMTVZVRWY5T0QzY0dCRFVvaElRTWJyMU95ckJ4Q2U5OWg2bDh1T0NxdXhORk1nMUItdHB0XzIxbnBjNW9JbkcxWXc5aGN0cTR2eG11RWV1OTRaN1FUUDlEQkxycDdYN3BRTTZ2UWJsY1BFLVI1aXRxeldvci1uaENSQWR4bV81bFc3bGhOeURRQVk?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-03-18",
-      "orgao": "CLDF",
-      "status": "Previsto"
-    },
-    {
       "titulo": "Concurso CLDF: diretoria solicita edital para área de tecnologia",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnVMUlZQT1oxaWo5RUpQeWNBOWt4WC1CWl8yNzJqdEllWmZscVZmYlV1bTU4YmhVNkZsSEo5MzB4bHctZWpZekJaV3AxMVVPNkFheDZwdmtvN0ljLXpZQzB5Nl9NTG5uVE4yVTNlcEp6cFFteEpUdmY1dDNEajl0R0IyWl9PM0FwNUI4?oc=5",
       "fonte": "Direção Concursos",
@@ -3653,7 +3725,7 @@
     {
       "titulo": "Lista de concursos Região Centro-Oeste 2026 atualizada! Veja",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zTzlUek1ZVUFUV1Faal90M0dsa2o4YnF5QWpPOHNyS1FYc1E2UFFvZkU2QzR4Yl93YlI2dFJ1Vk80NVlqZ2MyMWtvOWZHT09EVWlKeHcxOEJaOTRzNHBxa2dNdlZzWXNPWml2dg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-03-16",
       "orgao": "",
       "status": "Novidade"
@@ -3664,6 +3736,14 @@
       "fonte": "Direção Concursos",
       "data": "2026-03-10",
       "orgao": "",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Cebraspe aplica com sucesso provas do concurso público da Câmara dos Deputados",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0MxS3V6NnNyUXpHS3hySmFPTE9pbGk3SmRrYkxhbEFrRVRBbzl2ZVhyNF9TUGFTYXE0UUNRNkxQVWo5aUNJWldnLTdoS2Y1ektNVnhFRC0zUEV6VXhlaXluN3p3YlpOMG1JVW9FOHdEVVBaU3ZobjVOSWpuZ285azBXa0JOU0NpNFM3UkxtNHJnaXd4Q3JSMWZrcXFWZVZVWVhrLVB1cGpCYkE?oc=5",
+      "fonte": "Cebraspe",
+      "data": "2026-03-09",
+      "orgao": "Câmara",
       "status": "Novidade"
     },
     {
@@ -3723,14 +3803,6 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Cebraspe libera consulta a locais de prova para edital da Câmara dos Deputados",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2JlNUZndUc2dksxdTNkb0JOMzJ3NlZ0eWF3MlFRUkdDRldfRVNiZzRuVU1kMC1NQ1BwWkk5Q2NOM0U2VFFXWTJuTmE2d1RkODY1OV85MVI1ZTNZblBQdF9aUVB2Z2hGRWFFTkI4MnlsUnR5STA5LUpQRzl2b011OVc1OFVHVUtJRzVxVzNzaVMxZFcyZ2VRSG9zNnV6clAzMzhDeVUxLUJPNlpBcVE?oc=5",
-      "fonte": "Ceisc",
-      "data": "2026-02-27",
-      "orgao": "Câmara",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso Câmara dos Deputados: Cebraspe libera locais de prova para técnico e analista",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajNuXzlRRk9BNWNKMU9hNkotUjJmLXhhazdKNHUyNmlDWl9OSG03ajZjTDBsMzVHU0hOM2hVZS1DcVU1eTh1Q3NxdlpIUTRmRFd6UHhjVFJwTXlsWDVEMndMNmxBa2wxZ183S05wREYtdGp3U2JKTTZXWVpQMzRBRENlMEY3YmxqSzh6RllldnYxdU0ySlI4WnlRdEpnWElWRGpVMmpDQ1hybzJQR2FodjRxRVp5Z0V0UG02UDVncw?oc=5",
       "fonte": "Magistrar",
@@ -3747,34 +3819,10 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concursos DF: secretarias com 5.334 vagas previstas em 2026",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5COGkxTWJyQW91R2ZGTDByajl6ZFFDSlZtUG53MWpWR2NwZDVVTWR5WE9QQzI0RFBwWW83Wm1STEh1V09GQ3RKQnlmY1NhZk9BWGpTMGRGZG1aMHA5NWtpSG1jVzg4NzFVVlk0SFpiTXV5MDQ4VGVZLXpmUG1fZw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-02-26",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
       "titulo": "Processo seletivo da AgSUS: novo edital abre cargos de níveis médio e superior",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmoyRDFFLVloZUpvRldybXJCN0xxZlVJcHBPWndpMHZTRGx4Z2xCZ2JSNUNYNFlFNXhVd3hkYzczWWpjQ2V5VVVoaThKNXh4cEJHb0JSdDA4R0oyRE0zUzZsNFRQd3NUMGtSRFVEMGd4WGJqeHRiWkN4OG1DRGJUWVJUYk9WYllKU2fSAY8BQVVfeXFMUFJ3dk5DS3h2YjNpMnU5Ylp6RHloVGYzZURIRnE5Y2VtU3ZQS1ZvTHA0ZTNNQzNjX01kYllMSWlfcUdBU2FyYnV3LVktUnJfWUpTZU5DV21FOVlQcnpvQi1EX3FhSGJudDBsZzlwaHNUMGgwV3Y4U3Y4NXE0RWViMUNaMDFheHpuQ2tZZHYxYlk?oc=5",
       "fonte": "JC Concursos",
       "data": "2026-02-25",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Leis que suspendem prazos de concursos públicos no DF entram em vigor",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXFSdC0tanhrQ1kxTmUxWC1SWkg4QmNFMnRQUzZ2cUhCZF9TZVQzQXltVnNha3hwdWxnb3ViQ3M5RG5oUE80N3JSLXVpREVzcExEcTVfOTgweGY5NTE3bko2WGJvUWVvQk1tN3NJck8tZmZETTBlaFF5aXZTLU1fVlRqU2s4WDA4WjdlQi1zZ0dVeGVOUmNHNTZCTng?oc=5",
-      "fonte": "Câmara Legislativa do Distrito Federal - CLDF",
-      "data": "2026-02-24",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos DF: Ibaneis suspende validade dos editais até 2027",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjRfaW8zbmZLTlZ4d3FlRHdYX0c1SFo3OUVVWTNSWEtYOFNsaDgzU3R0bnBIZEpWcGFwczFmZDBHbEt2QU15U0FhMjRHMDEwYkVITWFaaVQ3bjFENXMtcDhEV29DM3NuMEdTeFR5WWl4ZGVJRDJ1NUFVS0Z1UTB1RVFScnRwdUY3VWctXzhUZkQ?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-02-24",
       "orgao": "",
       "status": "Novidade"
     },
@@ -3784,14 +3832,6 @@
       "fonte": "Central de Concursos",
       "data": "2026-02-24",
       "orgao": "Banco do Brasil",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos DF: sancionadas leis que suspendem prazos",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjNVd19zMjcwa0UxOE9GNm5ZNnpnVHBGV2F4ejF4Y3o5ZXI1eTlseXpBOUppV3Bhd21TY29jMjJQZzhhNlgyYnh0b0ExdERoZ01CVTNkSU1ZR0N4UHJ5WTN0b2xwZjBMSFNjc0Vib0V5cG9vSnVZWXFSVUF0Q1hJa2RoZUdLTUVpNE51SkUyc05tQnZWRHfSAZsBQVVfeXFMUFZxa1l5ekMtRWNNeloxSzlwYnV6Z2dpQXE0dEk2WGI4TmdGRTNrRjFKeE1PcVczNWdQVnJmOV9KR3psZWxNaW9hYVpZYlgtRkMzbG9zSnNzNXJwTWJZbzRHLTJCUjZLNU5ZekpOVFZvN3NicjRYQ0E3eG4zNFJVX29UM3l5YUdRdXhYWFJuMlhkakVZMFBlbi1MaTQ?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-02-23",
-      "orgao": "",
       "status": "Novidade"
     },
     {
@@ -3811,14 +3851,6 @@
       "status": "Convocação"
     },
     {
-      "titulo": "Concurso Sedes DF: edital com 1.197 vagas \"vem aí\", diz pasta",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqVERQNGM2Smh2YV9SeGxRMS1xRjlPSmNCV21fQmNNcnB2UGpJOEh2THdFOWZyU01xQVpsVDh3VkhhUlp4MUxCaUhBY19fS3NLSkFSYWphVVdWUXhvUnFlR21qck1QSS1keHdqaHZqV2h0cG1haFE?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-02-20",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso Câmara dos Deputados: veja próximas etapas para policial",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHJQTUYxRThsOHUtSGFyWUxyN2JVNGhUZU1EdXZJcUVUbUdoMW9LaDBxT1Vhd2VnZEswUC1Cdk0taFM5VXR2TTd6eEk2S1VmZWNMVk53dTh0aGdBdHROLXY4ZG5POXNoUnlYcV9CX0ZXejM0TlkwV1lScVBvcUZyQmVPMlVab3VMcHc?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
@@ -3827,20 +3859,20 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Câmara dos Deputados: inscrições para concurso com salários de até R$ 21 mil terminam nesta sexta",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUkVGN1BuLVNFVFlxeVBIMGo2OHNKZFBiUkNXSFB2WjVwUno4LWg4d19kbkx4ZG1ZSHhJWTVpbzh2MUZVZTZZdDVjY09hTlNuZUs1STI0bzdsMDhraTN3bmhZbTl5b0Z1UVp5WTdyZWdTc09NY1NvZnVybVFwaGFZLUNSZWJzNVh3b1FaMDR5WVdxQTlJdTVSV3lFSWgwRl8yMlZXMEc1UjhVMGl4bjQwTUtlaEtsUS1aSUF1N3EwZDgtNmRmUlo5cXktRlkwTWwyWGQ2eGVWcFF0UE9LZi1OU2xndlNNakk5M2dfRjlLeTdoYkEwNUJVRXMzN2J5Z0FC0gGPAkFVX3lxTE5wcTk3cmo1SGwwZDM5WU5NNDZySldneE1sdlQ0Ty1ERjMwbVpZSlBOd2R4eXlsYmNEV0s1andTMGFrYy1MeW9pSTFCQTllSExKRi1qSmVTVFhkakZ2c0Y2YUN0S0ItU3FEN09hX3oxeHJRQWpkbEViZU54enhnMjlac2pISmlyOG16NVFkYk1zNVBwLVVybjNPVy1OYVNaMXpnOVUzdm9mVDA1UHpxY3lNTVVIVkY4MVRBSnpMVXJ5cGk1czZMX0Z3TkVCYVRqeGpLbE14bHc3TUZBRldtanM1bUlUbkEzSHduNUFDSXQyVVc2dThYd2twTDN0aVVVYjc1NDdtWW9fNzdMa05sMzg?oc=5",
+      "fonte": "g1.globo.com",
+      "data": "2026-02-20",
+      "orgao": "Câmara",
+      "status": "Inscrições abertas"
+    },
+    {
       "titulo": "Concursos Públicos: 17 editais para começar a estudar depois do carnaval!",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmdMZUREbGVTaWdfanY0akoxS0ZhcGZleG5fczhzSmFfY040WWo5dzh0R3ZWN24xand4dWpxazktMlpQOW9jaGZ0emtYZERIQkQzRWxhTmt5V1lsLXNTVEFnQUpVcWVnXzc2bGk2Tkhvbl9NZGxCektTdGlMYTVDMjdVQmdnZ3V1?oc=5",
       "fonte": "Direção Concursos",
       "data": "2026-02-20",
       "orgao": "",
       "status": "Novidade"
-    },
-    {
-      "titulo": "Câmara dos Deputados: inscrições para concurso com salários de até R$ 21 mil terminam nesta sexta",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUkVGN1BuLVNFVFlxeVBIMGo2OHNKZFBiUkNXSFB2WjVwUno4LWg4d19kbkx4ZG1ZSHhJWTVpbzh2MUZVZTZZdDVjY09hTlNuZUs1STI0bzdsMDhraTN3bmhZbTl5b0Z1UVp5WTdyZWdTc09NY1NvZnVybVFwaGFZLUNSZWJzNVh3b1FaMDR5WVdxQTlJdTVSV3lFSWgwRl8yMlZXMEc1UjhVMGl4bjQwTUtlaEtsUS1aSUF1N3EwZDgtNmRmUlo5cXktRlkwTWwyWGQ2eGVWcFF0UE9LZi1OU2xndlNNakk5M2dfRjlLeTdoYkEwNUJVRXMzN2J5Z0FC0gGPAkFVX3lxTE5wcTk3cmo1SGwwZDM5WU5NNDZySldneE1sdlQ0Ty1ERjMwbVpZSlBOd2R4eXlsYmNEV0s1andTMGFrYy1MeW9pSTFCQTllSExKRi1qSmVTVFhkakZ2c0Y2YUN0S0ItU3FEN09hX3oxeHJRQWpkbEViZU54enhnMjlac2pISmlyOG16NVFkYk1zNVBwLVVybjNPVy1OYVNaMXpnOVUzdm9mVDA1UHpxY3lNTVVIVkY4MVRBSnpMVXJ5cGk1czZMX0Z3TkVCYVRqeGpLbE14bHc3TUZBRldtanM1bUlUbkEzSHduNUFDSXQyVVc2dThYd2twTDN0aVVVYjc1NDdtWW9fNzdMa05sMzg?oc=5",
-      "fonte": "G1",
-      "data": "2026-02-20",
-      "orgao": "Câmara",
-      "status": "Inscrições abertas"
     },
     {
       "titulo": "Concurso Hemocentro DF: edital com 123 vagas em breve",
@@ -3875,41 +3907,9 @@
       "status": "Novidade"
     },
     {
-      "titulo": "CLDF aprova projetos que suspendem prazos de validade de concursos públicos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVRZcmt0QXV6ZTNwb3dvYmFEN1A1YU9oSm5XR0NKV1RndGNjTnZ4d2c5QlJMR19zR1lXUkY1dUdJZGVUMjdHR1dYeXNLR3VzYlA1Z2JxcGRSbFRkX0szTDRDZFlORXQxNURDOWNqT3lBT0JxRVhOY0FHZjIzcjNkVTBxbGJweGEyTnM1RFBOSWh5UlhkY3owOHlCNDFOLXdCc3U5NQ?oc=5",
-      "fonte": "Câmara Legislativa do Distrito Federal - CLDF",
-      "data": "2026-02-10",
-      "orgao": "CLDF",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos Abertos DF: mais de 500 vagas abertas; até 26 mil!",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TZXh4dlRvRkRNbDNXREQyaTlKNUp5UVRRVjR5T1dMbG10aldTOHpSV01FRktxNmpaOW45OWFaaFN6Z2NrWTVqQjhYS2k1LU52QlpRZnRBSUtLblpJaDJiVjRHUkNXRmEyMldOSkhTTHZ1TWtJNUYzYloxSWJudw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-02-10",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos DF: projetos suspendem validade de certames",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXo2U0tSYlVoMHlnYVM3RE1nZW1pNGZYX2tYbXowSU12S01XX2RWVnVldWl4dHZMRzZ4SzdPdUxiSHVxLW5fTmcyaUxVVXJvTzFyTm56ZVBwamZ2TWRYNUVCZDZKcXRqNzNfMlRUd3hpb2R1UGlPQl9BQWNtUUFSU3NPWXAtZGZqWWduVEF30gGTAUFVX3lxTE12d3VnS1pzTG4xME16VmJ3Wko2QWtXT0xIb1g5V1BfVjdfQmtqYXZURFpPUFdUUTZlUEFONnRoVGdESVlNbkVUQ3ZPZ21HMkpHdGpZUTJ0eTRWV0N1RG1RVzBOWVhmRXh3bjNUeFdYS21WamlHUjdqYWEySjh4eDkwWTk3QjFUMERZZHFIZGNtRzRFRQ?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-02-10",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "SEDES DF designa autoridade para coordenar concurso público",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnlMMkZNNGdtVE1hU2RzaDMwWHNCalBONk9PdXZyTmxUcEJPejRZR2pCS0xteFdNME5UcDB1UDFMUVVESGR3blN4VENHMUVOaXZDcWNVUmI3cDVIZlMwQWNjZU1ycktyeFYwdzdkdEN5UGdqVUJpVmtjc3RlRF9PQlVSMEswRzN0OTZsMzR6QdIBlAFBVV95cUxPM1ItVVdKeUZabXFnTHpVTGc2TFQ2NlZYUER5QUd4M1ZPVnVRaktGNkFDUEhwYUZENGRiVkFmelllb1BaNmVsLUpHQUxqa3dITXQ4RWxDbjVKRnBVSXBtZldYUHJValBGUHhMbWxtbXJpaWVnajNfVWVtaDVQMWlEVUlDZXRmaFMtYWZWTXhWREV3ZFJF?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-02-10",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
       "titulo": "Concurso TCU: saiu o edital de convocação para as provas de auditor",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ05McTJNTDN4RnNWZFEwMlZNUk9rV3JaZWUxb0VuLWNxMkE2eUl1aHVqWjRMRHVSeHpwVFY0YVIxQjVaSUZnS1k1UWlpZmlTNjFscFZXVWFocTJ6V0Q2M3VILWIwZWt6azZ5eVRFamM3dHg1cmRXZXRwSU9zUE1LTE5IOS1oaldDR1UyVFFlNWp1VnBIVUVEREtsek0zWm9Db0ZSSXlVVQ?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-02-09",
       "orgao": "TCU",
       "status": "Edital publicado"
@@ -3917,7 +3917,7 @@
     {
       "titulo": "Concurso TCU: locais de prova disponíveis, confira!",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM3hLVGFicUVuVzJaYTBvcDhwQWswNmV4enFWZ2pXSWg0alNPeVIwdlJxS0dWbU1qaHNaWHVJYkRkRldQYlhyM3ctdE42MGxDcFRaTm9XUkRxNWI2Y3pHd0lUOEpkNmZCLVY2cWVORGZQYzhibUZRb3dtQTR5RVdPNkdHdzFWT3NHc0hJ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-02-09",
       "orgao": "TCU",
       "status": "Novidade"
@@ -3925,7 +3925,7 @@
     {
       "titulo": "DF: veja lista de concursos em aberto e editais previstos para 2026",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWhqRFNQVkxUUm80d1hpX3VrUWdTVTk3V2VQUWZQZWRTLThqZkgzYzU2Ni1FbElUbDJtZTNfdXNPOVBaZElXZlZvcXc0dmxRb0E1dlQ1MXp1NnplMGgxUFdTbGxNajNGaVRGa3hFUU0tTEFBYXh0Qi1NSlh2X1ZoX3pUUkFmYzBVc1RoTW13OXZWSGN6dkVZOWphZ2d2WDgwTEZVQXY3dDQ1aVhENnk0?oc=5",
-      "fonte": "Metrópoles",
+      "fonte": "metropoles.com",
       "data": "2026-02-04",
       "orgao": "",
       "status": "Previsto"
@@ -3939,28 +3939,12 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso SES DF é autorizado com 900 vagas para temporários",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXNqemR2YnZjQm4xV3FhSEdJNkZsZHNfWU83VTA0OUsxX2xOazhucGlxNHMyNFBDM0h4aWtYYXUweWRyaE51Y3dWOXQxa25KUldYTWtOR0JDMlRkOUsyZFVYMFpmbUpUeTVib0c0RmRjOFhyMnB6c1BnOUFuOWlsZU1sLVNsLTA5bllTTzFNc08?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2026-02-03",
-      "orgao": "",
-      "status": "Autorizado"
-    },
-    {
       "titulo": "Concursos Fevereiro 2026: confira mais de 30 editais previstos",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVFBKZy1sWmR0aEFQT09qbEpONzkwWnBwbXBwQkpRNlVRYTJ1RXJkQ0NkeVpHS196RnhxdjJ2UUFnSVA1WnhzSFdTZzN2aWdOTklORVBQSUFwaHRrYXlWQjdGNkRZeDhrTnJwWWpuSmZfc1U?oc=5",
       "fonte": "Qconcursos Folha Dirigida",
       "data": "2026-02-02",
       "orgao": "",
       "status": "Previsto"
-    },
-    {
-      "titulo": "Concursos DF pode ter validades suspensas; entenda!",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUU9oUkdpc1RabkQ3NnFodGplSXVwRjEzaS1CRXRPVVZMcGlJWGV1NWN6eTJUZUpFSTFtXy1CcGJMNHltTndTeUl1TXRoM2gwaV9oQ0dVYXpVQ183c01xT1ZqUjl5R3ZfclFfa2pYTUg2SVdGWk56aVpKUVBUM2I2b3JRTdIBiAFBVV95cUxPX2tTSXc2bnVxWnpoYWtUWnJydGdEcExTM1lTMkRDeDdiS3RKODZCRVdJZEJ4Ql9XQkpFbmN3N3lyTUJjekJmc1NNby1LekRyZkF1dzNyOFcwaDFTblVRWWRPYzhqV19JajIxM3B0OWYyTHBTNXFCWWtLUHJmNUpVUlJGQy1RRXpH?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2026-01-29",
-      "orgao": "",
-      "status": "Novidade"
     },
     {
       "titulo": "Concurso público: 32 melhores editais previstos para fevereiro; até R$ 32 mil!",
@@ -3973,15 +3957,7 @@
     {
       "titulo": "Câmara dos Deputados lança mais um concurso público, com salários de R$ 21 mil; veja o que se sabe",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVW9NV3hPVXRsckN1RXc4OHE3TDJ3WjY5VEZzckpDeHlxVERtNnE1cmJuNE5SYnhVTVE3OEV3TjJsZzhqUmdSMkpHLUp3RWxOdGtZcV9TVkVkY1ZnSnE0Zkp0bGF6ZmVBUFRDTW1paWVTbUY4VEYyYzc5ampfSDVmOGwxSl9RYzlwQ2d5d1JWOFZTODRpVklXMy1XdWNvUFVRcXJ0TFBEcGUxM1RyeTdvZ184NHFoekc1UE54WFcydU5ZaHgwWC1zUWpZdzAwWkw2VUd5VjZ5eVNpVmtnM2dUVkJCNTRQOU3SAfYBQVVfeXFMTXVQRmoybnRWQ3RIbm5tcWdVUnl0ZEQtYzhYaFdTOGpoc3BDbW1vVTFhbERTUmhaLUpYaktkZGI1MUd4c2xSZUxXQktoN2xGRktFNXVpWUJZU250R29NVmUwWGNXbTNTUTdKSkFBakFZYV91bmJDTm5YLW1CTEh0VkFDM0J1SW4wNHZ5clVNbTE3aWdjeEpPNFA2OE9ZTDBlNDctcTVNOUd5MkFUeUhTNkxNTWpDakZqdWNsNzEyNnpDRmw4aFNpaWtZNGEzLUxlV3ZJYjdoU3N4WnlNMnNjTGxfNEZCVUluTmYtcUpHMHB0dGk4Qm5n?oc=5",
-      "fonte": "G1",
-      "data": "2026-01-27",
-      "orgao": "Câmara",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso da Câmara dos Deputados: saiba tudo sobre o novo edital para policial legislativo",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaW1sckdhaGg3eUthWl9TajFZTWtpVnlGVTdXUmVMWnVIRWw3MlBNUnRweVQzbGo2Y2QtZFg3Y2JCejhzVXdoSFM4bzYxcmliNEpZM0k5WWY2UG5XY09HRlhzdHhXNjF5UUV4a0pPaFd5WGFubzdqeXZhSGMwR0kza01BbFQtNnZ1M0RCYTE1dWFNanM1Tjh0SnIwLXdrQWxWTXh3cG9SZi1sRUpVRnZTb2x5SnlOV1pTRkE4M2JWNDhJbUdmOEFUaEQ3dVc4TDZWSzctUtIB2gFBVV95cUxQUl8wTFp3V1Axa1d4OFpWMF9pR3RsVDlkWVBvNGJpWXFMdHZjanJYY09vX0VDWWR2VkZOODZqOXJNak9xakotSlZVU3IxZXlEZm12WDlHRW9rYzVENlc4aU10UmxnUUpxMWU5SzVGdFhTNUt0cnE2N1FXWHBBNHJQc0M5cUoyTjNMa0d4WkJ6MTZRcXp4R19wTUZpX2MwdFVUT1RJWU9xdFVjWWZhZFJVdTJEaTlJWWRidVlLdU1TeDNQajd1YnI3VHd5bzd6b2sxUDRGbE1NZVl5QQ?oc=5",
-      "fonte": "JC Concursos",
+      "fonte": "g1.globo.com",
       "data": "2026-01-27",
       "orgao": "Câmara",
       "status": "Novidade"
@@ -3997,18 +3973,10 @@
     {
       "titulo": "Concurso da Câmara dos Deputados: inscrições terminam nesta segunda; salários chegam a R$ 30 mil",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeFUxQk9UZ016dTRYRFZGLVRxeU5tN1g2Vm9HS3J2ODlsdmxXcENBZGdJZjNodjIzM3FmdklFazRUWnNabDdFNmpTY1FCRDF6S3NtbkxHbVhibkd2NnNkaXlCV2JrTktNS1kzeTRXWDBrSkUtcFl3SU5Gc0lrMVJnQVZzWUpIQ1FCcTlRYV9rMEl4c0Y3TFVRNHRwblUyeDBpY3QzQVdxM05lTk5YQWEyaGs5aEcxcUY2OUdWUzhpWTlNUDZCMEI2RFp4ZjlZSkk4Z0hzMlhWWXF6UFhwMUFFZnI4ZlpsOUIyM1p1YmM5NHdvLU53UHkyQmtwazFPUdIBjAJBVV95cUxOQ1ZCSG1iNFlzT1VwcTkxTFhCeUpGWFppcHBqQzlzY2xpTkctYi1GTVQwWHFqMlZLUzdkZDRIY241UnVnRnpsbEYwSW8zTmtWeHlsSHVtaWpWRjZ6czZ5Y2d2UnVaSlNkN2ZwYm4zZXplWWxVdG1uQ01TYnhjalFFQU9XX2RteDFhd2JGb1VVQ1NKMTRJQXJxWjZVUEhPZHdMYXVIOEc3WXI1ZDNDZmpmcGZxUjdkWFBlRnVzVldFRm9TTjR4UkN2eHFJMExiNlhUQXBpRVI0WkVnVUo5SF9wMzVTWjg1QzJzaUt0RGRacGFabk1sZW1WNk9OZkJONDN1V0FKUmFaa1lXby00?oc=5",
-      "fonte": "G1",
+      "fonte": "g1.globo.com",
       "data": "2026-01-26",
       "orgao": "Câmara",
       "status": "Inscrições abertas"
-    },
-    {
-      "titulo": "Concursos DF: 12 melhores editais de nível médio em 2026; até R$ 8,3 mil!",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1RzVXYWZrYldOaUJGakRnX2Q0MjdzZjMwSTVZXy1xRC14TXZZazl6aURnWVhwdWpZLTRLVFlFR1ZqVHJsUW5pRnFrYWRaMld3SGhXbWR3WV81S29rVkZsQzFoYnFTbktOMXE0QUxZNkdzb1dvQ19EQnVoRS1hMmM?oc=5",
-      "fonte": "Direção Concursos",
-      "data": "2026-01-23",
-      "orgao": "",
-      "status": "Novidade"
     },
     {
       "titulo": "Publicado edital do concurso para policial legislativo federal da Câmara dos Deputados",
@@ -4019,17 +3987,33 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso para policial legislativo federal",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0k2OUR4czEzSnRRNURCbGxrRVR1QVNROEtoS01YSlFRd1l5Y0RSN3ZVc0d2bEh3U2l6RFFZYVR3YWlLSE1Ed1c3MkJhNWtHQlhOTHNPOU1mcTVDOVpaT2pXdmROMWF0M3lJYnFfR0JaV2RJd2NacndZQmQxQVgtSlY5bUR1andLbTJNMnBsY24zdE5TcndYSkNLTl81Ujc3YWV5dw?oc=5",
+      "fonte": "Portal da Câmara dos Deputados",
+      "data": "2026-01-23",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Edital Câmara dos Deputados Policial SAIU! Inicial R$ 23 mil",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDNDMkNLQ3l4eHBVSGRZa1BrVEU5cXZmdHRkRG5zTXN3eTFqQnpidGNwZWoyOTRVcmpiak81YnZaNWVHMV9YRXdSbUprZTRQS2ZvM3VkUlgtNzhEa1NjZnZTVEdiNFNRUXFPQ05HYlpfTUJZVGl2SWV0VDc5bEZzQ21OTDZOZ0hQUWIzckItdnF5MjJtNm9DMA?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-01-23",
       "orgao": "Câmara",
       "status": "Novidade"
     },
     {
+      "titulo": "Concursos DF: 12 melhores editais de nível médio em 2026; até R$ 8,3 mil!",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1RzVXYWZrYldOaUJGakRnX2Q0MjdzZjMwSTVZXy1xRC14TXZZazl6aURnWVhwdWpZLTRLVFlFR1ZqVHJsUW5pRnFrYWRaMld3SGhXbWR3WV81S29rVkZsQzFoYnFTbktOMXE0QUxZNkdzb1dvQ19EQnVoRS1hMmM?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-01-23",
+      "orgao": "",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Melhores Concursos de Nível Médio em 2026: editais em todo o Brasil",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcDdVZHF4TnhnWXRPRWM3QldUdFBqdHVxRjhOSVhGX3pqNVNvTDV4ZVNJeUZZeWJvc2lKRXV2VzhYOUkzYmNuMmhHek40bjVucEs5dFhTS083MGN3b1phTGxuWWxzSHVLSllsUW52ZXJ5bUg1TDFj?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-01-22",
       "orgao": "",
       "status": "Novidade"
@@ -4045,7 +4029,7 @@
     {
       "titulo": "Concurso BB: ganhe R$ 6.2 mil apenas com Nível Médio; entenda!",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMTBxN1EwTmVWLUl4T1NWSFNhelctOVU3MFZRTnV3dmFkWHp1QVlRc3lyRjJ4NjRndENWa1dtMGd2Qy1Jc3RtQjUyc2JDMDV3dFRmd25KaEE4d016emJHTldIWEg5Ty10NWtwblBvSnh6MWdRdWxyRlJKSmdDbzh1T2s5ak1WMlhvclUtVG1TWQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2026-01-21",
       "orgao": "",
       "status": "Novidade"
@@ -4075,28 +4059,20 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso Banco do Brasil: sindicato defende novo edital",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1lUS21YNW5Pa0YyTHN4dE9nTmF6djYtdmtjSXByelA4bmdaWXNtLUVydHlPMnNrSmVoZXRHTmJpOGJndldONFlSNm5pTnhGcUNkNmJxa1RBalpJZDkyRFBsUUxITW0zUnZkMy1aZ3U2MHYtZHRuMUZkT1RQZjlGZkhBM2RjSXA5ZE9wNTgxRUhCNlg1Y0ww?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2026-01-14",
-      "orgao": "Banco do Brasil",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos DF: 5 editais previstos para 1º semestre de 2026",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3pWQjdyU0dTUHYzNVo5cVlHcG8zSlo4c3FiRHlwTXRMWU05LUdyYk52OGluNnF1clpZWGVpM1c0MU51NDdBY0dzZzU3Qkk1OEItQTFNMG81Z2NWcjItQWdQQTljQWl1WUhfWjFHektlSkNFcEpaTXdyelowbm0yNWkxeEZKY1dXMHhOUQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2026-01-13",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
       "titulo": "Concurso nível médio: 20 editais com inscrições abertas em janeiro!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEVPVVkxVjVyS2dSblVMcjhFNjdyZllpaGhlODFobXhINzB1TkJyTnV2UlV1c0NuZGY4OVNqQTMxc1Rvd0hRYWlsN1BwdWRFM0RZdS1ZLXBwMUVFN0Q4ckI0X3RzWXEzdFlKVnNyXzlzRE1uZ21VbzFNb1AwM3lvQlR3UWFlbm9sNUxIRDhOVm4zendQbUJ2UkU4LXNPUQ?oc=5",
       "fonte": "Direção Concursos",
       "data": "2026-01-13",
       "orgao": "",
       "status": "Inscrições abertas"
+    },
+    {
+      "titulo": "Concursos DF: 5 editais previstos para 1º semestre de 2026",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3pWQjdyU0dTUHYzNVo5cVlHcG8zSlo4c3FiRHlwTXRMWU05LUdyYk52OGluNnF1clpZWGVpM1c0MU51NDdBY0dzZzU3Qkk1OEItQTFNMG81Z2NWcjItQWdQQTljQWl1WUhfWjFHektlSkNFcEpaTXdyelowbm0yNWkxeEZKY1dXMHhOUQ?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2026-01-13",
+      "orgao": "",
+      "status": "Previsto"
     },
     {
       "titulo": "Concurso Valec: publicado edital para analista. R$11.868!",
@@ -4107,12 +4083,12 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concursos DF: 8 editais aguardados em 2026 para ganhar mais de R$ 10 mil!",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTZfb3V2WE85bTdnUEU0cFpUNmtCRnUyN1BvTlE3cmx0c1ZnVmFWTXIwRXVBZ1FzMGEzVzJWS2dIVWFKS0tHMmVTWFF4cHo1anhGQWo4aXZYQWIxdGtBN0N1ZkoxMHBVb09XQ194Z0c5QzNKVEJqSVRtN09GUXU2NklCQQ?oc=5",
-      "fonte": "Direção Concursos",
-      "data": "2026-01-09",
+      "titulo": "Concurso da Infra S.A. tem edital publicado para 65 vagas com salário de R$ 10,8 mil",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0ZUeGhjRjlsdnR6QkJTY2dxRE5kUGV5UXBXM3ZyVC1HN2dJU092aHBJYWU2QjVtSUY1VDQ4YVdYbjlSb0FHOU5GYWZFeHY4TGtMZkk4V0hYQjF5MlJHdTZyVHNoWDFGWFpqZUY1ZmV1UmYxWEpJMWl6aVNMRUhxS3hR0gGHAUFVX3lxTE9lWVg4QV8xcXRYRDJmeXVpMi1KamF1YTJHdVpIaEVxdnBObVhaWEtLbVl1c3dwWjJ6c0hENnJWajZHMFF1UDY4X05LMWhybkpiZzIzRFJTRU4wUHJsVGY0ejRaTkY0T1JxUU5tYlBmcUt5dTB1YmpKLXhIZ2VuV1A5RWZ2NTcyNA?oc=5",
+      "fonte": "JC Concursos",
+      "data": "2026-01-13",
       "orgao": "",
-      "status": "Novidade"
+      "status": "Edital publicado"
     },
     {
       "titulo": "Concursos Federais 2026: veja panorama dos editais previstos",
@@ -4121,6 +4097,14 @@
       "data": "2026-01-09",
       "orgao": "",
       "status": "Previsto"
+    },
+    {
+      "titulo": "Concursos DF: 8 editais aguardados em 2026 para ganhar mais de R$ 10 mil!",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTZfb3V2WE85bTdnUEU0cFpUNmtCRnUyN1BvTlE3cmx0c1ZnVmFWTXIwRXVBZ1FzMGEzVzJWS2dIVWFKS0tHMmVTWFF4cHo1anhGQWo4aXZYQWIxdGtBN0N1ZkoxMHBVb09XQ194Z0c5QzNKVEJqSVRtN09GUXU2NklCQQ?oc=5",
+      "fonte": "Direção Concursos",
+      "data": "2026-01-09",
+      "orgao": "",
+      "status": "Novidade"
     },
     {
       "titulo": "Edital concurso Sebrae Publicado: vagas de nível superior com salários até R$ 15.967,04!",
@@ -4141,7 +4125,7 @@
     {
       "titulo": "Concurso Banco do Brasil: veja o que se sabe até o momento",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUJ2QjhyZXFucGVSRW96LXlnT0U5SmFCVS1CM2xzdTMxOUxSZ0I0bTFWMHZaWUJnM1k2ZUdvTGtrOVRzaFdmUHBSRXh2TFE1c0pURnRUeHlrLVY2bkZWUjJCb1NGY2RXdUxtM1d4ZXJpLXA4WjFPcUtuVDRaMWlzSkFxSXY4MWoxVDMxeENMUk9LYlJPZm9MSFNMWQ?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2026-01-07",
       "orgao": "Banco do Brasil",
       "status": "Novidade"
@@ -4149,7 +4133,7 @@
     {
       "titulo": "Câmara abre inscrições para concurso com vagas de até R$ 30 mil; veja datas",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUEM1UE5pUkFIVWlySlZoeWx3bVFJaGpsYkxmQlJOOEUyQXAxTUxDNW1qVUJHVVZOcDVUZ1BZY1Z3LUo5RXZpYkREU1luR3VIYWN3UTZvOXhnTkRpR1FDTFp2ZGtZdDAxOWgyblhyNGk0TEtMWEZWOWVhZjNhTEZDRjNqdFlzSjlsVVFFZEVXa2l1ZVNyaTFwY2FaNnhFa0F5LWVqc2g0a1VieVJ0X0xfSWl2WW9vTm9Ucm4wdzcxSl93Vldfd0tfMGJ2Z3libzdX?oc=5",
-      "fonte": "CNN Brasil",
+      "fonte": "cnnbrasil.com.br",
       "data": "2026-01-06",
       "orgao": "Câmara",
       "status": "Inscrições abertas"
@@ -4157,7 +4141,7 @@
     {
       "titulo": "Câmara dos Deputados abre inscrições para concurso com salário de R$ 30 mil e sem graduação específica",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3N5bjVPMnY3cGdwdnBkU3FmZHg2RzdYUjc4UFU0X08zZERsdE1OQ0JzZE85bzN6Z01ja3pkTlVObWFVcjhheHN6bmFYdDA5QkZXc09sWDhtTndaRHFtZXJOUlBXelZXbTNaLTIxQzlJeHpMN2xteldhLTFUOUVPLUFEMTUxVFozcVJOS3JTTU54cl9kcmJYTzdpYnZTZmwzMmFvNzZVa2lqNnMwMFEyMXVyeHRTd2NwY1Z4eldIemg0OG9j0gHTAUFVX3lxTFB3VWNEYmlKV0d1aDFIQ0VjZjJOejFCaWI5QVNZNk5tZV9qVVRsWUkyUUxYSlpaNkNTQ2F1ak9qdTNjVTV2MG5GQzlyQ19rNDJZZVhMY201TE05RGw0cm5MazJ1dHp3cWptN3dQT0JPdmdSYV9wa21XS1pHempEZDROaWhsN1hKelgybnR5NDZveXdUcDhTT1RJenA5TF9fa3BMeDE3Y3VJZDI5SVRiTnRuUEtCaE1PNkNIZUwwcUs4b2R1WUpqMW5keFRZRU5ITkJVc3M?oc=5",
-      "fonte": "G1",
+      "fonte": "g1.globo.com",
       "data": "2026-01-06",
       "orgao": "Câmara",
       "status": "Inscrições abertas"
@@ -4196,7 +4180,7 @@
     },
     {
       "titulo": "Publicado o 1º edital do concurso da Câmara dos Deputados",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzdmLWZLOTdaY0xWNjZYVDlEWTRiZmZabDktV1RIX0VlMW9Fd2dtMm1ZX0o5TmNuR0pvYjhWQnJ2LUxiX0VjcFJzWW81ZENLdWNDa2t6ZUFRdjZaSnpmVlBHakljNGpRQk5CRTQ2WDEyR0pPRTktQnllSTFCMHVnVWdxaDFxSnE4c0JDZVBOdzRBcENRdG5YMmduWGQ0RjdWT2w0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjFfREc4VVlnMENQTjdtaGRObk9IeFlLMndublA3NXE3SUFxdXV0RDBaOFBZMXlJbzkzdm43bU9GcG8waXRZSmx6RkVlczRkbW43bFNFdmZtOTR2Z1ZQNVRBZTFmbXlMdGI5YmtUNUxKR1ZfODRKVWR6UTk3Zk1zOE1iSEtHTmdPRzB6TVlTRTZMVHd6WDN1OWhpS29hdmd4WHBDTjVoRTY?oc=5",
       "fonte": "Portal da Câmara dos Deputados",
       "data": "2025-12-30",
       "orgao": "Câmara",
@@ -4221,8 +4205,16 @@
     {
       "titulo": "Concurso da Câmara dos Deputados tem salários de até R$ 30 mil; veja como participar",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTZGemJuOWJDZHZ4S0hBVFZHemdnR2Izb0x6UjhGVkxKYUM5YVRKb1FYZGRHcVJmWExwVFludkRlTGdaQllEekJtWG1IbEQwWjFqSUwzZjg4X0xrM1JiMkxoRG9hemVEd0VFSFk4a1hjVklzZzFsWjZBYnY4QmkxbElwMUpEYXBaZF8zWXI3b3U5MEpEZk1iZVJheTEyUXlxR0s3Q2hzcXhNY3hH0gG7AUFVX3lxTFBmVUtQYkJJbVZQbzZqTV9maE1LeWUtdEw0QzhUV1FhVUsxS3BlSDZHdklHcDVvdGZIZEZhMnk2WEFuMU9kaTJhSC1NVzY3WUZGNDB3SmNWUk9mdjlPRzIycDNlcGpESXM2cTh5VXJpMkhEa3Ayb2IyMW1SNl9lOWh6ZFAxZ0RLMWhRUXdYdEl5V3Y3dURNcFZELVVVdnNTbjQ4Y09jVXIyalRNVmJ4ZDdqTzZZSHhzbmpMQmM?oc=5",
-      "fonte": "G1",
+      "fonte": "g1.globo.com",
       "data": "2025-12-30",
+      "orgao": "Câmara",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso Câmara dos Deputados: edital pode sair ainda em 2025, diz fonte",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGNSZUh6cy1zZnFVZDBkQzBUeUlpa01nVXRTaW5XNnRfM0sydGpRcGU1NmJ3a29UcW1CUWo5UGhFRjhBbHo3YVBjTE5MUm9yRm1EUXVrQVVTYm9LWHVMdDB2M0ZNYzBlbk1QSkI1MXlveGVvcGttRHV5WC04cFJhaHFqdk9uQU5GaU9HSFFjQ0VoUVNZQldUNWZJNWR6bG1qRHI2VHZZdUhGSWZq?oc=5",
+      "fonte": "degraucultural.com.br",
+      "data": "2025-12-29",
       "orgao": "Câmara",
       "status": "Novidade"
     },
@@ -4231,30 +4223,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEU5VFdNQzRKWnBIZ3g5TS1jbmtLUEJKZUxUV0JXanl6Y0JhM09IN2t1dnJ6VURnWG9JdXktZHFYbVlNMzFFODc4X2tCQmR4dU1BRWdDMS1veXkyYy1zaHI2UjFLLVVxTng2MV8tRVYyWU9iY0tVWkhMSXh6UXU3b3NRbGFKY01OVHJab3hkTTE?oc=5",
       "fonte": "Direção Concursos",
       "data": "2025-12-29",
-      "orgao": "",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso Câmara dos Deputados: edital pode sair ainda em 2025, diz fonte",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGNSZUh6cy1zZnFVZDBkQzBUeUlpa01nVXRTaW5XNnRfM0sydGpRcGU1NmJ3a29UcW1CUWo5UGhFRjhBbHo3YVBjTE5MUm9yRm1EUXVrQVVTYm9LWHVMdDB2M0ZNYzBlbk1QSkI1MXlveGVvcGttRHV5WC04cFJhaHFqdk9uQU5GaU9HSFFjQ0VoUVNZQldUNWZJNWR6bG1qRHI2VHZZdUhGSWZq?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2025-12-29",
-      "orgao": "Câmara",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concurso Câmara dos Deputados: Cebraspe é contratado e edital já pode sair!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHVQejBGWnIzMDlvVy04cUt4V3NERUJ1MXIybmVaY3Jvc3UzTGhpM2Fuc3gzZkR0WmNQZTRKSU5vcXBGNlBwMzRfN3lsMXBIRS14TjNOdWNleDBhRFBEWkFoZlBIUXF0UElsTUhXWHJmVldhc3dtbWVwZUlCN0ZNNnZVNHcxNFJDVVFCaFRpb0xrZm5MYjVpNFMyZVkzcUlQRGdlb1EtMXRZeFlkekpYNA?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2025-12-26",
-      "orgao": "Câmara",
-      "status": "Novidade"
-    },
-    {
-      "titulo": "Concursos 2025: milhares de vagas e até R$ 37,7 mil. Veja!",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CTTJKVDd5SFpMR0hpR09wU0VWYWM1QWNOdTVyNnJMUXZONklQTWhYN1lCV19jNWxyZFYwOG5tcWlBYlJDQlNTNXktT29nWkNkT0VLdE5PX29ScmQxTGtaNXZ1OHdfOVIyNTFJ0gFwQVVfeXFMTkpHVkM1UTI5N1QxaTlJVjNNMXhuZUFTVG5MbDI0TlpvejY2RmZqdDJQczQ5Y1UxTDNkUTlhbmdhWU1JeEhVTXlTU0VLQ185N0NlcTdKakd3Smdvc2pXQ1NMdnBrQ1VPdGY2SjZwVzF5Sw?oc=5",
-      "fonte": "Estratégia Concursos",
-      "data": "2025-12-23",
       "orgao": "",
       "status": "Novidade"
     },
@@ -4301,7 +4269,7 @@
     {
       "titulo": "Edital CRF DF SAIU! 150 vagas de nível médio e superior",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmlETkJxem1KX1kyOVBOMEY5aEhCNVVpMkRuMl9uZ3QzZUFrdjBxVm9seENidW1Lak9nNkJXYlpWWThjWFhNVDE2eFdLY044WGhERUpHN1NkZEd3LWY2aUJURjRLbWVvMExMMERXVGc2OTFnWUQzMnpzTWFrbkd2eg?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2025-12-15",
       "orgao": "",
       "status": "Novidade"
@@ -4365,15 +4333,7 @@
     {
       "titulo": "Concurso TCU auditor: últimas horas de inscrição. R$26.159!",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1RUZmwya2llanlQVVdsaXlHeDM0M3Q2NmQycWJvcmJCOU4wX1lIWjE2Tm0tXzFMOTRCeVR5dmVxNTE4NG10ZzRHTzJiVUxQQ1h6c2lXRV92dGRKQ3N6UEtWNlNLSTZEcTAzeWRxS2tNNjRQNnVhWkJhMkZNOHlKcnlMQ2xlejIxUHFmZ1JKakRsU0Ftcy1J?oc=5",
-      "fonte": "Degrau Cultural",
-      "data": "2025-12-03",
-      "orgao": "TCU",
-      "status": "Inscrições abertas"
-    },
-    {
-      "titulo": "Concurso TCU encerra inscrição; veja próximas datas e etapas!",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeXVIdE9JSUJBanc1dGgtVVVBNVRwc09LY3BxQUZFMXVoVmpTRWFic296QWlYWWZBSHM1MlJHaDQ0bXhacGc3dXc5Q1EteGkzTVF4d0x0RUdqRE9xRTFnU1lZajk1eV9LZFRCQjRkZkk?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
+      "fonte": "degraucultural.com.br",
       "data": "2025-12-03",
       "orgao": "TCU",
       "status": "Inscrições abertas"
@@ -4403,9 +4363,9 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concurso do IBGE com mais de 9 mil vagas tem edital publicado; veja detalhes",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG5iMUQwUHAwcnhlVVlCeFMwWkRaeFBkQXNuTzZBUGJZTlJ6cHdWZmExRC1FTDYwc2xQbTFSNU1LN29YSFhWbnZENS1oaWNScVhMZF9FRHVsYll0d0NZWWJrblk5VFIxcVh4VUstMUpjc2NWQmdKZ2Noa1gtUEFXY2stNmFyT25jOW1qQlVhWVBMNFnSAaIBQVVfeXFMT2ctc0E0SGNjRXQ1VW9MOVVwMnVLdTAzNzRtV3M4eGkyMDFFR0FZaVphRG5YWWxWUEJnY0JOdnZrSDlLb2thVGZ1SjUtSm9NVkVCNUtNdEk3aXRMb2NUc3lnakVsZWpQQkQ1Zk13MGhCZnhUcXlmYmhObFhESTlrZURZUWpZNUQ4YXhBYmJRd2hndjRpNnNFcnQxblhVSFFvM1Rn?oc=5",
-      "fonte": "G1",
+      "titulo": "Concurso do IBGE com mais e 9 mil vagas tem edital publicado",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTG5iMUQwUHAwcnhlVVlCeFMwWkRaeFBkQXNuTzZBUGJZTlJ6cHdWZmExRC1FTDYwc2xQbTFSNU1LN29YSFhWbnZENS1oaWNScVhMZF9FRHVsYll0d0NZWWJrblk5VFIxcVh4VUstMUpjc2NWQmdKZ2Noa1gtUEFXY2stNmFyT25jOW1qQlVhWVBMNFk?oc=5",
+      "fonte": "g1.globo.com",
       "data": "2025-11-19",
       "orgao": "IBGE",
       "status": "Edital publicado"
@@ -4421,7 +4381,7 @@
     {
       "titulo": "Caixa publica edital do novo concurso: salários vão até R$ 14,9 mil",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXYxWXNaak5YU2dfNWhWMExBdlRua2FOT2dKa2l5ZGlfYjhwN0tNR2F4TmNSWktfY3NGdUR3cUg1YXItSHhEbHp1TFVvMkZuZUVEal9sUm5kVUtFMlNNdHJicjNUelNlNmtHYWxoZFZ5SGlUa28tWU9YVGx2RXpGWFpyMWdQVnQwQ0tQWGJUOTU5bThrRk9PbDU0WFEzaG8?oc=5",
-      "fonte": "VEJA",
+      "fonte": "veja.abril.com.br",
       "data": "2025-11-07",
       "orgao": "Caixa",
       "status": "Novidade"
@@ -4437,7 +4397,7 @@
     {
       "titulo": "Concurso TCU Auditor: Tudo sobre o programa de formação",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN18yX0psRnJHU3FaOUtVVkgwa2U5dE9aSmpiQzMtRTZEODdSWUhqUnhxOHhDV3JYWF9EMnUzWFNUc3B1LWdrcFc1WDdMbUxvT19Jd3Exc2gyRlRhZzYwbXpFWkFSMmRkWGZDTF90OWlVSnlqdFZ0SmpOcjVMbFFNZmltd0lRZWc0cUh3cw?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2025-11-03",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4453,7 +4413,7 @@
     {
       "titulo": "Concurso Câmara dos Deputados: incluirá nível médio? Entenda",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0RBSmJrTkVETk0tRVRobDdkT1FXYWx3UzMzUHhNeXUzMEJFallKQ1FBYkFsa3liVTVyWGtFbWNzckItSkNQLXAxTldfY3A3cjJSbm9mSnFKYjlDTHdpYXQ2RzVkQkxvZy1vVXlZWTNoaXVQMFAtSGVaNVdESWFpbkp3aHJiUQ?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2025-11-01",
       "orgao": "Câmara",
       "status": "Novidade"
@@ -4469,7 +4429,7 @@
     {
       "titulo": "Concurso TCU: inscrições para auditor. R$26.159!",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2t2dV9mbXNONmhpMUlGTjQ4UzA0MTJuU05tT0xvckdpNWlONjRsTEZNZWlmaHgtUVM5UlNMOGdpSkFTMVFYMUtYT2RtWEJ6RXpxVWxwaldHaFRWWFlFanJZX214cVpzSFdqZXV2ZHY0NGZhRG1hMk9HcTc1dUN0OUd6LThVVDNh?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2025-10-30",
       "orgao": "TCU",
       "status": "Inscrições abertas"
@@ -4491,9 +4451,17 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso do TCU: tudo o que você precisa saber sobre o novo edital para auditor",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUh1eEtiUldNMnA4WFExUm9QckNPbnBCTzVCbnlqWGd4ZGh6NFRtTm9YZDJxQWh4TWotTFNoNzZwNVZNOG1LZXdVV29ybHZmWkluVzR2ZElCX0hGVUk5azFQbmhpTmNGdkltVnNkMjdQWjJ4R2taTlhEZ0MzaGdQNlNsLVdqMUhwc0prWFVSZ2dsNGNaY3ZrZ000dHhTaWJnMVhnNklkaTRZVC1sQ3dscV9wV29UWTZjbm5mYmVaa0ZVUmdIMFHSAcsBQVVfeXFMUFpuclg4QjBIMHVFNjlpM2N6am02N2lZX0tXSHQyYWVtTzRGMko3ckptbGtlRWNLdW9DVnB0ZlBiOW5xdENYcFhrLVVwUUFodnFUQVZRUnktd3RMOXlCV1ZMdm9EXzJQYVJoRDZKYS1XelZ5WTM3T1NHUDRUM2xvMGc0cVZWdTB1RUNiQ1RDOC10N3R2VWNzUHFvZnB1elVaZGVwMnRzYlpzZ1ZiSU5fLTcteVhNSTNtLW5heEdiRUJtdURxQlh4Z2I5Wjg?oc=5",
+      "fonte": "JC Concursos",
+      "data": "2025-10-27",
+      "orgao": "TCU",
+      "status": "Novidade"
+    },
+    {
       "titulo": "Concurso TCU: saiu edital para auditor. R$26.159!",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXRNNmcwRUhCX21JN1pHYmJaTVZaVTQ5VDZZUWdtRzAwZl9rODhOZnI4cWdpdUNJNnZKSEhnSXEwOEdpQ3QydGNmT2ozelNod3J0SUxzdWV5MW9BN0hpczBMTXNZNkJ3MkQySE5DemVWRnNULUEwcW4tYk00X1FlLWdvUXZ5SjhTT3c?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2025-10-25",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4539,20 +4507,20 @@
       "status": "Novidade"
     },
     {
-      "titulo": "Concursos 2025: vagas previstas em todas as regiões do Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiU2lvVXFNOTE3RVFMSThwWjV4NFdZYU93TkRPUmxKMUFCc0Vsd1hyeU5zMHR5SklKQ3VRaU1LQWRxSFlfOUQxWEJZY1g4Zy1fMHA0VnpweVI?oc=5",
-      "fonte": "Qconcursos Folha Dirigida",
-      "data": "2025-10-03",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
       "titulo": "Concurso TCU Técnico: VEJA resultado final da discursiva!",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR29RODBOYXNQc0c1MG5kaXc3a2hxYldFbFlyYnVTdDc3TVpFejR3anhQYUF2dDlJVnR2OXNCQ0JrMVZ5Rm5xUzBoZzN5ODY2dUVaWjhhdS1CWHo4SlVVSjRnSWpPTGpxcmk1U1c1b0RZMzJid2VLWG1SbzNGQ1Z0SDM1S1FYTndfU1dxN0x5aWtzLXJPM0E?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2025-09-19",
       "orgao": "TCU",
       "status": "Resultado"
+    },
+    {
+      "titulo": "Engenheiro aeroespacial errou apenas 1 de 120 perguntas no concurso do TCU",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjRRdEVzUHVZbzAwZWd3RTJDcEVqV1ZxT1daSFlUZk1EWl9NQVdZVVJqUzVWa21mZ3RKSVZia21ZbUZDZ21DUHpGYl94NzhXQ2U0V2NCYUZYYzVfZmhlSzd3MnJjUDNua1FEaXJ4bnFfVHFFZmFmTEZ0WWNKZ0pTNHVWLTJfMVZpVTFPQ1dvalN3MXJGbXkxWDl6TWhkemk3V25BNW1Ybw?oc=5",
+      "fonte": "JOTA Info",
+      "data": "2025-09-15",
+      "orgao": "TCU",
+      "status": "Novidade"
     },
     {
       "titulo": "Concurso TCU Técnico: sai resultado provisório da discursiva",
@@ -4571,14 +4539,6 @@
       "status": "Resultado"
     },
     {
-      "titulo": "Concursos 2025: confira as vagas previstas; até R$ 35 mil",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lZVlybWIycDVaTm90SVhCa3dsMkpSamRmT2xGU0Rpa1owVVVTeEZlRTNKa3E5ZVpZX1RqdW5QYWNiQmlxdWRsNDVMVkIyck9jQlJ0T1NSM2lyVlRiQjNNNjdR?oc=5",
-      "fonte": "Blog Gran Cursos Online",
-      "data": "2025-08-25",
-      "orgao": "",
-      "status": "Previsto"
-    },
-    {
       "titulo": "Tem ensino médio? Veja 27 editais por todo Brasil com salários de até R$ 7,9 mil",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0VhR0tHdTY0aGxFdGFhS1pmNkNIS1ZHRlRMM3hFSEV6eE1mdktHazdZVmtacl9sRUd3MWpjNTZCSFAtUXFQOHk2ZlZZdFEteDNBMEVkRlo0aWJqVTQ0SDJnLUtBTWtWYUhKMmFvVktrcHRNUnB0VjNsc1FKaFM5dXFvMm5BWXRTZFNVSWZWYnlXdVE?oc=5",
       "fonte": "Direção Concursos",
@@ -4587,9 +4547,25 @@
       "status": "Novidade"
     },
     {
+      "titulo": "Concursos 2025: confira as vagas previstas; até R$ 35 mil",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lZVlybWIycDVaTm90SVhCa3dsMkpSamRmT2xGU0Rpa1owVVVTeEZlRTNKa3E5ZVpZX1RqdW5QYWNiQmlxdWRsNDVMVkIyck9jQlJ0T1NSM2lyVlRiQjNNNjdR?oc=5",
+      "fonte": "blog.grancursosonline.com.br",
+      "data": "2025-08-25",
+      "orgao": "",
+      "status": "Previsto"
+    },
+    {
       "titulo": "Concurso TCU auditor: veja detalhes sobre as provas. Edital em breve!",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdTlkanhOOG1pbE54SVo3elYtU3Zkbkk1U0dzOXluZkkteFRyc21uV1VrWmdkRFg2VXF6VFo5U2NEazRWOExobFlBbHdONmE2eGRlNGNhS0FoMkttUDdxaG8zQUhza3hHR01JRWRHNFljaG9ueWZ6NENXNi1qeW5UTE9Kc1hUWTIzUkpLNUROZ3k0dw?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
+      "data": "2025-08-13",
+      "orgao": "TCU",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "Concurso TCU auditor: veja detalhes das provas e do curso de formação",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemxyN3RUYzJYWFktSmFLSS1Pc2xoblJ4R0RTVUx3WU51b29pSmdQbXlXWFFyLUM1QndzdUFucEYtLUpReDNYdThpYlJxYi1uWU9UcmkwNkhXSjUxcF9uemllV29ES3FxMnlNMWlrYWlmMDYxby1LZlpGWWl3ajFNZTZNQnVEbDl0b2Z6R3BYaWNoZy1zZUdIaGpweXhoVVliQTVzeXVhcm00al9HcTlN?oc=5",
+      "fonte": "Central de Concursos",
       "data": "2025-08-13",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4605,7 +4581,7 @@
     {
       "titulo": "Concurso TCU Auditor: conheça as etapas de prova!",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2Zhb05LS2xJWHlTSGdjNHhUcnp4ZDNmRkFsdmNHN0x1UlJoTzk0Z1ZHcHRpM21kejFNOC1qX2JSc09FVklQNGh5WXBqS2lDaEU1YXJfbXIyUTUxZkl4TlQ1TGZKUWtuRzhNTHcyaDZ3WHNBejU5X3lXbzl4eGFsd01CVEJxaHFLYXVN?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2025-08-12",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4661,7 +4637,7 @@
     {
       "titulo": "TCU publica edital de concurso com 60 vagas e salários de até R$ 15 mil; veja como participar",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTVVWbURiSmxuQTlPUjd4Q2gwampVTVpiWEdOSURGdWxyQmE2WlBfR1RSdHFObWNRNGUwWktzLTd6dHUyZGRvaUE5WjNTNl9WSGdIbU1YVk1sSlJYN3R6U3JXWHVTLWZpdzBhM3dCZ2hOVWF1UkR0OENjX1BKaGRtV0hJdXUxSGgwek1waGNTVEVfVWEyazhsc2ZSYUl1Sm11XzVyODAwOVp1dDBfUVN2d2RuSG10MUlIeFU2VUdUZHk5ZnZUMUxFUnFxSmkzSERsWkVWWE8zOU9kSTIyRlZMa18xd2dKYmJWSEtMSHVZT2R6Q3ZzcXN4Mi1hWdIBigJBVV95cUxONnNBbXlWWnlnWnlTYXBxcFp5b2dMR3hyODcxc2ZZcFQya1ZaVGd0Tlp4OFJqdEp4WG5GTTdwMVNaUkl2ak0zaVE5U1lfcWtaaEpBOWlyTGZPczk5allOajZSdnVKY1pSUWxMTXBvVkpKNDRVbVB2R0JqZHJJSXZIWG9UODZuZTcxWW11eUtscHh3RFRPU3ZPb3dDY0tZM29fY0NuZnpteldXNm1wTE5LZkN3Z0ZEa3FiZVhWWEgxdkY3YjdLMHFEVHU3QmR5UC1SX0tKVmY4cm9YQ3dZWXhybUdFVXU5UG53SjFDS3o2Vk91NEt3ZE9oZThiamtlOG13Z1Y0eF82Rkl3Zw?oc=5",
-      "fonte": "G1",
+      "fonte": "g1.globo.com",
       "data": "2025-05-23",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4677,7 +4653,7 @@
     {
       "titulo": "Concurso TCU: saiu edital para 60 vagas de técnico. Nível médio. R$15.128!",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1ZldERjTUcxNkFLMmxsNngtOWNqX1ltRVFoNllsNWlMNG5xTDVjRU1raHUydUREbEdhVkFlbFl0MWFKOVR6c3NSeFAyTnExNUxzWnpZUFo3WWNJTEtVcjlVVl9mZGZPSFVHNkFfdFFLdU16QmJNRWstVTZxWG11QlhVdXdVT1JMdDgtd053c0xibUFCRW1XcUZpZE5jX2ViVm92NzV4dXhIQQ?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2025-05-23",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4693,7 +4669,7 @@
     {
       "titulo": "Concurso TCU: Cebraspe é contratada para organizar seleção com 100 vagas",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFNmS2pVX1lWZXFQaURlTjQ3WG1QcE9PMG8xLW0tSUo3WDBfQVpfckpWZmNGVFJvRFhhMElTZDY1bjVVSS1kN3BVbDlQTXV0MW1nQ3lEbVpoaEpSLVpwdE5kdm1FWXR0Y3liTlZxVmwwZ2JNRUFRYmJQYzQ5NFd4aXo1Ylk0WHgzcWxlWi1aMFNfYmc1ZHdiUDBRbkNNT3Z4OVZzTXhEREZUNG00R0E?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2025-05-22",
       "orgao": "TCU",
       "status": "Novidade"
@@ -4717,7 +4693,7 @@
     {
       "titulo": "Edital do concurso do TCU é autorizado: veja detalhes e vagas",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQk5VZGhHZmcyWTlkcUl1azRfbzZlUGpjVVZnbDlCa0FsbC1sM2tzU2xTdkNzQjFIR0t0dzRSdHlEUGNLV29lc2NDbGdTVHNQT29LUjFqb2lnRklVc2dzX0YydC1rdUZhakFQREVKSTREWGc4aFRsOFFqY3NBLVROSTF1djNrN2pjZEZnNDBTbjBZbTIwWW5IMnpn?oc=5",
-      "fonte": "VEJA",
+      "fonte": "veja.abril.com.br",
       "data": "2025-05-05",
       "orgao": "TCU",
       "status": "Autorizado"
@@ -4733,7 +4709,7 @@
     {
       "titulo": "Polícia Federal lança edital de concurso com 192 vagas; veja salários",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2RuVHFFMVBORE50VWNnd19abjZqVXR2SENfNDBiN1ZRSU5pTTVlTkRKMjNveU1XYUo0Tk45NXN5dW5ocHNxNkM0RnI3OHloMVpfZ3Y1NzBBTWQ4cU5ZQVZKenk0UFFuaWRNdlZ2cEp2WldZLTJUTktJb2tIXzA3MFJUeW5kUF90eWw2Y0lqYXkyOUlkdTVFTFZUOWVrVE9PMGFkUGlKVUVZalJQdGpwYVRvc1JITlV6S1BGaGxB?oc=5",
-      "fonte": "CNN Brasil",
+      "fonte": "cnnbrasil.com.br",
       "data": "2025-04-28",
       "orgao": "",
       "status": "Novidade"
@@ -4757,15 +4733,23 @@
     {
       "titulo": "Concursos Abertos DF: Quais os concursos abertos em Brasília?",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pb2pTbVYteng1aVRldkdJUEhfbFFNVVlFb044eWxwa1hqaXc0cDZHS1FiNjdMREh5bk1pUDFCWVg2QmdxN2hkbVhZZ0FZdllBbjJCQkNtTUhUZ3BrQnZlbDR6YW9UQzBkLW5sWllKN0s1SVU1a01zSA?oc=5",
-      "fonte": "Blog Gran Cursos Online",
+      "fonte": "blog.grancursosonline.com.br",
       "data": "2025-03-14",
       "orgao": "",
       "status": "Novidade"
     },
     {
+      "titulo": "Concurso TCU tem novo edital previsto para este ano!",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGM2eWpwdWVuZkdPb1RSS05zQ3RqR2h6VTg0dHVuOExSVFVaSl9DOG1faFR3bXdnVWtKcFhkbmd0bkdwbk5pak5sY3hCLUtGMVh0TVROdU1HemRxaTFqbllYcVVQVTRlMThzYnl3TTlVYm95RmtSWGZiUGNQYlNURk9sWDhKc1E?oc=5",
+      "fonte": "Nova Concursos",
+      "data": "2025-03-05",
+      "orgao": "TCU",
+      "status": "Previsto"
+    },
+    {
       "titulo": "Concurso STJ: retificação amplia salário e altera programa",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3FSMng1VmpudF9HekZScmVzQ2dfZTFRZkZrNXhsejNYMHJxNy1aOG5BVW9NVWE2YUJqTVpQMjU2N2Ztd0VJcHItVlpXNmxBc2J5SmVqWFBRQzM2TzkyZWdMVzZMTkJETUdkcm1mdGJxMHh4Nm1EUmNoUlhtUlJSSTZsLUdsbVZkdmg2TEZISXdZNkpITDdzVHdKRQ?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2024-09-04",
       "orgao": "STJ",
       "status": "Novidade"
@@ -4773,9 +4757,17 @@
     {
       "titulo": "Concurso STJ: saiu edital para analista judiciário",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBoZkFuaGFxNG1OejRQMEc3ZEpyS1dqT3hJU2FzMEgtUDlKOERUdE1QLWRrYmJJSWQwOFFYYXlwdlN1d0FHZUptNU42VFBycGRrY1hDemtIbkZZaHpoVU5VWWtiZ3d6ZUFpVVBZelg0SVBVOGpOUnlGdHQzMWlRR2VZN0pZUE0wSWdiZFZ5cTY?oc=5",
-      "fonte": "Degrau Cultural",
+      "fonte": "degraucultural.com.br",
       "data": "2024-08-19",
       "orgao": "STJ",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "TCU recomenda novo edital do concurso Banco do Brasil para PcD",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTZyaFVGaXdET0lkQi1GZWMxbExoWk5sYzNIVVdrd0VLM3JtWGplMGlzVm52Vjc2T2xvZEczM29yQzMyakZsNUVQVWVOcnRJY280Z2ZhTmlTMnNXS1FsaWwwdGxCRm1ySGN2S2VkMWRaR05vOVN6d2w4RENuWVhSZHhnMEdkNk9CQ1F3Yl9Db9IBlAFBVV95cUxNbmcwLVRzUlRtTW9kX2hHU1RGRVB0cGdDZGI3VXBLRXUwMm1INi15eUEtWG5xd3E3WFM4MnZTOUl2TjdsSzFYb0NtZGZjYTN0TU11elJqc254aVlFT2tFMEdQRFhfYUVjNVViQ1ZVTDNtYXFRVmM3Z3BNLVlWazdpU0FKTHF1U1QtelRzUmRYajFFOVpJ?oc=5",
+      "fonte": "Estratégia Concursos",
+      "data": "2024-03-22",
+      "orgao": "Banco do Brasil",
       "status": "Novidade"
     },
     {
@@ -4800,6 +4792,14 @@
       "fonte": "Estratégia Concursos",
       "data": "2023-09-05",
       "orgao": "TST",
+      "status": "Novidade"
+    },
+    {
+      "titulo": "CGU lança edital para concurso público com 375 vagas",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWsxejl1M2xCQmpreFJkbUREM2tTQTRoVTVBUzR3RWdfV3FxRnNCRjNmMXB6elB5TWxVdW11MWZDWmx5N2dvWEVycm5kMkpUYWc5ZS1UOXFRQ0J3QXRJdFhvVkxzeV9qVkdDTmpicFJWT0hkZ1JfUDJXbzdsRk9id3RmOEVoS2IwWUVYNzNxRG9uZ01hVGlUR2oyRVM4YW9GTGRFaWVQdlF3UWc?oc=5",
+      "fonte": "Agência Brasil",
+      "data": "2021-12-23",
+      "orgao": "CGU",
       "status": "Novidade"
     }
   ]
